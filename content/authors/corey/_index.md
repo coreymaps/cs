@@ -71,5 +71,7 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student using radar remote sensing to study terrestrial hydrologic processes and associated human impacts. I have interests where science and politics abut; and seek to develop insights from remote sensing observations that both support scientific research in terrestrial hydrology and diplomatic accountability in the management and monitoring of increasingly scarce freshwater resources. 
+I am a PhD student using radar remote sensing to study terrestrial hydrologic processes and associated human impacts. I have interests where earth science and politics abut; and seek to develop insights from remote sensing observations that both support scientific research in terrestrial hydrology and diplomatic accountability in the management and monitoring of increasingly scarce freshwater resources. 
+
+Before embarking on an academic career I was a social and environmental justice activist located in Oakland, CA. I worked on community-based police accountability as a volunteer with [Berkeley Copwatch](https://www.berkeleycopwatch.org) and helped organize the [direct action](https://www.occupythefarmfilm.com) that established the [Gill Tract Farm](https://www.gilltractfarm.org/) I became interested in greywater irrigation systems, working to install landry-to-landscape irrigation systems in backyards and urban farm projects beginning in 2010. In 2013, I decided to pursue a degree program in the natural sciences to be able to contribute work toward environemtal justice in the capacity of a technical expert. 
 
