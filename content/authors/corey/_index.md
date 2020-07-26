@@ -29,14 +29,14 @@ interests:
 education:
   courses:
   - course: PhD in Earth and Environmental Science
-    institution: Stanford University
+    institution: Graduate Center at the City University of New York
     year: (expected 2050)
   - course: MS in Geology
     institution: City University of New York
     year: 2019
   - course: Bachelors in Geology
     institution: University of California, Berkeley
-    year: 2016
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -71,5 +71,5 @@ user_groups:
 - Visitors
 ---
 
-Corey is 1/3 parts nerds and 2/3s liability.
+I am a PhD student using radar remote sensing to study terrestrial hydrologic processes and associated human impacts. I have interests where science and politics abut; and seek to develop insights from remote sensing observations that both support scientific research in terrestrial hydrology and diplomatic accountability in the management and monitoring of increasingly scarce freshwater resources. 
 
