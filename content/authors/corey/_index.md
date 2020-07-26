@@ -71,7 +71,7 @@ user_groups:
 - Visitors
 ---
 
-As a PhD student, I am using radar remote sensing to study terrestrial hydrologic processes and associated human impacts. I have interests where earth science and politics abut; and seek to develop insights from remote sensing observations that both support scientific research in terrestrial hydrology and diplomatic accountability in the management and monitoring of increasingly scarce freshwater resources. 
+As a PhD student, I use radar remote sensing to study terrestrial hydrologic processes and associated human impacts. I have interests where earth science and politics abut; and seek to develop insights from remote sensing observations that both support scientific research in terrestrial hydrology and diplomatic accountability in the management and monitoring of increasingly scarce freshwater resources. 
 
 Before embarking on an academic career, I was an activist for social and environmental justice in Oakland, CA and supported myself through the development of plant oil extraction systems for California's medical marijuana industry. I worked on community-based police accountability with [Berkeley Copwatch](https://www.berkeleycopwatch.org) and helped organize the [direct action](https://www.occupythefarmfilm.com) that established the [Gill Tract Farm](https://www.gilltractfarm.org/). Today, in addition to scientific research, I develop and employ earth observation methods to study hydro-hegemony in [transboundary waters](https://www.unwater.org/water-facts/transboundary-waters/) and the use of environmental modifications in conflict and colonialism.
 
