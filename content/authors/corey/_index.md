@@ -30,7 +30,7 @@ education:
   courses:
   - course: PhD in Earth and Environmental Science
     institution: Graduate Center at the City University of New York
-    year: (expected 2050)
+    year: (expected 2022)
   - course: MS in Geology
     institution: City University of New York
     year: 2019
