@@ -70,7 +70,7 @@ user_groups:
 - Visitors
 ---
 
-I use remote sensing to study terrestrial hydrologic processes and associated human impacts. Where earth science and geopolitics abut, I seek to develop insights from remote sensing observations that both support scientific research in terrestrial hydrology and diplomatic accountability in the management and monitoring of increasingly scarce freshwater resources. 
+I use remote sensing to study terrestrial hydrologic processes and associated human impacts. Where earth science and geopolitics abut, I seek to develop insights from remote sensing observations that support scientific research in terrestrial hydrology and diplomatic accountability in the management and monitoring of increasingly scarce freshwater resources. 
 
 I was born and raised in Berkeley, CA.
 
