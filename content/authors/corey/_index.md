@@ -72,6 +72,6 @@ user_groups:
 
 I use remote sensing to study terrestrial hydrologic processes and associated human impacts. Where earth science and geopolitics abut, I seek to develop insights from remote sensing observations that both support scientific research in terrestrial hydrology and diplomatic accountability in the management and monitoring of increasingly scarce freshwater resources. 
 
-Before embarking on an academic career, I was an activist based in Oakland, CA and supported myself through the development of plant oil extraction systems for California's medical marijuana industry. I worked on community-based police accountability with [Berkeley Copwatch](https://www.berkeleycopwatch.org) and helped organize a [direct action](https://en.wikipedia.org/wiki/Occupy_the_Farm) that established the [Gill Tract Farm](https://www.gilltractfarm.org/). My interests in hydrology took hold at the onset of the most recent [California drought](https://en.wikipedia.org/wiki/2011%E2%80%932017_California_drought).
+I was born and raised in Berkeley, CA.
 
 
