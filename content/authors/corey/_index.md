@@ -75,6 +75,6 @@ As a PhD student, I use radar remote sensing to study terrestrial hydrologic pro
 
 Before embarking on an academic career, I was an activist based in Oakland, CA and supported myself through the development of plant oil extraction systems for California's medical marijuana industry. I worked on community-based police accountability with [Berkeley Copwatch](https://www.berkeleycopwatch.org) and helped organize the [direct action](https://www.occupythefarmfilm.com) that established the [Gill Tract Farm](https://www.gilltractfarm.org/). 
 
-I like enjoy live music, riding bicycles, cooking, and cracking jokes at any available opportunity.
+I like enjoy live music, riding bicycles, cooking, and cracking jokes with friends and loved ones at any available opportunity.
 
 
