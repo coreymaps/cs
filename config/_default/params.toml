@@ -100,7 +100,7 @@ address = {street = "160 Convent Ave", city = "New York", region = "NY", postcod
 coordinates = {latitude = "40.819280", longitude = "-73.949502"}
 
 # Directions for visitors to locate you.
-directions = ""
+directions = "Room 926 of the Marshak Science Building. My desk is in the back left corner after you enter the room and walk past the front desk."
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
