@@ -70,8 +70,8 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student using remote sensing to study terrestrial hydrologic processes and associated human impacts. Where earth science and geopolitics abut, I seek to develop insights from remote sensing observations that support scientific research in terrestrial hydrology and diplomatic accountability in the management and monitoring of increasingly scarce freshwater resources. 
+I am a PhD student using remote sensing data to study terrestrial hydrologic processes and associated human impacts. Where earth science and geopolitics overlay, I seek to develop insights from remote sensing observations that support scientific research in terrestrial hydrology and diplomatic accountability in the management and monitoring of increasingly scarce freshwater resources. 
 
-I was born and raised in Berkeley, CA.
+I was born and raised in Berkeley, CA. 
 
 
