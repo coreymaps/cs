@@ -30,7 +30,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 ---
 
 Lack of *in situ* monitoring stations at extreme elevations limits how scientists can understand when mountain glaciers melt and for how long. I used over 32,000 Sentinel-1 synthetic aperture radar (SAR) images and a cloud computing platform to map glaicer melt timing and duration over the entirety of the Hindu Kush Himalaya region (76,831 glaciers).
