@@ -22,6 +22,7 @@ bio: I research radar remote sensing of terrestrial hydrologic processes.
 
 interests:
 - Remote sensing
+- Satellite radar
 - Hydrology
 - Critical physical geography
 
