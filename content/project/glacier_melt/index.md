@@ -41,13 +41,4 @@ An assumption that air temperatures greater than freezing must drive glacier mel
 
 Retreival of melt status, extent, and duration from SAR time series provides an observational dataset necessary to develop [real alternatives](https://www.nature.com/articles/s41598-019-41657-5) to temperature indexed melt models of glacier ablation.
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-177340127-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-177340127-1');
-</script>
-
+{{ template "_internal/google_analytics.html" . }}
