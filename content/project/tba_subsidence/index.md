@@ -37,7 +37,7 @@ url_video: ""
 slides: ""
 ---
 
-Some aquifers compact when groundwater is pumped out of water wells too quickly. This overpumping is termed, "groundwater overdraft," and causes the level of the ground to sink on the order of centimeters each year; exemplified through an iconic photo illustrating the long-term implications of subsidence in California's Central Valley. 
+Some aquifers compact when groundwater is pumped out of water wells too quickly. This overpumping is termed "groundwater overdraft" and causes the level of the ground to sink on the order of centimeters each year; exemplified through an iconic photo illustrating the long-term implications of subsidence in California's Central Valley. 
 
 <figure>
 <img class="special-img-class" src="/img/land-subsidence-poland-calif-sized.jpg" width="200" height="400" />
