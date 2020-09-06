@@ -75,10 +75,9 @@ In the region of the Dead Sea, I found subsidence mirroring the political bounda
 <figcaption>(Left) Setting image from Sentinel-2. (Middle) Boundaries drawn during the Oslo Accords and Israeli settlement outlines (blue). Area A is under Palestinian National Authority administration and Area C is controlled militarily by Israel. Area B, with mixed administration, is not included in the study region. (Right) Mean subsidence velocity in the southern Jordan River Valley (2018). Subsidence is focused along the movement barrier (a ditch to prevent vehicle crossings) in Jericho and in Jordan, near the Dead Sea. </figcaption>
 </figure>
 
-Subsidence around Jericho is likely driven by Palestinian reliance on groundwater resources from shallow Holocene alluvial aquifers underlaying agricultural regions of date palm plantation in eastern Jericho. Interestingly, in regions of date palm cultivation under the control of Israeli settlers, there is not such dramatic subsidence. 
+Subsidence around Jericho is likely driven by Palestinian reliance on groundwater resources from shallow Holocene alluvial aquifers underlaying agricultural regions of date palm cultivation in eastern Jericho. Interestingly, in regions of date palm cultivation under the control of Israeli settlers, there is not such dramatic subsidence. 
 
-In their research on the [political role of date palm agriculture in the West Bank](https://journals.sagepub.com/doi/abs/10.1177/2514848619876546), Julie Trottier, *et al*, explain that the Israeli Water Authority and Israeli settlers are advancing recycled wastewater reservoirs for date palm irrigation but Palestinian farmers are reduced to using shallow saline groundwater or available springwater.
+In their research on the political role of date palm agriculture in the West Bank, [Julie Trottier, *et al*](https://journals.sagepub.com/doi/abs/10.1177/2514848619876546), explain that the Israeli Water Authority and Israeli settlers are advancing recycled wastewater reservoirs for date palm irrigation but Palestinian farmers are reduced to using shallow saline groundwater or available springwater.
 
 Subsidence monitoring in transboundary aquifers can be used, where applicable, for an unbiased monitor of aquifer condition in pursuit of transparency, accountability, and sustainability of shared groundwater resources.
 
-{{ template "_internal/google_analytics.html" . }}
