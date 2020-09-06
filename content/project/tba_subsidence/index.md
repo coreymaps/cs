@@ -37,7 +37,7 @@ url_video: ""
 slides: ""
 ---
 
-Some aquifers compact when groundwater is pumped out of water wells too quickly. This overpumping is termed "groundwater overdraft" and causes the level of the ground to sink on the order of centimeters each year; exemplified through an iconic photo illustrating the long-term implications of subsidence in California's Central Valley. 
+Some aquifers compact when groundwater is pumped out of water wells too quickly. Termed, “groundwater overdraft,” this overpumping causes the level of the ground to sink on the order of centimeters each year and is exemplified through this iconic photo illustrating the long-term implications of subsidence in California’s Central Valley.
 
 <figure>
 <img class="special-img-class" src="/img/land-subsidence-poland-calif-sized.jpg" width="200" height="400" />
@@ -46,6 +46,12 @@ Some aquifers compact when groundwater is pumped out of water wells too quickly.
 </figure>
 
 In [transboundary aquifers](https://www.un-igrac.org/areas-expertise/transboundary-groundwaters) - regions where different diplomatic entities share groundwater - there is often a gap in the sharing of data across political boundaries, especially where those boundaries delimit geopolitical tension. A number of these aquifers are also the type of aquifer that will compact irreversibly due to groundwater overdraft.
+
+<figure>
+<img class="special-img-class" src="/img/tba_usmex_wb.png" />
+
+<figcaption>Transboundary aquifers of the world and two that I highlighted in this study. The location of the drilling photo marked at the top of this post is marked in the lower left hand panel. Data: UN-International Groundwater Resource Assessment Center</figcaption>
+</figure>
 
 Drawing from political scientific research into the governing characteristics of political institutions that [successfully manage common pool resources](https://www.cambridge.org/core/books/governing-the-commons/A8BB63BC4A1433A50A3FB92EDBBB97D5), I sought to use cutting-edge methods in satellite radar remote sensing to fill a key characteristic of governing institutions for water sustainability: unbiased monitoring of the condition of the shared resource.
 
