@@ -75,13 +75,4 @@ In their research on the [political role of date palm agriculture in the West Ba
 
 Subsidence monitoring in transboundary aquifers can be used, where applicable, for an unbiased monitor of aquifer condition in pursuit of transparency, accountability, and sustainability of shared groundwater resources.
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-177340127-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-177340127-1');
-</script>
-
+{{ template "_internal/google_analytics.html" . }}
