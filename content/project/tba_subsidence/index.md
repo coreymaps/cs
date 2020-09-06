@@ -74,3 +74,14 @@ Subsidence around Jericho is likely driven by Palestinian reliance on groundwate
 In their research on the [political role of date palm agriculture in the West Bank](https://journals.sagepub.com/doi/abs/10.1177/2514848619876546), Julie Trottier, *et al*, explain that the Israeli Water Authority and Israeli settlers are advancing recycled wastewater reservoirs for date palm irrigation but Palestinian farmers are reduced to using shallow saline groundwater or available springwater.
 
 Subsidence monitoring in transboundary aquifers can be used, where applicable, for an unbiased monitor of aquifer condition in pursuit of transparency, accountability, and sustainability of shared groundwater resources.
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-177340127-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-177340127-1');
+</script>
+
