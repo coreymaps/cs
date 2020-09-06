@@ -33,9 +33,6 @@ subtitle = ""
      name = "Hydrology"
      tag = "Hydrology"
 
-    [[content.filter_button]]
-     name = "Activism"
-     tag = "Activism"
 
 #    [[content.filter_button]]
 #     name = "Critical Cartographies"
