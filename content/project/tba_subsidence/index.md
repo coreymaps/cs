@@ -66,7 +66,7 @@ In the region of the Dead Sea, I found subsidence mirroring the political bounda
 <figure>
 <img class="special-img-class" src="/img/wb_subsidence.png" />
 
-<figcaption>(Left) Setting image from Sentinel-2. (Middle) Boundaries drawn during the Oslo Accords and Israeli settlement outlines (blue). "Area A" is under Palestinian National Authority administration and Area C is controlled militarily by Israel. (Right) Mean subsidence velocity in the southern Jordan River Valley (2018). Subsidence is focused along the movement barrier (a ditch to prevent vehicle crossings) in Jericho and in Jordan, near the Dead Sea. </figcaption>
+<figcaption>(Left) Setting image from Sentinel-2. (Middle) Boundaries drawn during the Oslo Accords and Israeli settlement outlines (blue). Area A is under Palestinian National Authority administration and Area C is controlled militarily by Israel. Area B, with mixed administration, is not included in the study region. (Right) Mean subsidence velocity in the southern Jordan River Valley (2018). Subsidence is focused along the movement barrier (a ditch to prevent vehicle crossings) in Jericho and in Jordan, near the Dead Sea. </figcaption>
 </figure>
 
 Subsidence around Jericho is likely driven by Palestinian reliance on groundwater resources from shallow Holocene alluvial aquifers underlaying agricultural regions of date palm plantation in eastern Jericho. Interestingly, in regions of date palm cultivation under the control of Israeli settlers, there is not such dramatic subsidence. 
