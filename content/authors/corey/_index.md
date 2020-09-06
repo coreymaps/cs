@@ -72,6 +72,6 @@ email: ""
 
 I am a PhD candidate developing methods in satellite remote sensing to study terrestrial hydrologic processes and associated human impacts. Where earth science and water politics overlay, I seek to develop insights from remote sensing observations that support scientific research in terrestrial hydrology and diplomatic accountability in the monitoring and management of increasingly scarce freshwater resources. 
 
-I was born and raised in Berkeley, CA. 
+I was born and raised in Berkeley, CA and am currently based in New York City, where I enjoy exploring the five boroughs on my bike and thinking about the day where I will again be smooshed into a basement jazz club until the wee hours of the morning.
 
 
