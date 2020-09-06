@@ -47,13 +47,13 @@ Some aquifers compact when groundwater is pumped out of water wells too quickly.
 
 In [transboundary aquifers](https://www.un-igrac.org/areas-expertise/transboundary-groundwaters) - regions where different diplomatic entities share groundwater - there is often a gap in the sharing of data across political boundaries, especially where those boundaries delimit geopolitical tension. A number of these aquifers are also the type of aquifer that will compact irreversibly due to groundwater overdraft.
 
-Drawing from political scientific research into the governing characteristics of political institutions that [successfully manage common pool resources](https://www.cambridge.org/core/books/governing-the-commons/A8BB63BC4A1433A50A3FB92EDBBB97D5), I sought to use cutting-edge methods in satellite radar remote sensing to fill a key characteristic of governing institutions for collective action for water sustainability: unbiased monitoring of the condition of the shared resource.
+Drawing from political scientific research into the governing characteristics of political institutions that [successfully manage common pool resources](https://www.cambridge.org/core/books/governing-the-commons/A8BB63BC4A1433A50A3FB92EDBBB97D5), I sought to use cutting-edge methods in satellite radar remote sensing to fill a key characteristic of governing institutions for water sustainability: unbiased monitoring of the condition of the shared resource.
 
 In October 2019 I travelled to Valencia, Spain to give an [oral presentation](https://agu.confex.com/agu/19chapman5/meetingapp.cgi/Paper/488036) on monitoring subsidence in transboundary aquifers at the American Geophysical Union's Chapman Conference on the [Quest for Sustainability in Heavily Stressed Aquifers](https://connect.agu.org/aguchapmanconference/upcoming-chapmans/aquifers-sustainability).
 
 To illustrate the potential value for diplomatic accountability using this technique, I ran subsidence analyses using data from the [Sentinel-1 constellation](https://sentinel.esa.int/web/sentinel/missions/sentinel-1) and the [Stanford Method for Persistent Scatterers](https://github.com/dbekaert/StaMPS) in two regions with shared aquifers and geopolitical tension: the US/Mexico border and the southern Jordan River Valley.
 
-I found mean subsidence rates of 5 cm/yr near a cluster of pivot-irrigated agricultural fields just on the Mexico side of the border with New Mexico. 
+I found mean subsidence rates of 5 cm/year near a cluster of pivot-irrigated agricultural fields just on the Mexico side of the border with New Mexico. 
 
 <figure>
 <img class="special-img-class" src="/img/us_mexico_sub.png" />
