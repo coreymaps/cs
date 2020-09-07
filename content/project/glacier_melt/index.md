@@ -33,10 +33,10 @@ url_video: ""
 slides: ""
 ---
 
-Lack of *in situ* monitoring stations at extreme elevations limits how scientists can understand when mountain glaciers melt and for how long. I used over 32,000 Sentinel-1 synthetic aperture radar (SAR) images and a cloud computing platform to map glacier melt timing and duration over the entirety of the Hindu Kush Himalaya region (76,831 glaciers).
+Lack of *in situ* monitoring stations at extreme elevations limits how scientists can understand how mountain glacier are melting with the changing climate. I used over 32,000 Sentinel-1 synthetic aperture radar (SAR) images and a cloud computing platform to map glacier melt timing and duration over the entirety of the Hindu Kush Himalaya region (76,831 glaciers).
 
 A disconcerting observation we made extends [recent *in situ* observations]( https://doi.org/10.1175/BAMS-D-19-0198.1) from the Khumbu Glacier on Mount Everest that shows glacier melt is occurring at temperatures that never exceed -10ºC. Melt retrievals from our study show there is meltwater persistence for up to two months of the year at the highest glaciated elevations on earth (>7,000m a.s.l).
 
-An assumption that air temperatures greater than freezing must drive glacier melt used to build, "temperature indxed melt models," must now be retired for a new generation of models that simulate glacier ablation based on the surface energy balance.
+An assumption that air temperatures above 0ºC drive glacier melt must now be retired for a new generation of glacier melt models based on the glacier surface energy balance.
 
-Retreival of melt status, extent, and duration from SAR time series provides an observational dataset necessary to develop [real alternatives](https://www.nature.com/articles/s41598-019-41657-5) to temperature indexed melt models of glacier ablation.
+Retreival of melt status, extent, and duration from SAR time series provides an observational constraint on melt timing and duration necessary to develop [real alternatives](https://www.nature.com/articles/s41598-019-41657-5) to temperature indexed melt models of glacier ablation.
