@@ -1,5 +1,5 @@
 ---
-title: Glacier Melt and Satellite Radar in the Hindu Kush Himalaya
+title: Glacier melt and satellite radar in the Hindu Kush Himalaya
 summary: Melt timing for Third Pole glaciers from synthetic aperture radar time series.
 tags:
 - Cryosphere
