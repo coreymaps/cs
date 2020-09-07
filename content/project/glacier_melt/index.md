@@ -35,7 +35,7 @@ A disconcerting observation we made extends [recent *in situ* observations]( htt
 
 <figure>
 	<img class="special-img-class" src="/img/khumbu_melt.png" />
-	<figcaption>Timing of refreeze in the region of the Khumbu glacier, Mount Everest (2019). The red contour line at 6,300m shows the maximum elevation of and interpolated 0ºC isotherm; above that contour line interpolated air temperatures do not exceeed freezing. There is a signal of delayed refreeze within known regions of glacier percolation, where we hypothesize SAR backscatter gradually increases with an increase in depth of the frozen percolation zone.</figcaption>
+	<figcaption>Timing of refreeze in the region of the Khumbu glacier, Mount Everest (2019). The red contour line at 6,300m shows the maximum elevation of an interpolated 0ºC isotherm; above that contour line interpolated air temperatures do not exceeed freezing. There is a signal of delayed refreeze within known regions of glacier percolation, where we hypothesize SAR backscatter gradually increases with an increase in depth of the frozen percolation zone.</figcaption>
 </figure>
 
 An assumption that air temperatures above 0ºC drive glacier melt must now be retired for a new generation of glacier melt models based on the glacier surface energy balance.
