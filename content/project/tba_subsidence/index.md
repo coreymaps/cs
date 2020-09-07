@@ -20,10 +20,6 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/borderwater
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -50,7 +46,7 @@ In [transboundary aquifers](https://www.un-igrac.org/areas-expertise/transbounda
 <figure>
 <img class="special-img-class" src="/img/tba_usmex_wb.png" />
 
-<figcaption>Transboundary aquifers of the world and two that I highlighted in this study. The location of the drilling photo marked at the top of this post is marked in the lower left hand panel. Data: UN-International Groundwater Resource Assessment Center</figcaption>
+<figcaption>Transboundary aquifers of the world and two that I highlighted in this study. The location of the drilling photo at the top of this post is marked in the lower left hand panel. Data: UN-International Groundwater Resource Assessment Center</figcaption>
 </figure>
 
 Drawing from political scientific research into the governing characteristics of political institutions that [successfully manage common pool resources](https://www.cambridge.org/core/books/governing-the-commons/A8BB63BC4A1433A50A3FB92EDBBB97D5), I sought to use cutting-edge methods in satellite radar remote sensing to fill a key characteristic of governing institutions for water sustainability: unbiased monitoring of the condition of the shared resource.
