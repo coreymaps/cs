@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate in Earth and Environmental Science
+role: PhD Student in Earth and Environmental Science
 
 # Organizations/Affiliations
 organizations:
@@ -71,7 +71,7 @@ email: ""
 # - Visitors
 ---
 
-I am a PhD candidate developing methods in satellite remote sensing to study terrestrial hydrologic processes and associated human impacts. Where earth science and water politics overlay, I seek to develop insights from remote sensing observations that support scientific research in terrestrial hydrology and diplomatic accountability in the monitoring and management of increasingly scarce freshwater resources. 
+I am a PhD student developing methods in satellite remote sensing to study terrestrial hydrologic processes and associated human impacts. Where earth science and water politics overlay, I seek to develop insights from remote sensing observations that support scientific research in terrestrial hydrology and diplomatic accountability in the monitoring and management of increasingly scarce freshwater resources. 
 
 I was born and raised in Berkeley, CA and am currently based in New York City, where I enjoy pedaling around the region on my bike and long for the day to again be smooshed inside a basement jazz club into the wee hours of the morning.
 
