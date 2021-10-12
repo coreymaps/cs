@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I research radar remote sensing of terrestrial hydrologic processes.
+bio: 
 
 interests:
 - Remote sensing
@@ -30,7 +30,7 @@ education:
   courses:
   - course: PhD in Earth and Environmental Science
     institution: Graduate Center at the City University of New York
-    year: (expected 2022)
+    year: (expected 2023)
   - course: MS in Geology
     institution: City University of New York
     year: 2019
@@ -48,13 +48,13 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:cscher@gradcenter.cuny.edu".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/BorderWater
+  link: https://twitter.com/coreymaps
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=87bjVPcAAAAJ&hl=es
 - icon: github
   icon_pack: fab
-  link: https://github.com/porefluid
+  link: https://github.com/coreymaps
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -71,8 +71,8 @@ email: ""
 # - Visitors
 ---
 
-I am a PhD student developing methods in satellite remote sensing to study terrestrial hydrologic processes and associated human impacts. Where earth science and water politics overlay, I seek to develop insights from remote sensing observations that support scientific research in terrestrial hydrology and diplomatic accountability in the monitoring and management of increasingly scarce freshwater resources. 
+I am a PhD student developing insights into a changing Earth through the lens of satellite remote sensing. The technical depth of my work lies in the science of radar imaging and seeks to develop novel methodologies to measure changes occuring at the Earth's surface. The breadth of my work spans from applications in terrestrial hydrology to tracking the physical and environmental aspects of geopolitical conflict.
 
-I was born and raised in Berkeley, CA and am currently based in New York City, where I enjoy pedaling around the region on my bike and long for the day to again be smooshed inside a basement jazz club into the wee hours of the morning.
+I was born and raised in Berkeley, CA and am currently based in New York City.
 
 
