@@ -3,7 +3,7 @@ title: "Mapping seasonal glacier melt across the Hindu Kush Himalaya with time s
 authors:
 - corey
 date: "2021-09-24T00:00:00Z"
-doi: "https://tc.copernicus.org/articles/15/4465/2021/tc-15-4465-2021.html"
+doi: "https://doi.org/10.5194/tc-15-4465-2021"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-09-24T00:00:00Z"
