@@ -71,7 +71,7 @@ email: ""
 # - Visitors
 ---
 
-I am a PhD student developing insights into hydrology and environvironment through the lens of satellite remote sensing. The technical depth of my work lies in the science and application of satellite radar imaging. The breadth of my work spans from applications in terrestrial hydrology and cryospheric sciences to measuring the physical and environmental aspects of geopolitical conflict.
+I am a PhD student developing insights into a changing earth through the lens of satellite remote sensing. The technical depth of my work lies in the science and application of satellite radar imaging. The breadth of my work spans from applications in terrestrial hydrology and cryospheric sciences to measuring the physical and environmental aspects of geopolitical conflict.
 
 I was born and raised in Berkeley, CA and am currently based in New York City.
 
