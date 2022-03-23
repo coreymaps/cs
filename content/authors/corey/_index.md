@@ -73,6 +73,6 @@ email: ""
 
 I'm a PhD student in Earth and Environmental Sciences at the [CUNY Grad Center](https://www.gc.cuny.edu/earth-and-environmental-sciences). The technical depth of my work is rooted in the science and application of radar remote sensing for Earth observation. The breadth of my work spans applications in terrestrial hydrology and cryospheric sciences to the physical and environmental aspects of geopolitical conflict, resource extraction, and human migration.
 
-I was born and raised in Berkeley, CA and am currently based in New York City. I sit at the [City College of New York](https://www.ccny.cuny.edu/eas) (CCNY) in West Harlem and work under the major supervision of [Professor Kyle McDonald](https://science.jpl.nasa.gov/people/McDonald/). I enjoy teaching undergraduate earth science courses, seeing with art, music and riding my bike around New York City.
+I was born and raised in Berkeley, CA and am currently based in New York City. I sit at the [City College of New York](https://www.ccny.cuny.edu/eas) (CCNY) in West Harlem and work under the major supervision of [Professor Kyle McDonald](https://science.jpl.nasa.gov/people/McDonald/). I enjoy teaching undergraduate earth science courses, enjoying art, music, and riding my bike around New York City.
 
 
