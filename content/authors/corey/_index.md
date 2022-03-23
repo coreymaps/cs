@@ -71,8 +71,8 @@ email: ""
 # - Visitors
 ---
 
-I am a PhD student developing insights into a changing earth through the lens of satellite radar imaging. The technical depth of my work rests in the science and application of radar remote sensing for Earth observation. The breadth of my work spans applications in terrestrial hydrology and cryospheric sciences to measuring the physical and environmental aspects of geopolitical conflict.
+I am a PhD student in Earth and Environmental Sciences at the [CUNY Grad Center](https://www.gc.cuny.edu/earth-and-environmental-sciences). The technical depth of my work is rooted in the science and application of radar remote sensing for Earth observation. The breadth of my work spans applications in terrestrial hydrology and cryospheric sciences to the physical and environmental aspects of geopolitical conflict, resource extraction, and human migration.
 
-I was born and raised in Berkeley, CA and am currently based in New York City.
+I was born and raised in Berkeley, CA and am currently based in New York City. I sit at the [City College of New York](https://www.ccny.cuny.edu/eas) (CCNY) in West Harlem and work under the major supervision of Professor Kyle McDonald. I enjoy teaching undergratuate earth sciences courses, and riding my bike around the city.
 
 
