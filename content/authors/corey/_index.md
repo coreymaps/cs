@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I research radar remote sensing of terrestrial hydrologic processes.
+bio: 
 
 interests:
 - Remote sensing
@@ -30,7 +30,7 @@ education:
   courses:
   - course: PhD in Earth and Environmental Science
     institution: Graduate Center at the City University of New York
-    year: (expected 2022)
+    year: (expected 2023)
   - course: MS in Geology
     institution: City University of New York
     year: 2019
@@ -48,7 +48,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:cscher@gradcenter.cuny.edu".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/BorderWater
+  link: https://twitter.com/coreymaps
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=87bjVPcAAAAJ&hl=es
@@ -71,8 +71,8 @@ email: ""
 # - Visitors
 ---
 
-I am a PhD student developing methods in satellite remote sensing to study terrestrial hydrologic processes and associated human impacts. Where earth science and water politics overlay, I seek to develop insights from remote sensing observations that support scientific research in terrestrial hydrology and diplomatic accountability in the monitoring and management of increasingly scarce freshwater resources. 
+I'm a PhD student in Earth and Environmental Sciences at the [CUNY Grad Center](https://www.gc.cuny.edu/earth-and-environmental-sciences). The technical depth of my work is rooted in the science and application of radar remote sensing for Earth observation. The breadth of my work spans applications in terrestrial hydrology and cryospheric sciences to the physical and environmental aspects of geopolitical conflict and resource extraction.
 
-I was born and raised in Berkeley, CA and am currently based in New York City, where I enjoy exploring the five boroughs on my bike and thinking about the day where I will again be smooshed in a basement jazz club into the wee hours of the morning.
+I was born and raised in Berkeley, CA and am currently based in New York City. I sit at the [City College of New York](https://www.ccny.cuny.edu/eas) (CCNY) in West Harlem and work under the major supervision of [Professor Kyle McDonald](https://science.jpl.nasa.gov/people/McDonald/). I enjoy teaching undergraduate earth science courses, seeing live music, and riding my bike around New York City.
 
 

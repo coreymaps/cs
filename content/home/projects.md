@@ -25,13 +25,13 @@ subtitle = ""
      name = "All"
      tag = "*"
 
-   [[content.filter_button]]
-     name = "Cryosphere"
-     tag = "Cryosphere"
+#   [[content.filter_button]]
+#     name = "Cryosphere"
+#     tag = "Cryosphere"
 
-   [[content.filter_button]]
-     name = "Hydrology"
-     tag = "Hydrology"
+#   [[content.filter_button]]
+#     name = "Hydrology"
+#     tag = "Hydrology"
 
 
 #    [[content.filter_button]]
