@@ -13,7 +13,7 @@ author: corey
 external_link: ""
 
 image:
-  caption: "An image I derived using the Landsat image archive to support the Forensic Architecture investigation. This map illustrates long-term environmental changes over Gaza. Red areas are regions where vegetative activity has decreased over time."
+  caption: "This map illustrates long-term environmental changes over Gaza. Red areas are regions where vegetative activity has decreased over time."
   focal_point: Smart
 
 links:
@@ -30,9 +30,9 @@ url_video: ""
 slides: ""
 ---
 
-I supported a [Forensic Architecture investigation](https://forensic-architecture.org/investigation/herbicidal-warfare-in-gaza) into the environmental impacts to Gazan farms from Israeli herbicide spraying along the Gaza siege perimeter. I analyzed Landsat optical image records alongside dates and locations of known herbicide spraying events to generate co-event change in vegetation indices following the sprayings. The maps I made were used to make illustrative comparisons to fluid dynamics models of herbicide drift showing the carriage of herbicide hundreds of meters into Gaza carried by westward winds originating on the Israeli side of the siege perimeter.
+I supported a [Forensic Architecture investigation](https://forensic-architecture.org/investigation/herbicidal-warfare-in-gaza) into the environmental impacts from Israeli military herbicide spraying along the Gaza siege perimeter on Gazan farms and farmers. I analyzed Landsat optical image records alongside dates and locations of known herbicide spraying events to generate maps of co-event change in vegetation indices following each spraying. These maps were used to make illustrative comparisons to fluid dynamic simulations of herbicide drift from Israel and carried by westward winds into Gaza
 
-As part of the project, I also created time series satellite image mosaics of the "greenest pixels" annually over Gaza. These images illustrate the build-up of densely-populated urban areas and reveals the creation of the siege perimeter maintained by Israel on the north and east and by Egypt to the south.
+As part of the project, I also created time series satellite image mosaics of the "greenest pixels" annually over the regions. This timelapse illustrates the build-up of densely-populated urban areas and shows the carving-out of Gaza siege perimeter.
 
 <figure>
 <img class="special-img-class" src="/img/gaza_greenest.gif"/>
