@@ -33,5 +33,3 @@ slides: ""
 ---
 
 I supported a [Forensic Architecture](https://forensic-architecture.org/) investigation commissioned by [Greenpeace International](https://www.greenpeace.org/international/) into the intentionality of peatland fires over land concessions for palm oil cultivation in Indonesia. Find out more about the investigation [here](https://forensic-architecture.org/investigation/intentional-fires-in-papua)
-
-As part of the project, I also created time series satellite image mosaics of the "greenest pixels" annually over Gaza. These images illustrate the striking degree of urbanization and also reveal the creation of the siege perimeter maintain by Israel on the north and east and by Egypt to the south.
