@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student in Earth and Environmental Science
+role: PhD Student in Earth and Environmental Sciences
 
 # Organizations/Affiliations
 organizations:
