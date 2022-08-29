@@ -71,8 +71,8 @@ email: ""
 # - Visitors
 ---
 
-I'm a PhD student in Earth and Environmental Sciences at the [CUNY Grad Center](https://www.gc.cuny.edu/earth-and-environmental-sciences). The technical depth of my work is rooted in the science and application of radar remote sensing for Earth observation. The breadth of my work spans applications in terrestrial hydrology and cryospheric sciences to the physical and environmental aspects of geopolitical conflict.
+I'm a fourth year PhD student in Earth and Environmental Sciences at the [CUNY Grad Center](https://www.gc.cuny.edu/earth-and-environmental-sciences). The technical depth of my work is rooted in the science and application of satellite radar remote sensing for Earth observation. The breadth of my work spans applications in terrestrial hydrology and cryospheric sciences to the physical and environmental aspects of geopolitical conflict.
 
-I was born and raised in Berkeley, CA and am currently based in New York City. I sit at the [City College of New York](https://www.ccny.cuny.edu/eas) (CCNY) in West Harlem.
+I was born and raised in Berkeley, CA and am currently based in New York City. I sit and teach at the [City College of New York](https://www.ccny.cuny.edu/eas) (CCNY) in West Harlem.
 
 

@@ -32,13 +32,10 @@ slides: ""
 
 I supported a [Forensic Architecture investigation](https://forensic-architecture.org/investigation/herbicidal-warfare-in-gaza) into the environmental impacts from Israeli military herbicide spraying along the Gaza siege perimeter on Gazan farms and farmers. I analyzed Landsat optical image records alongside dates and locations of known herbicide spraying events to generate maps of co-event change in vegetation indices following each spraying. These maps were used to make illustrative comparisons to fluid dynamic simulations of herbicide drift from Israel and carried by westward winds into Gaza
 
-As part of the project, I also created time series satellite image mosaics of the "greenest pixels" annually over the regions. This timelapse illustrates the build-up of densely-populated urban areas and shows the carving-out of Gaza siege perimeter.
+As part of the project, I also created time series satellite image mosaics of the "greenest pixels" annually over the regions. This timelapse illustrates the build-up of densely-populated urban areas and shows the carving-out of the Gaza siege perimeter over time.
 
 <figure>
 <img class="special-img-class" src="/img/gaza_greenest.gif"/>
 
 <figcaption>Annual greenest pixel over Gaza (1984-2018). Contains modified USGS Landsat data.</figcaption>
 </figure>
-
-Find out more about that project [here](https://forensic-architecture.org/investigation/herbicidal-warfare-in-gaza).
-
