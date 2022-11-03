@@ -31,6 +31,6 @@ url_video: ""
 slides: ""
 ---
 
-I will be co-teaching the first session with [Professor Jamon Van Den Hoek](https://www.conflict-ecology.org/) on monitoring urban damage during military conflict. I'll specifically discuss using multitemporal [interferometric synthetic aperture radar (InSAR)](https://en.wikipedia.org/wiki/Interferometric_synthetic-aperture_radar) [coherence](https://en.wikipedia.org/wiki/Coherence_(physics)) data to map proxies for damage to built infrastructure.
+I co-taught the first session with [Professor Jamon Van Den Hoek](https://www.conflict-ecology.org/) on monitoring urban damage during military conflict. We discussed the use of multitemporal [interferometric synthetic aperture radar (InSAR)](https://en.wikipedia.org/wiki/Interferometric_synthetic-aperture_radar) [coherence](https://en.wikipedia.org/wiki/Coherence_(physics)) data to map proxies for damage to built infrastructure during military conflict.
 
-Learn more and register for the training [here](https://appliedsciences.nasa.gov/join-mission/training/english/arset-humanitarian-applications-using-nasa-earth-observations)
+Check out a recording of the training, presentation slides, and links to example code [here](https://appliedsciences.nasa.gov/join-mission/training/english/arset-humanitarian-applications-using-nasa-earth-observations)

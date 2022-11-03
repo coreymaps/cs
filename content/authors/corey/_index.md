@@ -71,8 +71,8 @@ email: ""
 # - Visitors
 ---
 
-I'm a PhD student in Earth and Environmental Sciences at the [CUNY Grad Center](https://www.gc.cuny.edu/earth-and-environmental-sciences). The technical depth of my work is rooted in the science of satellite [synthetic aperture radar](https://www.earthdata.nasa.gov/learn/backgrounders/what-is-sar) for [Earth observation](https://en.wikipedia.org/wiki/Earth_observation). The breadth of my work spans applications in terrestrial hydrology and cryospheric sciences to the physical and environmental aspects of geopolitical conflict. I develop scientific algorithms to translate raw forms of satellite radar data into information valuable to the study of water resources, water related hazards, and information that can support humanitarian decision-making and emergency response.
+I study natural hazards and disasters that occur in transboundary, fragile and conflicted-affected situations. I was trained in Geology and took an early interest in active remote sensing of earth surface dynamics, namely technologies such as synthetic aperture radar to monitor earth surface deformation. As a PhD student in the Department of Earth and Environmental Sciences at the [CUNY Grad Center](https://www.gc.cuny.edu/earth-and-environmental-sciences), I develop and apply scientific algorithms to study natural hazards in conflict zones and the physical and environmental aspects of war.
 
-I was born and raised in Berkeley, CA and am currently based in New York City. I sit at the [City College of New York](https://www.ccny.cuny.edu/eas) (CCNY) in West Harlem where I teach undergraduate-level laboratory sections introducing students to the earth and environmental sciences.
+I was born and raised in Berkeley, CA and am currently based in New York City. I sit at the [Department of Earth and Atmospheric Sciences](https://www.ccny.cuny.edu/eas) at the City College of New York in Harlem where I teach undergraduate-level laboratory sections introducing students to the earth and environmental sciences.
 
 
