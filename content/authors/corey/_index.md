@@ -72,8 +72,8 @@ email: ""
 # - Visitors
 ---
 
-I study hazards and disasters that occur in transboundary, fragile and conflicted-affected situations. I was trained in geology and took an early interest in active remote sensing of Earth surface dynamics, namely technologies such as synthetic aperture radar to monitor earth surface deformation. As a PhD student in the Department of Earth and Environmental Sciences at the [CUNY Grad Center](https://www.gc.cuny.edu/earth-and-environmental-sciences), I develop and apply scientific algorithms to study hydrologic hazards, disaster impacts, and the physical and environmental aspects of war and conflict. My work interrogates the interrelationships between conflict and cooperation with hazards and disasters through the gaze of satellite remote sensing.
+I study hazards and disasters in transboundary, fragile and conflict-affected situations. My dissertation research at the [CUNY Grad Center](https://www.gc.cuny.edu/earth-and-environmental-sciences) utilizes satellite remote sensing, geophysical, and environmental data to study hazards, disasters, and the physical and environmental aspects of war and conflict. My work interrogates the interrelationships between conflict and cooperation with hazards and disasters primarily through the gaze of satellite remote sensing.
 
-I was born and raised in Berkeley, CA and am currently based in New York City. I sit at the [Department of Earth and Atmospheric Sciences](https://www.ccny.cuny.edu/eas) at the City College of New York in Harlem where I teach undergraduate-level laboratory sections introducing students to the earth and environmental sciences.
+In addition to publishing in peer-reviewed academic journals, my work supporting visual investiagtions at the intersection of conflict and environment has appeared in [BBC](https://www.bbc.com/news/world-asia-57845156), the [Guardian](https://www.theguardian.com/world/2019/jul/19/israeli-spraying-of-herbicide-near-gaza-harming-palestinian-crops), and in [contemporary art exhibitions](https://u-jazdowski.pl/en/programme/exhibitions/forensic-architecture?tid=t_content) on environmental violence.
 
 
