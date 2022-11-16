@@ -72,8 +72,8 @@ email: ""
 # - Visitors
 ---
 
-My dissertation research at the [CUNY Grad Center](https://www.gc.cuny.edu/earth-and-environmental-sciences) utilizes satellite remote sensing, geophysical, and geopolitical data to study transboundary hazards, disasters, and the physical and environmental aspects of war and conflict. I try to interrogate the interrelationships between political conflict and cooperation with "natural" hazards and disasters through the gaze of satellite remote sensing.
+I study relationships between natural hazards and political conflict through the gaze of satellite remote sensing.
 
-In addition to academic research and publishing, I collaborate on journalistic and humanitarian investigations at the intersection of conflict and environment. Some of my work supporting visual investigations has appeared in news outlets like the [BBC](https://www.bbc.com/news/world-asia-57845156), the [Guardian](https://www.theguardian.com/world/2019/jul/19/israeli-spraying-of-herbicide-near-gaza-harming-palestinian-crops), and in [contemporary art exhibitions](https://u-jazdowski.pl/en/programme/exhibitions/forensic-architecture?tid=t_content) on environmental violence. 
+I also collaborate on journalistic and humanitarian investigations at the intersection of conflict and environment. Some of my work supporting visual investigations has appeared in news outlets like the [BBC](https://www.bbc.com/news/world-asia-57845156), the [Guardian](https://www.theguardian.com/world/2019/jul/19/israeli-spraying-of-herbicide-near-gaza-harming-palestinian-crops), and in [contemporary art exhibitions](https://u-jazdowski.pl/en/programme/exhibitions/forensic-architecture?tid=t_content) on environmental violence. 
 
 
