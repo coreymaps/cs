@@ -25,7 +25,7 @@ interests:
 - Synthetic aperture radar
 - Hydrology
 - Political ecology
-- Critical physical geography
+
 
 education:
   courses:
