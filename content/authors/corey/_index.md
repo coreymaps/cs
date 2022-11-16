@@ -21,9 +21,8 @@ organizations:
 bio: 
 
 interests:
-- Remote sensing
-- Synthetic aperture radar
 - Hydrology
+- Remote sensing
 - Political ecology
 
 
@@ -31,7 +30,7 @@ education:
   courses:
   - course: PhD in Earth and Environmental Science
     institution: Graduate Center at the City University of New York
-    year: (expected 2023)
+    year: (expected 2024)
   - course: MS in Geology
     institution: City University of New York
     year: 2019
