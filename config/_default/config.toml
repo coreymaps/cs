@@ -8,7 +8,7 @@
 googleAnalytics = "UA-177340127-1"
 
 # Title of your site
-title = "Corey Scher"
+title = "CS"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
@@ -16,7 +16,7 @@ baseurl = "http://whoiscorey.com/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = "Corey Scher © 2020"
+copyright = "Corey Scher © 2022"
 
 ############################
 ## Advanced options below ##
