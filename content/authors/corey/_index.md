@@ -22,6 +22,7 @@ bio:
 
 interests:
 - Hydrology
+- Earth science
 - Remote sensing
 - Political ecology
 
