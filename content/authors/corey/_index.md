@@ -21,10 +21,8 @@ organizations:
 bio: 
 
 interests:
-- Hydrology
-- Earth science
-- Remote sensing
-- Political ecology
+- Political geology
+- Synthetic aperture radar
 
 
 education:
@@ -72,7 +70,7 @@ email: ""
 # - Visitors
 ---
 
-I study relationships between natural hazards, disasters, and political conflict through the gaze of satellite remote sensing.
+I study political conflict as a driver of geohazard vulnerability through the gaze of satellite radar Earth observation.
 
 I also collaborate on journalistic and humanitarian investigations at the interface of conflict and environment. Some of my work supporting visual investigations has appeared in news outlets like the [BBC](https://www.bbc.com/news/world-asia-57845156), the [Guardian](https://www.theguardian.com/world/2019/jul/19/israeli-spraying-of-herbicide-near-gaza-harming-palestinian-crops), and in [contemporary art exhibitions](https://u-jazdowski.pl/en/programme/exhibitions/forensic-architecture?tid=t_content) on environmental violence. 
 
