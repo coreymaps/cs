@@ -21,8 +21,9 @@ organizations:
 bio: 
 
 interests:
-- Political geology
-- Synthetic aperture radar
+- Geology
+- Geodesy
+- Poltiical ecology
 
 
 education:
