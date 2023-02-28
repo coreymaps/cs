@@ -22,8 +22,8 @@ bio:
 
 interests:
 - Geology
-- Geodesy
 - Poltiical ecology
+- Interferometric synthetic aperture radar
 
 
 education:
@@ -64,6 +64,7 @@ social:
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
+
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 # user_groups:
@@ -71,7 +72,7 @@ email: ""
 # - Visitors
 ---
 
-I study political conflict as a driver of geohazard vulnerability using technical methods from geodesy and Earth observation.
+I study geohazard vulnerability in regions of political conflict. I was trained in Geology at UC Berkeley under the supervision of [Walter Alvarez](https://en.wikipedia.org/wiki/Walter_Alvarez) and gained exposure to environmental data science and Earth observation through a two-year apprenticeship under [Professor Laurel Larsen](https://geography.berkeley.edu/associate-professor-laurel-larsen). I moved to New York City on a Master's-level research fellowship at the City University of New York (CUNY) and am currently a PhD student at the CUNY Graduate Center. My work applies a depth of technical expertise from the Earth sciences and [geodesy](https://www.unavco.org/what-is/) to study how geohazards both occur and are produced in transboundary, fragile, and conflict-affected situations.
 
 I also collaborate on journalistic and humanitarian investigations at the interface of conflict and environment. Some of my work supporting visual investigations has appeared in news outlets like the [BBC](https://www.bbc.com/news/world-asia-57845156), the [Guardian](https://www.theguardian.com/world/2019/jul/19/israeli-spraying-of-herbicide-near-gaza-harming-palestinian-crops), and in [contemporary art exhibitions](https://u-jazdowski.pl/en/programme/exhibitions/forensic-architecture?tid=t_content) on environmental violence. 
 
