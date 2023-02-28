@@ -29,7 +29,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Earth and Environmental Science
+  - course: PhD in Earth and Environmental Sciences
     institution: Graduate Center at the City University of New York
     year: (expected 2024)
   - course: MS in Geology
