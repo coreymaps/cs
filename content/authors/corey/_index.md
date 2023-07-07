@@ -73,7 +73,7 @@ email: ""
 # - Visitors
 ---
 
-I study geophysical aspects of geopolitical issues. My work applies a depth of technical expertise from the Earth sciences and [geodesy](https://www.unavco.org/what-is/) to study physical and environmental aspects of transboundary water conflict, international geohazards, war and conflict.
+I study geophysical aspects of geopolitical issues. My work applies a depth of technical expertise from the Earth sciences and [geodesy](https://www.unavco.org/what-is/) to study transboundary water resources, international geohazards, and physical and environmental aspects of war and conflict.
 
 I was trained in Geology at [UC Berkeley](https://eps.berkeley.edu/home) under the supervision of [Walter Alvarez](https://en.wikipedia.org/wiki/Walter_Alvarez) and gained exposure to environmental data science and Earth observation through a two-year apprenticeship under [Professor Laurel Larsen](https://geography.berkeley.edu/associate-professor-laurel-larsen). I moved to New York City on a Master's-level research fellowship at the City University of New York (CUNY) and am currently a PhD student at the [CUNY Graduate Center](https://www.gc.cuny.edu/earth-and-environmental-sciences). 
 
