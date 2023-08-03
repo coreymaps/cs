@@ -32,4 +32,4 @@ slides: ""
 There is space at the American Geophysical Union Fall Meeting for scientists and practitioners to come together to share research on the physical and environmental impacts of the war in Ukraine. Together with [Jamon Van Den Hoek](www.conflict-ecology.org) from Oregon State University and [Eoghan Darbyshire](www.ceobs.org) from the Conflict and Environment Observatory (CEOBS), we have convened a [session](https://agu.confex.com/agu/fm23/prelim.cgi/Session/191914) on the topic. 
 
 
-The image above was published by the Conflict and Environment Observatory (CEOBS) in 2020 as part of an [investigation](https://ceobs.org/abandoned-mines-are-flooding-in-ukraines-donbass-region/) into flooding of abandoned mine sites in the Donbas region.
+The image above was published by CEOBS in 2020 as part of an [investigation](https://ceobs.org/abandoned-mines-are-flooding-in-ukraines-donbass-region/) into flooding of abandoned mine sites in the Donbas region.
