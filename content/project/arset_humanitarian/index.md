@@ -1,6 +1,6 @@
 ---
 title: NASA Applied Remote Sensing Training (ARSET) in Humanitarian Applications
-summary: Co-teaching the first of four sessions on the use of NASA open-source earth observation data for monitoring damage during military conflict
+summary: Co-taught a session for Earth observation practitioners on the use of NASA open-source processing tools for monitoring damage to built-up areas during military conflict
 
 tags:
 - InSAR
