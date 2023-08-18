@@ -1,5 +1,5 @@
 ---
-title: Washington Post piece on mass burial sites in Tigray
+title: Detecting mass burial sites in Tigray
 summary: Processing and analysis of VHR satellite optical imagery
 
 tags:
