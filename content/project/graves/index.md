@@ -12,7 +12,7 @@ author: corey
 external_link: ""
 
 image:
-  caption: "Very high resolution satellite image tile of the Miraim Shiweto Church area. Credit: Maxar."
+  caption: "Very high resolution satellite image tile of the Miriam Shiweto Church area. Credit: Maxar."
   focal_point: Smart
 
 links:
