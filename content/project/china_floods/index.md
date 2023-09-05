@@ -1,6 +1,6 @@
 ---
 title: "'Sacrificing part for the whole'"
-summary: Mapping floodwater extent to support investigative journalism at the Weshington Post
+summary: Mapping floodwater extent to support investigative journalism at the Washington Post
 
 tags:
 - Conflict
