@@ -13,8 +13,12 @@ author: corey
 external_link: ""
 
 image:
-  caption: "RGB decomposition of an August 5, 2023 Sentinel-1 radar image showing flooded farmland and villages in blue adjacent to urban areas under construction near Beijing, China. Contains modified Sentinel-1 data processed at the Alaska Satellite Facility."
-  focal_point: Smart
+  caption: "RGB decompositions of Sentinel-1 radar images acquired before flooding (July 24th) and shortly after flooding on August 5, 2023. Blue areas are submerged in surface water, which are focused in an agricultural river valley. Contains modified Sentinel-1 data processed at the Alaska Satellite Facility."
+  #focal_point: Smart
+
+
+
+
 
 links:
 url_code: ""
@@ -32,6 +36,10 @@ slides: ""
 
 Journalists at the Washington Post contacted me to help investigate the intentionality of flooding in rural and agricultural areas outside of Beijing, China that occurred at the end of July and early August of 2023. It was alleged and reported that Chinese authorities intentionally diverted floodwater to these rural areas, with little to no warning for residents, in order to save investments at nearby urban areas. It's estimated that this flooding dislplaced over 1.7 million people, caused $13 billion in economic losses, and killed dozens; although the total number of people who lost their lives may never be known.
 
-A map of floodwater extent can tell us where and when surface water occurred but the imagery alone cannot determine whether floodwater came from natural water flow or an engineered floodwater release. The data I provided to the Post helped investigative journalists to verify witness accounts and, by including analyses of ancillary satellite optical data, conclude that a network of floodgates and engineered channels were used to sacrifice these rural areas for the sake of the urban investments. 
+A map of surface water extent can tell us where and when surface water occurred but the imagery alone cannot determine whether water came from natural flow or an engineered release. The data I provided to the Post helped investigative journalists to verify witness accounts and, by including analyses of ancillary satellite optical data, conclude that a network of floodgates and engineered channels were used to sacrifice these rural areas to spare the urban investments.
 
-Find the full story [here](https://www.washingtonpost.com/world/2023/08/31/china-floods-beijing-rain/).
+Find the full Washington Post story [here](https://www.washingtonpost.com/world/2023/08/31/china-floods-beijing-rain/).
+
+The flooding outside of Beijing reminded me of events in the US, both recent and historical, that similarly echo with environmental injustices. In  Pajaro, a mostly Spanish speaking town of agricultural workers in Central California, flooding occurred when a levee failed that was known for decades to be deficient. The side of the levee protecting nearby Watsonville, a wealthier town, did not fail. The deficient levee on the Pajaro side was never improved due to ["benefit-cost ratios."](https://www.latimes.com/california/story/2023-03-12/authorities-knew-the-levee-could-fail) In total, about 2,000 residents had to evacuate the town.
+
+In 1948, the working-class wartime housing project of [Vanport, Oregon](https://en.wikipedia.org/wiki/Vanport,_Oregon), was compelely washed away by a 10 foot tall wall of water. The day before the flood, the Portland Housing Authority assured residents that the dike upstream would not fail, which it did the next day. Fifteen people died and over 18,000 lost their homes in Vanport, which was never rebuilt.
