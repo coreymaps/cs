@@ -73,7 +73,7 @@ email: ""
 # - Visitors
 ---
 
-I study geophysical aspects of geopolitical issues. My work applies a depth of technical expertise from the Earth sciences and [geodesy](https://en.wikipedia.org/wiki/Geodesy) across a breadth of geopolitical contexts, including transboundary water resources and the physical and environmental aspects of war and conflict.
+I study geophysical aspects of geopolitical issues. My work applies a depth of technical expertise from the Earth sciences and [geodesy](https://en.wikipedia.org/wiki/Geodesy) across a breadth of geopolitical contexts, including transboundary water resource conflicts and the physical and environmental aspects of war.
 
 I'm a PhD student at the [CUNY Graduate Center](https://www.gc.cuny.edu/earth-and-environmental-sciences) advised by Professor [Elia Machado](https://www.gc.cuny.edu/people/elia-machado) and working in close coordination with the [Conflict Ecology](https://www.conflict-ecology.org) group at Oregon State.
 
