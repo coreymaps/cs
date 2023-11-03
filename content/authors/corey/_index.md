@@ -73,7 +73,7 @@ email: ""
 # - Visitors
 ---
 
-My doctoral research leverages geophysics, dense time series of satellite imaging radar data, and cloud computing to study water conflict and war impacts from space.
+My doctoral research leverages geophysics and dense time series of satellite imaging radar data to study water conflict and war impacts from space.
 
 I'm a PhD candidate at the [CUNY Graduate Center](https://www.gc.cuny.edu/earth-and-environmental-sciences) advised by Professor [Elia Machado](https://www.gc.cuny.edu/people/elia-machado) and work in close coordination with the [Conflict Ecology](https://www.conflict-ecology.org) group at Oregon State.
 
