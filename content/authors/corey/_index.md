@@ -21,9 +21,8 @@ organizations:
 bio: 
 
 interests:
-- Geology
 - Geodesy
-- Poltiical ecology
+- Geography
 - Synthetic aperture radar (interferometry)
 
 
