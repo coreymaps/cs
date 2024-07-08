@@ -1,6 +1,6 @@
 ---
 title: Fires on land concessions for palm cultivation in Indonesia
-summary: Remote sensing of burn patterns in support of an investigation around the intentionality of peatland fires for forest clearing
+summary: Remote sensing of burn patterns in support of an investigation around the intentionality of peatland fires for forest clearing.
 
 tags:
 - Landsat

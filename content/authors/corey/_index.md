@@ -21,9 +21,8 @@ organizations:
 bio: 
 
 interests:
-- Geodesy
-- Geography
-- Synthetic aperture radar (interferometry)
+- conflict earth observation
+- synthetic aperture radar (interferometry)
 
 
 education:
@@ -72,10 +71,10 @@ email: ""
 # - Visitors
 ---
 
-My doctoral research leverages geophysics, data engineering, and satellite imaging radar to study the physical impacts of war and conflict.
+I work to better understand the physical impacts of war and conflict by advancing the science of conflict Earth observation. 
 
-I'm a PhD candidate at the [CUNY Graduate Center](https://www.gc.cuny.edu/earth-and-environmental-sciences) and work in close coordination with the [Conflict Ecology](https://www.conflict-ecology.org) group at Oregon State.
+My research on conflict impacts is featured in reporting from organizations like the [New York Times](https://www.nytimes.com/interactive/2024/06/03/world/europe/ukraine-destruction.html), [Financial Times](https://ig.ft.com/gaza-damage/), [Washington Post](https://www.washingtonpost.com/world/2023/07/07/ethiopia-massacre-graves/), [BBC](https://www.bbc.com/news/world-middle-east-68006607), [CNN](https://www.cnn.com/interactive/2023/middleeast/map-humanitarian-aid-water-power-hospitals-gaza-strip-dg/), [Der Spiegel](https://www.spiegel.de/ausland/israel-gaza-krieg-der-konflikt-mit-der-hamas-in-grafiken-und-karten-a-3967f2d7-9923-47e1-9eed-a09c543d24bd), [NPR](https://www.npr.org/2023/11/09/1211571220/israel-gaza-damage-map-satellite-imagery), the [Times](https://www.thetimes.co.uk/article/what-happening-gaza-map-israel-hamas-lqc8q5zns), and [others](https://docs.google.com/spreadsheets/d/1_XVQx97hH3n31XPoYimmIstnZUhof8a5Z5rt3Z2VZg4). It is cited in [reports](https://docs.google.com/spreadsheets/d/1_XVQx97hH3n31XPoYimmIstnZUhof8a5Z5rt3Z2VZg4/edit?gid=1458698163#gid=1458698163) from major international humanitarian organizations and as [lines of evidence](https://www.icj-cij.org/case/1920) in litigation related to international humanitarian law.
 
-My work is focused at the intersection of science and humanitarian issues; relevant to journalistic reporting on the impacts of war and conflict. The results of my research studying war and conflict impacts are featured in reporting from organizations like the [New York Times](https://www.nytimes.com/interactive/2023/10/07/world/middleeast/israel-gaza-maps.html?smid=url-share#gaza-damage-nov-7), [Financial Times](https://ig.ft.com/gaza-damage/), [Washington Post](https://www.washingtonpost.com/world/2023/07/07/ethiopia-massacre-graves/), [BBC](https://www.bbc.co.uk/news/world-middle-east-20415675), [CNN](https://www.cnn.com/interactive/2023/middleeast/map-humanitarian-aid-water-power-hospitals-gaza-strip-dg/), [Der Spiegel](https://www.spiegel.de/ausland/israel-gaza-krieg-der-konflikt-mit-der-hamas-in-grafiken-und-karten-a-3967f2d7-9923-47e1-9eed-a09c543d24bd), [NPR](https://www.npr.org/2023/11/09/1211571220/israel-gaza-damage-map-satellite-imagery), the [Times](https://www.thetimes.co.uk/article/what-happening-gaza-map-israel-hamas-lqc8q5zns), and [others](https://docs.google.com/spreadsheets/d/1_XVQx97hH3n31XPoYimmIstnZUhof8a5Z5rt3Z2VZg4).
+I'm a PhD candidate at the [CUNY Graduate Center](https://www.gc.cuny.edu/earth-and-environmental-sciences) and coordinate closely with the [Conflict Ecology](https://www.conflict-ecology.org) group at Oregon State. I also organize with the [Conflict and Environment Academic Network](https://ceobs.org/projects/conflict-and-environment-academic-network/) and the [Decentralized Damage Mapping Group](https://www.conflict-damage.org).
 
 

@@ -1,6 +1,6 @@
 ---
-title: Detecting mass burial sites in Tigray
-summary: Processing and analysis of VHR satellite optical imagery
+title: Detecting new burial sites in Tigray
+summary: Analysis of very high resolution satellite optical imagery with the visual investigation team at the Washington Post.
 
 tags:
 - Conflict

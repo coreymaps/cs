@@ -1,6 +1,6 @@
 ---
 title: Subsidence monitoring in transboundary aquifers
-summary: Monitoring sustainability of shared groundwater resources using interferometric synthetic aperture radar (InSAR)
+summary: Monitoring sustainability of shared groundwater resources using interferometric synthetic aperture radar (InSAR).
 
 tags:
 - InSAR

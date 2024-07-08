@@ -29,18 +29,14 @@ subtitle = ""
 #     name = "Cryosphere"
 #     tag = "Cryosphere"
 
-#   [[content.filter_button]]
-#     name = "Hydrology"
-#     tag = "Hydrology"
-
 
 #    [[content.filter_button]]
-#     name = "Critical Cartographies"
-#     tag = "Critical Cartographies"
+#     name = "war"
+#     tag = "war"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
   # Toggle between the various page layout types.
   #   1 = List

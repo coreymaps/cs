@@ -1,8 +1,8 @@
 ---
 title: Herbicide drift from Israel to Gaza
-summary: Remote sensing of decreases in normalized difference vegetation index (NDVI) coincident with Israeli military spraying of herbicide along the Gaza siege perimeter
+summary: Remote sensing of decreases in normalized difference vegetation index (NDVI) coincident with Israeli military spraying of herbicide along the Gaza siege perimeter.
 
-draft: true
+draft: false
 
 tags:
 - Landsat

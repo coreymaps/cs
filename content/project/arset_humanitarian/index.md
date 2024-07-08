@@ -1,6 +1,6 @@
 ---
 title: NASA Applied Remote Sensing Training in Humanitarian Applications
-summary: Co-taught a session for Earth observation practitioners on the use of NASA open-source processing tools for monitoring damage to built-up areas during military conflict
+summary: Co-taught a session for Earth observation practitioners on the use of NASA open-source processing tools for monitoring damage to built-up areas during military conflict.
 
 tags:
 - InSAR
