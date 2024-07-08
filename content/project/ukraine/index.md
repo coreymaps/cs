@@ -29,4 +29,4 @@ url_video: ""
 slides: ""
 ---
 
-Jamon Van Den Hoek and I worked with Marco Hernandez and Tim Wallace for well over a year to support their team at the The New York Times [reporting on damage to buildings in Ukraine with our data on damage to human settlements](https://www.nytimes.com/interactive/2024/06/03/world/europe/ukraine-destruction.html?unlocked_article_code=1.w00.yPcK.s5w0b9RRTHHh&smid=nytcore-ios-share&referringSource=articleShare&sgrp=c-cb). A peer-reviewed manuscript is forthcoming as this work constitutes a major component of my doctoral dissertation.
+Jamon Van Den Hoek and I worked with Marco Hernandez and Tim Wallace for well over a year to support their team at the The New York Times [reporting on damage to buildings in Ukraine with our data](https://www.nytimes.com/interactive/2024/06/03/world/europe/ukraine-destruction.html?unlocked_article_code=1.w00.yPcK.s5w0b9RRTHHh&smid=nytcore-ios-share&referringSource=articleShare&sgrp=c-cb). A peer-reviewed manuscript is forthcoming as this work constitutes a major component of my doctoral dissertation.
