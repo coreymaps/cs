@@ -6,7 +6,7 @@ summary: "My masters fellowship was in support of a NASA Cryosphere program gran
 authors: []
 tags: []
 categories: []
-date: 2020-01-01T15:55:43-04:00
+date: 2018-01-01T15:55:43-04:00
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
