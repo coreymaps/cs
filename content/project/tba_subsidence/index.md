@@ -49,7 +49,7 @@ In [transboundary aquifers](https://www.un-igrac.org/areas-expertise/transbounda
 <figcaption>Transboundary aquifers of the world and two that I highlighted in this study. The location of the drilling photo at the top of this post is marked in the lower left hand panel. Data: UN-International Groundwater Resource Assessment Center</figcaption>
 </figure>
 
-Drawing from political scientific research into the governing characteristics of political institutions that [successfully manage common pool resources](https://www.cambridge.org/core/books/governing-the-commons/A8BB63BC4A1433A50A3FB92EDBBB97D5), I sought to use methods in satellite radar remote sensing to fill a key characteristic of governing institutions for water sustainability: unbiased monitoring of the condition of the shared resource.
+Drawing from political scientific research into the governing characteristics of political institutions that [successfully manage common pool resources](https://www.cambridge.org/core/books/governing-the-commons/A8BB63BC4A1433A50A3FB92EDBBB97D5), I sought to use methods in satellite radar remote sensing to fill a key characteristic of governing institutions for water sustainability: physically-based indicators of the condition of the shared resource.
 
 In October 2019 I travelled to Valencia, Spain to give an [oral presentation](https://agu.confex.com/agu/19chapman5/meetingapp.cgi/Paper/488036) on monitoring subsidence in transboundary aquifers at the American Geophysical Union's Chapman Conference on the [Quest for Sustainability in Heavily Stressed Aquifers](https://connect.agu.org/aguchapmanconference/upcoming-chapmans/aquifers-sustainability).
 
@@ -73,7 +73,7 @@ In the region of the Dead Sea, I found subsidence mirroring the political bounda
 
 Subsidence around Jericho is likely driven by Palestinian reliance on groundwater resources from shallow Holocene alluvial aquifers underlaying agricultural regions of date palm cultivation in eastern Jericho. Interestingly, in regions of date palm cultivation under the control of Israeli settlers, there is not such dramatic subsidence. 
 
-In their research on the political role of date palm agriculture in the West Bank, [Julie Trottier, *et al*](https://journals.sagepub.com/doi/abs/10.1177/2514848619876546), explain that the Israeli Water Authority and Israeli settlers are advancing recycled wastewater reservoirs for date palm irrigation but Palestinian farmers are reduced to using shallow saline groundwater or available springwater.
+In their research on the political role of date palm agriculture in the West Bank, [Julie Trottier, *et al*](https://journals.sagepub.com/doi/abs/10.1177/2514848619876546), explain that the Israeli Water Authority and Israeli settlers are advancing recycled wastewater reservoirs for date palm irrigation but Palestinian farmers are reduced to using shallow saline groundwater or available springwater. It is possible that Palestinian reliance on shallow groundwater resources is driving the subsidence we see in the eastern regions of Jericho.
 
-Subsidence monitoring in transboundary aquifers can be used, where applicable, for an unbiased monitor of aquifer condition in pursuit of transparency, accountability, and sustainability of shared water in stressed aquifers.
+In my doctoral dissertation, I will argue that subsidence monitoring in transboundary aquifers can be used, where applicable, for a physically-based monitor of aquifer condition in pursuit of transparency, accountability, and sustainability of shared water in stressed aquifers.
 

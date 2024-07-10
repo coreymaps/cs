@@ -12,7 +12,7 @@ author: corey
 external_link: ""
 
 image:
-  caption: "Very high resolution satellite image tile of the Miriam Shiweto Church area. Credit: Maxar."
+  caption: "Very high resolution satellite optical data from Maxar that I visualized in false color for the Washington Post."
   focal_point: Smart
 
 links:
