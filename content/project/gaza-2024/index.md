@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Weekly building damage surveys in Gaza"
-summary: "Cited by hundereds of media reports in publications of record around the world, our data serves an important role in public understanding of the pace and scale of the impacts of the Israeli bombardment and invasion on the Gaza Strip as the conflict continues."
+summary: "Utilized by humanitarian organizations and cited by hundereds of media reports in publications of record around the world, our data serve an important role in public understanding of the rapid pace and vast extent of the impacts of the Israeli bombardment and invasion on the Gaza Strip."
 authors: []
 tags: []
 categories: []
