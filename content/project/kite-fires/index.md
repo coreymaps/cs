@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Mapping wildfire scars in southern Israel caused by incendiary kites launched from the Gaza Strip in 2018"
-summary: "Some of my earlier work utilizing Earth observation data to study environmental aspects of war and conflict tested whether reported wildfire scars from incendiary kites launched within the Gaza Strip could be detected in open access satellite radar and optical data."
+summary: "I tested whether reported wildfire scars from incendiary kites launched within the Gaza Strip could be detected in open access satellite radar and optical data in southern Israel."
 authors: []
 tags: []
 categories: []

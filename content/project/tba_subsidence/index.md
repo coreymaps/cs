@@ -1,6 +1,6 @@
 ---
 title: Subsidence monitoring in transboundary aquifers
-summary: Monitoring sustainability of shared groundwater resources using interferometric synthetic aperture radar (InSAR).
+summary: I started processing interferometric synthetic aperture radar (InSAR) data in conflict settings in 2015 to measure subsidence patterns in transboundary aquifers. I include a short blog-style post introducing this work and where it stands today.
 
 tags:
 - InSAR
@@ -73,7 +73,11 @@ In the region of the Dead Sea, I found subsidence mirroring the political bounda
 
 Subsidence around Jericho is likely driven by Palestinian reliance on groundwater resources from shallow Holocene alluvial aquifers underlaying agricultural regions of date palm cultivation in eastern Jericho. Interestingly, in regions of date palm cultivation under the control of Israeli settlers, there is not such dramatic subsidence. 
 
-In their research on the political role of date palm agriculture in the West Bank, [Julie Trottier, *et al*](https://journals.sagepub.com/doi/abs/10.1177/2514848619876546), explain that the Israeli Water Authority and Israeli settlers are advancing recycled wastewater reservoirs for date palm irrigation but Palestinian farmers are reduced to using shallow saline groundwater or available springwater. It is possible that Palestinian reliance on shallow groundwater resources is driving the subsidence we see in the eastern regions of Jericho.
+In their research on the political role of date palm agriculture in the West Bank, [Julie Trottier, *et al*](https://journals.sagepub.com/doi/abs/10.1177/2514848619876546), explain that the Israeli Water Authority and Israeli settlers are advancing recycled wastewater infrastructure for agricultural irrigation but Palestinian farmers are reduced to pumping shallow saline groundwater. It is possible that Palestinian reliance on shallow groundwater resources is driving the subsidence we see in the eastern regions of Jericho.
 
-In my doctoral dissertation, I will argue that subsidence monitoring in transboundary aquifers can be used, where applicable, for a physically-based monitor of aquifer condition in pursuit of transparency, accountability, and sustainability of shared water in stressed aquifers.
+In my doctoral dissertation, I will argue that subsidence monitoring in transboundary aquifers can be used, where applicable, for a physically-based monitor of aquifer condition in pursuit of transparency, accountability, and sustainability of shared water in stressed aquifers. 
+
+I started this work in 2015, conducting my first subsidence analysis using Sentinel-1 data acquired over the Israeli-occupied West Bank. The first map I [published](https://www.guerrillacartography.org/atlases-shop/water-an-atlas) was with Guerrilla Cartography, comparing measured subsidence patterns to United Nations data on the demolition of Palestinian water wells and cisterns by the Israeli military. I continued with this work in 2016 and 2017 thanks to the support of [Professor David Saah](https://www.usfca.edu/faculty/david-saah) at the University of San Francisco and gave a [presentation](https://ui.adsabs.harvard.edu/abs/2017AGUFM.H11B1176S/abstract) on remote monitoring of groundwater overdraft using data from the Gravity Recovery and Climate Experiment (GRACE) and Sentinel-1 InSAR. 
+
+Today, I continue with this work as a component of my dissertation research investigating physical aspects of war and conflict from the vantage point of satellite radar.
 
