@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Reseraching some of the youngest land on Earth"
+title: "Researching some of the youngest land on Earth"
 summary: "I had the privilege to help with a research experiment at the edge of some of the newest land on Earth to investigate how plants help to build land naturally along the Louisiana coast."
 authors: []
 tags: []
