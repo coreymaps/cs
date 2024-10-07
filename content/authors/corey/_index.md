@@ -4,7 +4,7 @@ title: Corey Scher
 
 # Username (this should match the folder name)
 authors:
-- Corey
+- corey
 
 # Is this the primary user of the site?
 superuser: true
