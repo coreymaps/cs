@@ -53,7 +53,7 @@ Drawing from political scientific research into the governing characteristics of
 
 In October 2019 I travelled to Valencia, Spain to give an [oral presentation](https://agu.confex.com/agu/19chapman5/meetingapp.cgi/Paper/488036) on monitoring subsidence in transboundary aquifers at the American Geophysical Union's Chapman Conference on the [Quest for Sustainability in Heavily Stressed Aquifers](https://connect.agu.org/aguchapmanconference/upcoming-chapmans/aquifers-sustainability).
 
-To illustrate the potential value for diplomatic accountability using this technique, I ran subsidence analyses using data from the [Sentinel-1 constellation](https://sentinel.esa.int/web/sentinel/missions/sentinel-1) and the [Stanford Method for Persistent Scatterers](https://github.com/dbekaert/StaMPS) in two regions with shared aquifers and geopolitical tension: the US/Mexico border and the southern Jordan River Valley.
+To illustrate the potential value for diplomatic accountability using this technique, I ran subsidence analyses using data from the [Sentinel-1 constellation](https://sentinel.esa.int/web/sentinel/missions/sentinel-1) and the [Stanford Method for Persistent Scatterers](https://github.com/dbekaert/StaMPS) in two transboundary regions with shared aquifers: the US/Mexico border and the southern Jordan River Valley.
 
 I found mean subsidence rates of 5 cm/year near a cluster of pivot-irrigated agricultural fields just on the Mexico side of the border with New Mexico. 
 
@@ -76,7 +76,6 @@ Data on groundwater level decline on the Palestinian side of the Jordan River ar
 In their research on the political role of date palm agriculture in the Jordan River Valley, [Julie Trottier, *et al*](https://journals.sagepub.com/doi/abs/10.1177/2514848619876546), explain that the Israeli Water Authority and Israeli settlers are advancing recycled wastewater infrastructure for agricultural irrigation but Palestinian farmers are not allowed to purchase this treated wastewater; instead relying on pumping from wells. It is possible that Palestinian reliance on groundwater resources is driving the subsidence we see in the eastern regions of Jericho.
 
 In my doctoral dissertation, I argue that subsidence monitoring in transboundary aquifers can be used, where applicable, as a physically-based monitor of aquifer condition in pursuit of transparency, accountability, and sustainability of shared water in stressed aquifers. 
-
 
 I started this work in 2016, conducting my first time series analysis of subsidence using Sentinel-1 data acquired over the Israeli-occupied West Bank. The first map I [published](https://www.guerrillacartography.org/atlases-shop/water-an-atlas) was with Guerrilla Cartography, comparing measured subsidence patterns to United Nations data on the demolition of Palestinian water wells and cisterns by the Israeli military. I continued with this work in 2017 and 2018 thanks to the support of [Professor David Saah](https://www.usfca.edu/faculty/david-saah) at the University of San Francisco and gave a [presentation](https://ui.adsabs.harvard.edu/abs/2017AGUFM.H11B1176S/abstract) on remote monitoring of groundwater overdraft using data from the Gravity Recovery and Climate Experiment (GRACE) and Sentinel-1 InSAR. 
 
