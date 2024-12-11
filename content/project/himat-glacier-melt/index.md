@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Mapping glacier melt signals with satellite radar and scaleable cloud computing"
+title: "Mapping glacier melt signals with satellite radar and scalable cloud computing"
 summary: "My masters fellowship was in support of a NASA Cryosphere program grant to research glacier melt timing and duration across all mapped glaciers in the Hindu Kush Himalaya region."
 authors: []
 tags: []
