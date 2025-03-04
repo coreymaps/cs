@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in Earth and Environmental Sciences
     institution: Graduate Center at the City University of New York
-    year: (expected 2024)
+    year: 2025
   - course: MS in Geology
     institution: City University of New York
     year: 2019
@@ -75,6 +75,6 @@ I study landscape changes in conflict zones with satellite radar data, cloud com
 
 My research on conflict impacts is featured in reporting from publications like the [New York Times](https://www.nytimes.com/interactive/2024/06/03/world/europe/ukraine-destruction.html), [Financial Times](https://ig.ft.com/gaza-damage/), [Washington Post](https://www.washingtonpost.com/world/2023/07/07/ethiopia-massacre-graves/), [BBC](https://www.bbc.com/news/world-middle-east-68006607), [CNN](https://www.cnn.com/interactive/2023/middleeast/map-humanitarian-aid-water-power-hospitals-gaza-strip-dg/), [NPR](https://www.npr.org/2023/11/09/1211571220/israel-gaza-damage-map-satellite-imagery), [Bloomberg](https://www.bloomberg.com/graphics/2024-map-gaza-rafah-israel-hamas-war/) and [others](https://whoiscorey.com/project/gaza-2024/). I've been interviewed about mapping wartime damage by organizations including [NPR](https://www.npr.org/2024/11/20/nx-s1-5194454/israeli-destruction-makes-large-parts-of-south-lebanon-uninhabitable), [Scientific American](https://www.scientificamerican.com/article/inside-the-satellite-tech-revealing-gazas-destruction/), [Marketplace](https://www.marketplace.org/shows/marketplace-tech/how-satellite-radar-helps-scientists-map-the-destruction-in-gaza/), and [Democracy Now](https://www.democracynow.org/2023/11/22/radar). My work is also cited in [reports](https://docs.google.com/spreadsheets/d/1_XVQx97hH3n31XPoYimmIstnZUhof8a5Z5rt3Z2VZg4/edit?gid=1458698163#gid=1458698163) from international humanitarian organizations and as [lines of evidence](https://www.icj-cij.org/case/192) in litigation related to international humanitarian law.
 
-I'm a PhD candidate at the [CUNY Graduate Center](https://www.gc.cuny.edu/earth-and-environmental-sciences) and coordinate closely with the [Conflict Ecology](https://www.conflict-ecology.org) group at Oregon State. I also organize with the [Conflict and Environment Academic Network](https://ceobs.org/projects/conflict-and-environment-academic-network/) and the [Decentralized Damage Mapping Group](https://www.conflict-damage.org).
+I'm a postdoctoral scholar in the the [Conflict Ecology](https://www.conflict-ecology.org) group at Oregon State. I also organize with the [Conflict and Environment Academic Network](https://ceobs.org/projects/conflict-and-environment-academic-network/) and the [Decentralized Damage Mapping Group](https://www.conflict-damage.org).
 
 

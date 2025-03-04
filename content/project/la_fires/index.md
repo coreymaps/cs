@@ -1,5 +1,5 @@
 ---
-title: Mapping buidlings damaged in the 2025 Los Angeles wildfires
+title: Mapping building damage during the 2025 Los Angeles wildfires
 summary: Rapid-response mapping of building damage while the Los Angeles wildfires were active and smoke occluded satellite optical imagery.
 
 tags:
