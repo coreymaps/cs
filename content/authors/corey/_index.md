@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate in Earth and Environmental Sciences
+role: Postdoctoral Scholar
 
 # Organizations/Affiliations
 organizations:
-- name: City University of New York
+- name: Oregon State University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)

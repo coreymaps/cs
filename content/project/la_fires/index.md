@@ -30,6 +30,6 @@ url_video: ""
 slides: ""
 ---
 
-Born and raised in California --  hazard country -- is what motivated me to study hazards, disasters, wars, and conflict. When the Los Angeles widlfires hit, with friends and colleagues directly affected, I worked with Jamon Van Den Hoek to produce a preliminary assessment of damage using Sentinel-1 satellite radar data that we distributed freely to first responders and journalists.
+Growing up in California --  hazard country -- motivated me to study hazards, disasters, wars, and conflict. When the Los Angeles widlfires hit, with friends and colleagues directly affected, I worked with Jamon Van Den Hoek to produce a preliminary assessment of damage using Sentinel-1 satellite radar data that we distributed freely to first responders in California and newsrooms around the world.
 
-These data were included in reports on the severity of fire damage from [several newsrooms around the world](https://docs.google.com/spreadsheets/d/1_XVQx97hH3n31XPoYimmIstnZUhof8a5Z5rt3Z2VZg4/edit?gid=828447206#gid=828447206) and were made openly-available through the official [NASA Disasters data portal](https://maps.disasters.nasa.gov/arcgis/home/item.html?id=def07db720164f5c8c2c95a49ee62f90).
+Our data on damage were included in reports on the severity of fire damage from [several newsrooms around the world](https://docs.google.com/spreadsheets/d/1_XVQx97hH3n31XPoYimmIstnZUhof8a5Z5rt3Z2VZg4/edit?gid=828447206#gid=828447206) and were made openly-available through the official [NASA Disasters data portal](https://maps.disasters.nasa.gov/arcgis/home/item.html?id=def07db720164f5c8c2c95a49ee62f90).
