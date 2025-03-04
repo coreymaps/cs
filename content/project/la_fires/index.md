@@ -1,6 +1,6 @@
 ---
-title: Mapping damage to human settlements in Ukraine with the New York Times
-summary: Coherent change detection for nationwide monitoring of damage to human settlements during the Russian invasion of Ukraine.
+title: Mapping buidlings damaged in the 2025 Los Angeles wildfires
+summary:
 
 tags:
 - Conflict
@@ -12,7 +12,7 @@ author: corey
 external_link: ""
 
 image:
-  caption: "A New York Times visualization of our damage data across the first 18 months of the Russian invasion of Ukraine."
+  caption: "Our data on fire damage to buildings in Los Angeles on the front page of the January 14th, 2025 New York Times."
   focal_point: Smart
 
 links:
@@ -29,4 +29,6 @@ url_video: ""
 slides: ""
 ---
 
-Jamon Van Den Hoek and I worked with Marco Hernandez and Tim Wallace for well over a year to support their team at the The New York Times [reporting on damage to buildings in Ukraine with our data](https://www.nytimes.com/interactive/2024/06/03/world/europe/ukraine-destruction.html?unlocked_article_code=1.w00.yPcK.s5w0b9RRTHHh&smid=nytcore-ios-share&referringSource=articleShare&sgrp=c-cb). A peer-reviewed manuscript is forthcoming as this work constitutes a major component of my doctoral dissertation.
+Born and raised in California --  hazard country -- is what motivated me to study hazards, disasters, wars, and conflict. When the Los Angeles widlfires hit, with friends and colleagues directly affected, I worked with Jamon Van Den Hoek to produce a preliminary assessment of damage using Sentinel-1 satellite radar data that we distributed freely to first responders and journalists.
+
+These data were included in reports on the severity of fire damage from (several newsrooms around the world)[https://docs.google.com/spreadsheets/d/1_XVQx97hH3n31XPoYimmIstnZUhof8a5Z5rt3Z2VZg4/edit?gid=828447206#gid=828447206] and were made openly-available through the official (NASA Disasters data portal)[https://maps.disasters.nasa.gov/arcgis/home/item.html?id=def07db720164f5c8c2c95a49ee62f90].
