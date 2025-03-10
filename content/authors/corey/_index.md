@@ -53,7 +53,7 @@ social:
   link: https://scholar.google.com/citations?user=87bjVPcAAAAJ&hl=es
 - icon: github
   icon_pack: fab
-  link: https://github.com/porefluid
+  link: https://github.com/coreymaps
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
