@@ -39,6 +39,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-As a community of researchers and practitioners grapples with the challenges of characterizing the physical and environmental impacts of war and conflict, the [Conflict and Environemnt Academic Network](https://www.linkedin.com/groups/12940275/) has convened a session at the 2024 AGU Fall Meeting. I have the privilege of serving as one of the session conveners. 
+As a growing community of researchers and practitioners grapples with the challenges of characterizing the physical and environmental outcomes from war and conflict, the [Conflict and Environemnt Academic Network](https://www.linkedin.com/groups/12940275/) convened a session at the 2024 AGU Fall Meeting and I had the privilege of serving as one of the session conveners. 
 
-We seek to build communication and collaboration in the interest of advancing the science of war and conflict impact assessment and addressing the myriad challenges at hand. Please consider submitting an abstract to [our session](https://agu.confex.com/agu/agu24/prelim.cgi/Session/229601) if you plan to attend the meeting.
+This session helped to build communication and collaboration in the interest of advancing the science of war and conflict impact assessment and addressing a myriad of challenges at hand. We learned from a number of wonderful poster and oral presentations, the abstracts of which are available [here](https://agu.confex.com/agu/agu24/meetingapp.cgi/Person/183320). One paper on mapping the legacy impacts from the Vietnam War using declassified satellite imagery presented at our session also got a write-up in [Science Magazine](https://www.science.org/content/article/declassified-satellite-photos-reveal-impacts-vietnam-war).
