@@ -1,5 +1,5 @@
 ---
-title: Mapping damage to human settlements in Ukraine with the New York Times
+title: Mapping damage to human settlements in Ukraine
 summary: Coherent change detection for nationwide monitoring of damage to human settlements during the Russian invasion of Ukraine.
 
 tags:
