@@ -29,10 +29,10 @@ interests:
 education:
   courses:
   - course: PhD in Earth and Environmental Sciences
-    institution: City University of New York Graduate Center
+    institution: City University of New York, Graduate Center
     year: 2025
   - course: MS in Geology
-    institution: City College of New York
+    institution: City University of New York, City College
     year: 2019
   - course: Bachelors in Geology
     institution: University of California, Berkeley
