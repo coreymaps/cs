@@ -1,8 +1,6 @@
 ---
 title: "Nationwide conflict damage mapping with interferometric synthetic aperture radar: A study of the 2022 Russia-Ukraine conflict"
-authors:
-- corey
-- Jamon Van Den Hoek
+authors: []
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
@@ -15,7 +13,7 @@ publishDate: "2025-03-21T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Science of Remote Sensing"
@@ -27,9 +25,8 @@ abstract: "The full-scale Russian invasion of Ukraine that began in February 202
 # Summary. An optional shortened abstract.
 summary:
 
-tags:
--
-featured: false
+tags: []
+featured: true
 
 # links:
 # - name: ""
