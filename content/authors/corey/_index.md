@@ -46,9 +46,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: "mailto:scherc@oregonstate.edu"  # For a direct email link, use "mailto:scherc@oregonstate.edu".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/coreymaps
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/coreymaps
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=87bjVPcAAAAJ&hl=es
