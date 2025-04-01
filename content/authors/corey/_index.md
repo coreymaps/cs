@@ -56,7 +56,7 @@ social:
   icon_pack: fab
   link: https://github.com/coreymaps
 - icon: linkedin
-  icon_pack: bootstrap
+  icon_pack: fab
   link: https://www.linkedin.com/in/coreyscher/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
