@@ -32,7 +32,7 @@ slides: ""
 
 Growing up in California --  hazard country -- motivated me to study hazards, disasters, wars, and conflict. When the Los Angeles widlfires hit, with friends and colleagues directly affected, I worked with Jamon Van Den Hoek to produce a preliminary assessment of damage using Sentinel-1 satellite radar data that we distributed freely to first responders in California and newsrooms around the world.
 
-Our data on damage were included in reports on the severity of fire damage from several newsrooms around the world (tabulated below) and were made openly-available through the official [NASA Disasters data portal](https://maps.disasters.nasa.gov/arcgis/home/item.html?id=def07db720164f5c8c2c95a49ee62f90).
+Our data on damage were included in reports on the severity of fire damage from several newsrooms (tabulated below) and were made openly-available through the official [NASA Disasters data portal](https://maps.disasters.nasa.gov/arcgis/home/item.html?id=def07db720164f5c8c2c95a49ee62f90).
 
 | Date       | Title                                                                                                                                                                           | Link                                                                                                                                           | Publication         |
 |:-----------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------|:--------------------|
