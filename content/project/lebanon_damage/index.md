@@ -1,6 +1,6 @@
 ---
-title: Mapping building damage in Lebanon
-summary: Active monitoring of building damage with the escalation of regional conflict.
+title: Mapping building damage in Lebanon and northern Israel
+summary: Active monitoring of building damage with escalation of the regional conflict.
 
 tags:
 - Disasters
