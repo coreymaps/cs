@@ -30,7 +30,7 @@ url_video: ""
 slides: ""
 ---
 
-In the spring of 2024, Jamon Van Den Hoek and I extended damage monitoring to Lebanon while Israeli bombardment and ground activities intensified. As in other contexts, we distributed data freely to humanitarian and journalistic organizations and continued monitoring beyond the November 2024 ceasefire.
+In the spring of 2024, Jamon Van Den Hoek and I extended damage monitoring to Lebanon as the conflict intensified at the northern border of Israel. As in other contexts, we distributed data freely to humanitarian and journalistic organizations and continued monitoring beyond the November 2024 ceasefire. We also surveyed for satellite-indicated buildings damage in northern Israel, which the Financial Times [featured](https://www.ft.com/content/b78d2ec2-382b-4389-90d9-5ca6dcdb003b) in its reporting on the impacts of the regional conflict.
 
 <figure>
 <img class="special-img-class" src="/img/lbn_damage_ft.png"/>
