@@ -1,6 +1,6 @@
 ---
 title: Mapping building damage in Lebanon
-summary: Monitoring building damage in Lebanon as conflict escalated across the region.
+summary: Active monitoring of building damage with the escalation of regional conflict.
 
 tags:
 - Disasters
@@ -30,18 +30,18 @@ url_video: ""
 slides: ""
 ---
 
-In the spring and summer of 2024, Jamon Van Den Hoek and I extended building damage monitoring efforts to Lebanon, where Israeli bombardment and ground invasions were taking place. As in other contexts, we distributed data freely to humanitarian and journalistic organizations and we have continued monitoring beyond the November 2024 ceasefire.
+In the spring and summer of 2024, Jamon Van Den Hoek and I extended damage monitoring to Lebanon while Israeli bombardment and ground activities intensified. As in other contexts, we distributed data freely to humanitarian and journalistic organizations and continued monitoring beyond the November 2024 ceasefire.
 
 <figure>
 <img class="special-img-class" src="/img/lbn_damage_ft.png"/>
 
-<figcaption>Building damage data visualized in November 2024 at the Financial Times.</figcaption>
+<figcaption>Building damage data visualized on November 2024 at the Financial Times.</figcaption>
 </figure>
 
 <figure>
 <img class="special-img-class" src="/img/lbn_damage_nyt.png"/>
 
-<figcaption>Damage data visualized at the New York Times in November of 2024.</figcaption>
+<figcaption>Damage data visualized in the New York Times on November of 2024.</figcaption>
 </figure>
 
 
