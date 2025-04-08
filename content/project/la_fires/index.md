@@ -34,6 +34,14 @@ Growing up in California --  hazard country -- motivated me to study hazards, di
 
 Our data on damage were included in reports on the severity of fire damage from several newsrooms (tabulated below) and were made openly-available through the official [NASA Disasters data portal](https://maps.disasters.nasa.gov/arcgis/home/item.html?id=def07db720164f5c8c2c95a49ee62f90).
 
+<figure>
+<img class="special-img-class" src="/img/le_monde_la_fire.jpg"/>
+
+<figcaption>Damage data visualized in the 15 January, 2025 issue of Le Monde.</figcaption>
+</figure>
+
+
+
 | Date       | Title                                                                                                                                                                           | Link                                                                                                                                           | Publication         |
 |:-----------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------|:--------------------|
 | 2025-01-10 | The iconic LA neighbourhoods reduced to ashes                                                                                                                                   | https://www.ft.com/content/940000cd-f748-4383-bb24-2f9c32192cdc                                                                                | FT                  |
