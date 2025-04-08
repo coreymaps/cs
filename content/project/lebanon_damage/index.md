@@ -30,7 +30,7 @@ url_video: ""
 slides: ""
 ---
 
-In the spring and summer of 2024, Jamon Van Den Hoek and I extended building damage monitoring efforts to Lebanon, where Israeli bombardment and ground invasions were taking place. As in other contexts, we distributed data to humanitarian response and journalistic organizations.
+In the spring and summer of 2024, Jamon Van Den Hoek and I extended building damage monitoring efforts to Lebanon, where Israeli bombardment and ground invasions were taking place. As in other contexts, we distributed data freely to humanitarian and journalistic organizations and we have continued monitoring beyond the November 2024 ceasefire.
 
 <figure>
 <img class="special-img-class" src="/img/lbn_damage_ft.png"/>
