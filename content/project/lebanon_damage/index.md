@@ -30,7 +30,7 @@ url_video: ""
 slides: ""
 ---
 
-In the spring and summer of 2024, Jamon Van Den Hoek and I extended damage monitoring to Lebanon while Israeli bombardment and ground activities intensified. As in other contexts, we distributed data freely to humanitarian and journalistic organizations and continued monitoring beyond the November 2024 ceasefire.
+In the spring of 2024, Jamon Van Den Hoek and I extended damage monitoring to Lebanon while Israeli bombardment and ground activities intensified. As in other contexts, we distributed data freely to humanitarian and journalistic organizations and continued monitoring beyond the November 2024 ceasefire.
 
 <figure>
 <img class="special-img-class" src="/img/lbn_damage_ft.png"/>
