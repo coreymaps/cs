@@ -35,13 +35,13 @@ In the spring and summer of 2024, Jamon Van Den Hoek and I extended damage monit
 <figure>
 <img class="special-img-class" src="/img/lbn_damage_ft.png"/>
 
-<figcaption>Building damage data visualized on November 2024 at the Financial Times.</figcaption>
+<figcaption>Building damage data visualized in November 2024 at the Financial Times.</figcaption>
 </figure>
 
 <figure>
 <img class="special-img-class" src="/img/lbn_damage_nyt.png"/>
 
-<figcaption>Damage data visualized in the New York Times on November of 2024.</figcaption>
+<figcaption>Damage data visualized in November 2024 at the New York Times.</figcaption>
 </figure>
 
 
