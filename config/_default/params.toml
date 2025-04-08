@@ -16,7 +16,7 @@
 theme = "minimal"
 
 # Enable users to switch between day and night mode?
-day_night = false
+day_night = true
 
 # Override the theme's font set (optional).
 #   Latest font sets (may require updating): https://sourcethemes.com/academic/themes/
@@ -127,7 +127,7 @@ contact_links = [
 sharing_image = ""
 
 # Twitter username (without @). Used when a visitor shares your site on Twitter.
-twitter = "borderwater"
+twitter = "coreymaps"
 
 ############################
 ## Regional Settings

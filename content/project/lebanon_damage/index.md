@@ -1,6 +1,6 @@
 ---
 title: Mapping building damage in Lebanon
-summary:
+summary: Monitoring building damage in Lebanon as conflict escalated across the region.
 
 tags:
 - Disasters
