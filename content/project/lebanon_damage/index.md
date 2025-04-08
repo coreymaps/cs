@@ -46,7 +46,7 @@ In the spring and summer of 2024, Jamon Van Den Hoek and I extended damage monit
 
 
 
-| Date       | Title                                                                                        | Publication                 |
+| Date       | Article                                                                                        | Publication                 |
 |:-----------|:---------------------------------------------------------------------------------------------|:--------------------|
 | 7/22/2024  | [Damage, destruction and fear along the Israel-Lebanon border](https://www.bbc.com/news/articles/cv2gj544x65o)                                 | BBC                 |
 | 6/27/2024  | [Israel’s push to create a ‘dead zone’ in Lebanon](https://www.ft.com/content/9b4c3cab-13b6-4195-a496-555c7a1db15b)                                             | Financial Times     |
