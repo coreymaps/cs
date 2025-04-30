@@ -31,6 +31,11 @@ url_video: ""
 slides: ""
 ---
 
+## Important Note
+
+### This training was intended as a first-level introduction to theory and methods behind interferometric coherent change detection applied to building damage mapping. The demonstration workflow is not something we recommend for commercialization or operation. If you need to operationalize a method for mapping building damage, please contact me directly.
+
+
 I co-taught the first session with [Professor Jamon Van Den Hoek](https://www.conflict-ecology.org/) on monitoring urban damage during military conflict. We discussed the use of multitemporal [interferometric synthetic aperture radar (InSAR)](https://en.wikipedia.org/wiki/Interferometric_synthetic-aperture_radar) [coherence](https://en.wikipedia.org/wiki/Coherence_(physics)) data to map proxies for damage to built infrastructure during military conflict.
 
 Check out a recording of the training, presentation slides, and links to example code [here](https://appliedsciences.nasa.gov/join-mission/training/english/arset-humanitarian-applications-using-nasa-earth-observations)
