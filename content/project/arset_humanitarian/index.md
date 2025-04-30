@@ -14,7 +14,7 @@ author: corey
 external_link: ""
 
 image:
-  caption: "Register for the ARSET course on humanitarian applications!"
+  caption: ""
   focal_point: Smart
 
 links:
