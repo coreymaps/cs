@@ -1,6 +1,6 @@
 ---
 title: Subsidence monitoring in transboundary aquifers
-summary: I started processing interferometric synthetic aperture radar (InSAR) data in conflict settings in 2015 to measure subsidence patterns in transboundary aquifers. I include a short blog-style post introducing this work and where it stands today.
+summary: A satellite-based indicator of shared groundwater sustainability
 
 tags:
 - InSAR
