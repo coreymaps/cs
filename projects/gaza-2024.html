@@ -1,0 +1,1398 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Weekly building damage surveys in Gaza — Corey Scher</title>
+  <link rel="stylesheet" href="/assets/style.css">
+</head>
+<body>
+  <main class="article project-page">
+    <p class="back"><a href="/projects.html">← Projects</a></p>
+    <figure class="project-hero"><img src="/assets/projects/gaza-2024.png" alt=""></figure>
+    <h1 class="project-title">Weekly building damage surveys in Gaza</h1>
+    <p class="project-summary">Utilized by humanitarian organizations and cited by hundereds of media reports in publications of record around the world, our data serve an important role in public understanding of the rapid pace and vast extent of the impacts of the Israeli bombardment and invasion on the Gaza Strip.</p>
+    <div class="project-body">
+<p>At the onset of the ongoing 2023 Israeli bombardment and invasion of the Gaza Strip, <a href="https://www.conflict-ecology.org/">Jamon Van Den Hoek</a> and I operationalized an algorithmic workflow to regularly update satellite radar-indicated building damage data over the Gaza Strip on a weekly basis throughout the duration of the ongoing conflict.</p>
+<p>These data are visualized and referenced in publications of record around the world,<a href="https://docs.google.com/spreadsheets/d/1_XVQx97hH3n31XPoYimmIstnZUhof8a5Z5rt3Z2VZg4/edit?gid=1458698163#gid=1458698163">several</a> reports from international humanitarian organizations, and as lines of evidence in a <a href="https://www.icj-cij.org/case/192">legal proceeding</a> related to internaional humanitarian law. At a time when commercial image providers <a href="https://www.scientificamerican.com/article/inside-the-satellite-tech-revealing-gazas-destruction/">limited access to data</a>, these assessments, based on open-access Earth observation radar imagery, were widely ingested as one of the few sources of information available capturing the scale and extent of impacts to the built environment in Gaza regularly over time.</p>
+<p>This work is ongoing and we continue to monitor for signals of damage and destruction as the conflict unfolds. Below I include a selection of media articles, reports, and interviews related to our work mapping damage in Gaza.</p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">Date</th>
+<th style="text-align: left;">Article</th>
+<th style="text-align: left;">Publication</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">10/14/2023</td>
+<td style="text-align: left;"><a href="https://www.nytimes.com/interactive/2023/10/07/world/middleeast/israel-gaza-maps.html?smid=url-share#gaza-damage-oct-14">An initial look at where Israel has hit Gaza</a></td>
+<td style="text-align: left;">The New York Times</td>
+</tr>
+<tr>
+<td style="text-align: left;">10/18/2023</td>
+<td style="text-align: left;"><a href="https://www.tagesanzeiger.ch/vorher-nachher-vergleich-satellitenbilder-zeigen-die-massive-zerstoerung-in-gaza-840901278132?gift_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJtb3Z6NTA5OTQ2OSIsImlhdCI6MTY5NzgwMjQ1OCwiZXhwIjoxNzEzNTcwNDU4LCJ0ZW5hbnQiOiJ0YWdlc2FuemVpZ2VyIiwidW5pdHlJZCI6Ijg0MDkwMTI3ODEzMiIsImp0aSI6ImJhM2U0ZTM4ZWFmODc3MTZhNTI0YTFhOGVmOWYxNTI2ZGIxZGUzNDY4NDhkNzc2YzUzYzYxYjgyNDM1ZjJkNWIifQ.CMaGCq18KFJod1_TpLlB3moSSYWl4oJUfjN4VipHmZU">Vorher-nachher-Vergleich: Satellitenbilder zeigen die massive Zerstörung in Gaza</a></td>
+<td style="text-align: left;">Tages-Anzeiger</td>
+</tr>
+<tr>
+<td style="text-align: left;">10/18/2023</td>
+<td style="text-align: left;"><a href="https://www.spiegel.de/ausland/israel-gaza-krieg-was-satellitendaten-ueber-die-situation-in-gaza-verraten-a-a292b5ed-0131-4b58-ab88-c8d1b5e2be46">Israel-Gaza-Krieg: Was Satellitendaten über die Situation in Gaza verraten</a></td>
+<td style="text-align: left;">Der Spiegel</td>
+</tr>
+<tr>
+<td style="text-align: left;">10/18/2023</td>
+<td style="text-align: left;"><a href="https://www.tagesanzeiger.ch/vorher-nachher-vergleich-satellitenbilder-zeigen-die-massive-zerstoerung-in-gaza-840901278132">Vorher-nachher-Vergleich: Satellitenbilder zeigen die massive Zerstörung in Gaza</a></td>
+<td style="text-align: left;">Tages Anzeiger</td>
+</tr>
+<tr>
+<td style="text-align: left;">10/18/2023</td>
+<td style="text-align: left;"><a href="https://www.nytimes.com/interactive/2023/10/07/world/middleeast/israel-gaza-maps.html?smid=url-share#gaza-damage-oct-18">An updated look at where Israel has hit Gaza</a></td>
+<td style="text-align: left;">The New York Times</td>
+</tr>
+<tr>
+<td style="text-align: left;">10/19/2023</td>
+<td style="text-align: left;"><a href="https://www.washingtonpost.com/world/2023/10/18/gaza-war-damage-images-maps/">Damage maps of Gaza’s hardest-hit areas in the first days of war</a></td>
+<td style="text-align: left;">The Washington Post</td>
+</tr>
+<tr>
+<td style="text-align: left;">10/19/2023</td>
+<td style="text-align: left;"><a href="https://www.derstandard.at/jetzt/livebericht/3000000191758/1000316962/aegypten-will-dauerhaft-gaza-hilfslieferungen-ueber-rafah-ermoeglichen?ref=live_red_content&amp;responsive=false">Weiterhin wird besonders der Norden des Gazastreifens von Raketen getroffen</a></td>
+<td style="text-align: left;">Nahost-Konflikt</td>
+</tr>
+<tr>
+<td style="text-align: left;">10/19/2023</td>
+<td style="text-align: left;"><a href="https://www.ft.com/content/32bc687b-1385-401b-a60a-7320848ceb16">Military briefing: Battle for Mosul points to IDF’s ‘fiendish’ task in Gaza</a></td>
+<td style="text-align: left;">Financial Times</td>
+</tr>
+<tr>
+<td style="text-align: left;">10/19/2023</td>
+<td style="text-align: left;"><a href="https://www.tdg.ch/guerre-hamas-israel-les-images-satellites-montrent-l-ampleur-des-degats-a-gaza-410849065989">Vorher-nachher-Vergleich: Satellitenbilder zeigen die massive Zerstörung in Gaza</a></td>
+<td style="text-align: left;">TDG</td>
+</tr>
+<tr>
+<td style="text-align: left;">10/20/2023</td>
+<td style="text-align: left;"><a href="https://www.zeit.de/2023/46/gazastreifen-leben-israel-bodenoffensive-hamas/seite-2">Vorher-nachher-Vergleich: Satellitenbilder zeigen die massive Zerstörung in Gaza</a></td>
+<td style="text-align: left;">Zeit</td>
+</tr>
+<tr>
+<td style="text-align: left;">10/21/2023</td>
+<td style="text-align: left;"><a href="https://www.nytimes.com/interactive/2023/10/07/world/middleeast/israel-gaza-maps.html?smid=url-share#rafah-crossing-southern-gaza-20">First aid trucks move through Rafah crossing as southern Gaza is pummeled by strikes</a></td>
+<td style="text-align: left;">The New York Times</td>
+</tr>
+<tr>
+<td style="text-align: left;">10/23/2023</td>
+<td style="text-align: left;"><a href="https://ici.radio-canada.ca/rci/fr/nouvelle/2019546/gaza-palestine-israel-guerre-hamas-cartes">Vorher-nachher-Vergleich: Satellitenbilder zeigen die massive Zerstörung in Gaza</a></td>
+<td style="text-align: left;">Radio Canada</td>
+</tr>
+<tr>
+<td style="text-align: left;">10/25/2023</td>
+<td style="text-align: left;"><a href="https://ig.ft.com/gaza-damage/">How Israeli air strikes destroyed a busy neighbourhood in Gaza</a></td>
+<td style="text-align: left;">Financial Times</td>
+</tr>
+<tr>
+<td style="text-align: left;">10/26/2023</td>
+<td style="text-align: left;"><a href="https://www.nytimes.com/interactive/2023/10/07/world/middleeast/israel-gaza-maps.html?smid=url-share#gaza-damage-oct-26">A new look at where Israel has hit Gaza </a></td>
+<td style="text-align: left;">The New York Times</td>
+</tr>
+<tr>
+<td style="text-align: left;">10/27/2023</td>
+<td style="text-align: left;"><a href="https://www.lefigaro.fr/international/guerre-israel-hamas-les-images-satellites-montrent-l-ampleur-des-destructions-dans-la-bande-de-gaza-20231017">Guerre Israël-Hamas : les images satellites montrent l’ampleur des destructions dans la bande de Gaza</a></td>
+<td style="text-align: left;">Le Figaro</td>
+</tr>
+<tr>
+<td style="text-align: left;">10/27/2023</td>
+<td style="text-align: left;"><a href="https://elpais.com/internacional/2023-10-27/mapas-que-ha-destruido-una-semana-de-bombardeos-israelies-en-gaza.html">Vorher-nachher-Vergleich: Satellitenbilder zeigen die massive Zerstörung in Gaza</a></td>
+<td style="text-align: left;">El Pais</td>
+</tr>
+<tr>
+<td style="text-align: left;">10/27/2023</td>
+<td style="text-align: left;"><a href="https://www.standaard.be/cnt/dmf20231027_94814608">Vorher-nachher-Vergleich: Satellitenbilder zeigen die massive Zerstörung in Gaza</a></td>
+<td style="text-align: left;">Der Standaard</td>
+</tr>
+<tr>
+<td style="text-align: left;">10/28/2023</td>
+<td style="text-align: left;"><a href="https://www.thetimes.co.uk/article/gaza-before-after-destruction-mapped-israel-bombing-cqw2gpn7l">Gaza before and after: how a tenth of the strip was turned to rubble</a></td>
+<td style="text-align: left;">The Times</td>
+</tr>
+<tr>
+<td style="text-align: left;">10/28/2023</td>
+<td style="text-align: left;"><a href="https://www.ft.com/content/2723dc90-b3f3-407b-b111-08e350df284d">Israeli forces fight through the night as ground operations in Gaza intensify</a></td>
+<td style="text-align: left;">Financial Times</td>
+</tr>
+<tr>
+<td style="text-align: left;">10/29/2023</td>
+<td style="text-align: left;"><a href="https://www.ft.com/content/244ac777-e713-4b97-9a0f-7c0ecdee3e86">Israeli forces hold part of northern Gaza for second night</a></td>
+<td style="text-align: left;">Financial Times</td>
+</tr>
+<tr>
+<td style="text-align: left;">10/29/2023</td>
+<td style="text-align: left;"><a href="https://www.ft.com/content/8a56b2bf-8af7-4c87-9012-31882e7d7d59">Military briefing: Israel’s devastating bombing campaign in Gaza</a></td>
+<td style="text-align: left;">Financial Times</td>
+</tr>
+<tr>
+<td style="text-align: left;">10/29/2023</td>
+<td style="text-align: left;"><a href="https://www.ft.com/content/92a31b6e-a5b7-4533-96ed-89d14e6c2b14">The tactics behind Israel’s ground offensive</a></td>
+<td style="text-align: left;">Financial Times</td>
+</tr>
+<tr>
+<td style="text-align: left;">10/29/2023</td>
+<td style="text-align: left;"><a href="https://www.bloomberg.com/news/features/2023-10-29/how-israel-and-palestinians-troubled-history-set-stage-for-gaza-war">How This Israel-Hamas Conflict Is Like Nothing That’s Happened Before</a></td>
+<td style="text-align: left;">Bloomberg</td>
+</tr>
+<tr>
+<td style="text-align: left;">10/29/2023</td>
+<td style="text-align: left;"><a href="https://www.asahi.com/articles/ASRBX5F2DRBRUHBI045.html">人口密集地の難民キャンプも壊された　衛星データで見えたガザの被害 [イスラエル・パレスチナ問題]：朝日新聞デジタル</a></td>
+<td style="text-align: left;">Asahi</td>
+</tr>
+<tr>
+<td style="text-align: left;">10/30/2023</td>
+<td style="text-align: left;"><a href="https://www.lavanguardia.com/internacional/20231030/9338525/vigia-americano.html">El vigía americano</a></td>
+<td style="text-align: left;">La Vanguardia</td>
+</tr>
+<tr>
+<td style="text-align: left;">10/31/2023</td>
+<td style="text-align: left;"><a href="https://www.ft.com/content/913d366e-0ace-4463-a004-d293aa49c673">Military briefing: How Hamas fights</a></td>
+<td style="text-align: left;">Financial Times</td>
+</tr>
+<tr>
+<td style="text-align: left;">10/31/2023</td>
+<td style="text-align: left;"><a href="https://www.bloomberg.com/news/articles/2023-10-31/israel-s-step-by-step-gaza-offensive-risks-extending-deadly-war">Israel’s Step-by-Step Gaza Offensive Risks Longer Deadly War</a></td>
+<td style="text-align: left;">Bloomberg</td>
+</tr>
+<tr>
+<td style="text-align: left;">10/31/2023</td>
+<td style="text-align: left;"><a href="https://www.nytimes.com/interactive/2023/10/07/world/middleeast/israel-gaza-maps.html?smid=url-share#gaza-damage-oct-31">At least a quarter of buildings in northern Gaza are damaged, analysis estimates</a></td>
+<td style="text-align: left;">The New York Times</td>
+</tr>
+<tr>
+<td style="text-align: left;">11/1/2023</td>
+<td style="text-align: left;"><a href="https://www.wsj.com/world/middle-east/israels-new-calculus-strike-hamas-at-all-costs-b6b3196f">Israel’s New Calculus: Strike Hamas Harder Than Ever</a></td>
+<td style="text-align: left;">Wall Street Journal</td>
+</tr>
+<tr>
+<td style="text-align: left;">11/2/2023</td>
+<td style="text-align: left;"><a href="https://www.nytimes.com/2023/11/02/world/middleeast/israeli-troops-encircle-gaza-city.html">Israeli Troops Encircle Gaza City as Global Criticism of Strikes Mounts</a></td>
+<td style="text-align: left;">The New York Times</td>
+</tr>
+<tr>
+<td style="text-align: left;">11/2/2023</td>
+<td style="text-align: left;"><a href="https://www.humanite.fr/monde/bande-de-gaza/a-gaza-les-crimes-de-guerre-font-bouger-les-lignes-diplomatiques">À Gaza, les « crimes de guerre » font bouger les lignes diplomatiques</a></td>
+<td style="text-align: left;">L'Humanité</td>
+</tr>
+<tr>
+<td style="text-align: left;">11/2/2023</td>
+<td style="text-align: left;"><a href="https://www.bloomberg.com/news/articles/2023-11-02/israel-latest-hamas-is-set-to-release-more-foreigners-from-gaza">Israel-Hamas War Latest: Destruction in Gaza</a></td>
+<td style="text-align: left;">Bloomberg</td>
+</tr>
+<tr>
+<td style="text-align: left;">11/2/2023</td>
+<td style="text-align: left;"><a href="https://www.bnnbloomberg.ca/israel-latest-hamas-is-set-to-release-more-foreigners-from-gaza-1.1992860">Israel Latest: Hamas Is Set to Release More Foreigners From Gaza</a></td>
+<td style="text-align: left;">BNN Bloomberg</td>
+</tr>
+<tr>
+<td style="text-align: left;">11/3/2023</td>
+<td style="text-align: left;"><a href="https://www.axios.com/2023/11/03/satellite-analysis-shows-widespread-destruction-in-gaza">Satellite analysis shows widespread destruction in Gaza</a></td>
+<td style="text-align: left;">Axios</td>
+</tr>
+<tr>
+<td style="text-align: left;">11/3/2023</td>
+<td style="text-align: left;"><a href="https://www.bnnbloomberg.ca/israel-latest-blinken-to-arrive-as-military-encircles-gaza-city-1.1993469">Israel Latest: Blinken to Arrive as Military Encircles Gaza City</a></td>
+<td style="text-align: left;">BNN Bloomberg</td>
+</tr>
+<tr>
+<td style="text-align: left;">11/3/2023</td>
+<td style="text-align: left;"><a href="https://www.epe.es/es/internacional/20231103/satelites-muestran-israel-bombardea-masivamente-sur-gaza-94120810">Los satélites muestran que Israel bombardea masivamente en el sur de Gaza</a></td>
+<td style="text-align: left;">El Periodico de Espana</td>
+</tr>
+<tr>
+<td style="text-align: left;">11/3/2023</td>
+<td style="text-align: left;"><a href="https://www.elperiodico.com/es/internacional/20231103/israel-bombardeos-sur-gaza-guerra-94150982?%3Butm_medium=feed&amp;%3Butm_campaign=internacional">Los satelites muestran que Israel también bombardea masivamente el sur de Gaza</a></td>
+<td style="text-align: left;">El Periodico de Espana</td>
+</tr>
+<tr>
+<td style="text-align: left;">11/4/2023</td>
+<td style="text-align: left;"><a href="https://www.eldiario.es/internacional/mapa-destruccion-gaza-despues-mes-ofensiva-israeli_1_10653709.html">El mapa de la destrucción: así está Gaza después de un mes de ofensiva israelí</a></td>
+<td style="text-align: left;">El Diario</td>
+</tr>
+<tr>
+<td style="text-align: left;">11/4/2023</td>
+<td style="text-align: left;"><a href="https://www.spiegel.de/ausland/gaza-satellitendaten-zeigen-wie-massiv-die-zerstoerungen-bereits-sind-in-schutt-und-asche-a-7838a493-9f33-41bb-8fa6-c8c76ab1202c">Gaza: Satellitendaten zeigen, wie massiv die Zerstörungen bereits sind</a></td>
+<td style="text-align: left;">Der Spiegel</td>
+</tr>
+<tr>
+<td style="text-align: left;">11/5/2023</td>
+<td style="text-align: left;"><a href="https://www.washingtonpost.com/world/2023/11/05/gaza-ground-invasion-satellite-imagery/">Satellite imagery shows latest Israeli advances into Gaza</a></td>
+<td style="text-align: left;">The Washington Post</td>
+</tr>
+<tr>
+<td style="text-align: left;">11/5/2023</td>
+<td style="text-align: left;"><a href="https://www.eldiarioar.com/mundo/mapa-destruccion-gaza-despues-mes-ofensiva-israeli_1_10659220.html">El mapa de la destrucción: así está Gaza después de un mes de ofensiva israelí</a></td>
+<td style="text-align: left;">El Diario AR</td>
+</tr>
+<tr>
+<td style="text-align: left;">11/6/2023</td>
+<td style="text-align: left;"><a href="https://elpais.com/internacional/2023-11-07/el-tamano-de-la-destruccion-de-un-mes-de-guerra-entre-israel-y-gaza-no-tiene-precedentes.html">Vorher-nachher-Vergleich: Satellitenbilder zeigen die massive Zerstörung in Gaza</a></td>
+<td style="text-align: left;">El Pais</td>
+</tr>
+<tr>
+<td style="text-align: left;">11/7/2023</td>
+<td style="text-align: left;"><a href="https://www.nytimes.com/interactive/2023/10/07/world/middleeast/israel-gaza-maps.html?smid=url-share#gaza-damage-nov-7">A third of buildings in northern Gaza are damaged or destroyed, analysis estimates</a></td>
+<td style="text-align: left;">The New York Times</td>
+</tr>
+<tr>
+<td style="text-align: left;">11/7/2023</td>
+<td style="text-align: left;"><a href="https://news-24.fr/cartes-suivre-les-attaques-en-israel-et-a-gaza/">Cartes: suivre les attaques en Israël et à Gaza – News 24</a></td>
+<td style="text-align: left;">News 24</td>
+</tr>
+<tr>
+<td style="text-align: left;">11/7/2023</td>
+<td style="text-align: left;"><a href="https://stories.lavanguardia.com/internacional/20231107/72013/un-mes-de-guerra-en-la-franja-de-gaza">Un mes del conflicto entre Israel y Hamas</a></td>
+<td style="text-align: left;">Le Vanguardia</td>
+</tr>
+<tr>
+<td style="text-align: left;">11/8/2023</td>
+<td style="text-align: left;"><a href="https://on.ft.com/3stOmog">Military briefing: the battle for Gaza City</a></td>
+<td style="text-align: left;">Financial Times</td>
+</tr>
+<tr>
+<td style="text-align: left;">11/8/2023</td>
+<td style="text-align: left;"><a href="https://www.theguardian.com/world/2023/nov/08/thousands-flee-gaza-under-watch-israeli-tanks">Huge surge in numbers fleeing Gaza City</a></td>
+<td style="text-align: left;">The Guardian</td>
+</tr>
+<tr>
+<td style="text-align: left;">11/8/2023</td>
+<td style="text-align: left;"><a href="https://www.theguardian.com/world/live/2023/nov/08/israel-hamas-war-live-updates-biden-netanyahu-gaza-occupation-palestine?page=with:block-654b9ea58f0898cc3cb036cc">US launches airstrike in response to attacks on bases housing US troops as Syrian state media reports strikes in south by Israel</a></td>
+<td style="text-align: left;">The Guardian</td>
+</tr>
+<tr>
+<td style="text-align: left;">11/8/2023</td>
+<td style="text-align: left;"><a href="https://app.nos.nl/op3/gaza-een-maand-later/">Onder hevig vuur: Gaza een maand later</a></td>
+<td style="text-align: left;">NOS</td>
+</tr>
+<tr>
+<td style="text-align: left;">11/8/2023</td>
+<td style="text-align: left;"><a href="https://www.youtube.com/watch?v=87QxTXyteCA">Vorher-nachher-Vergleich: Satellitenbilder zeigen die massive Zerstörung in Gaza</a></td>
+<td style="text-align: left;">AFP</td>
+</tr>
+<tr>
+<td style="text-align: left;">11/9/2023</td>
+<td style="text-align: left;"><a href="https://www.wsj.com/world/middle-east/we-have-no-tears-left-sounds-and-voices-of-people-living-in-gaza-a028906f">We Have No Tears Left': Sounds and Voices of People Living in Gaza</a></td>
+<td style="text-align: left;">Wall Street Journal</td>
+</tr>
+<tr>
+<td style="text-align: left;">11/9/2023</td>
+<td style="text-align: left;"><a href="https://www.aljazeera.com/news/longform/2023/11/9/israel-attacks-on-gaza-weapons-and-scale-of-destruction">Vorher-nachher-Vergleich: Satellitenbilder zeigen die massive Zerstörung in Gaza</a></td>
+<td style="text-align: left;">Al Jazeera</td>
+</tr>
+<tr>
+<td style="text-align: left;">11/9/2023</td>
+<td style="text-align: left;"><a href="https://www.npr.org/1211571220?live=1">A third of Gaza City damaged or destroyed by bombing, satellite imagery shows : NPR</a></td>
+<td style="text-align: left;">National Public Radio</td>
+</tr>
+<tr>
+<td style="text-align: left;">11/9/2023</td>
+<td style="text-align: left;"><a href="https://on.ft.com/49xGKSn">We can’t go south': the Gaza residents defying Israel’s order to evacuate</a></td>
+<td style="text-align: left;">Financial Times</td>
+</tr>
+<tr>
+<td style="text-align: left;">11/9/2023</td>
+<td style="text-align: left;"><a href="https://www.youtube.com/watch?v=vAVQQPAFz1w">Gaza devastation: Unprecedented scale of destruction by Israeli forces</a></td>
+<td style="text-align: left;">Al Jazeera</td>
+</tr>
+<tr>
+<td style="text-align: left;">11/9/2023</td>
+<td style="text-align: left;"><a href="https://www.aljazeera.com/amp/news/longform/2023/11/9/israel-attacks-on-gaza-weapons-and-scale-of-destruction">Vorher-nachher-Vergleich: Satellitenbilder zeigen die massive Zerstörung in Gaza</a></td>
+<td style="text-align: left;">Al Jazeera</td>
+</tr>
+<tr>
+<td style="text-align: left;">11/10/2023</td>
+<td style="text-align: left;"><a href="https://on.ft.com/3QSOgQz">Does Israel have a road map for Gaza’s future?</a></td>
+<td style="text-align: left;">Financial Times</td>
+</tr>
+<tr>
+<td style="text-align: left;">11/10/2023</td>
+<td style="text-align: left;"><a href="https://www.aljazeera.com/news/2023/11/10/israeli-bombardments-damage-more-than-half-of-gazas-housing-units">Vorher-nachher-Vergleich: Satellitenbilder zeigen die massive Zerstörung in Gaza</a></td>
+<td style="text-align: left;">Al Jazeera</td>
+</tr>
+<tr>
+<td style="text-align: left;">11/11/2023</td>
+<td style="text-align: left;"><a href="https://www.wsj.com/livecoverage/israel-hamas-war-gaza-strip-2023-11-08/card/map-shows-israeli-troop-movements-fighting-in-gaza-tfxZGcxTopra09AJAjix">Map Shows Damage From War in Gaza</a></td>
+<td style="text-align: left;">Wall Street Journal</td>
+</tr>
+<tr>
+<td style="text-align: left;">11/12/2023</td>
+<td style="text-align: left;"><a href="https://interactives.ap.org/ai2html-2023/Israel-Palestinian-War-Map/">Israeli military forces inside Gaza</a></td>
+<td style="text-align: left;">Associated Press</td>
+</tr>
+<tr>
+<td style="text-align: left;">11/13/2023</td>
+<td style="text-align: left;"><a href="https://www.rtve.es/noticias/20231103/mapa-guerra-israel-hamas-gaza-bombardeos-ataques-muertos/2459872.shtml">Mapa de la guerra entre Israel y Hamás en Gaza: bombardeos, ataques y muertos</a></td>
+<td style="text-align: left;">RTVE</td>
+</tr>
+<tr>
+<td style="text-align: left;">11/13/2023</td>
+<td style="text-align: left;"><a href="https://www.rtve.es/noticias/20231108/mapa-guerra-israel-hamas-gaza-bombardeos-ataques-muertos/2459872.shtml">Mapa de la guerra entre Israel y Hamás en Gaza: bombardeos, ataques y muertos</a></td>
+<td style="text-align: left;">RTVE</td>
+</tr>
+<tr>
+<td style="text-align: left;">11/13/2023</td>
+<td style="text-align: left;"><a href="https://www.rtve.es/noticias/20231113/mapa-guerra-israel-hamas-gaza-bombardeos-ataques-muertos/2459872.shtml">Mapa de la guerra entre Israel y Hamás en Gaza: bombardeos, ataques y muertos</a></td>
+<td style="text-align: left;">RTVE</td>
+</tr>
+<tr>
+<td style="text-align: left;">11/14/2023</td>
+<td style="text-align: left;"><a href="https://www.lavanguardia.com/internacional/20231114/9376109/hamas-rehenes-mujeres-menores-alto-fuego-hospital-al-shifa.html">Hamas ofrece entregar hasta 70 rehenes mujeres y menores a cambio de un alto el fuego</a></td>
+<td style="text-align: left;">La Vanguardia</td>
+</tr>
+<tr>
+<td style="text-align: left;">11/15/2023</td>
+<td style="text-align: left;"><a href="https://www.lavanguardia.com/internacional/20231115/9378401/guerra-impone-terror.html">El ejército israelí irrumpe en el hospital más grande de Gaza</a></td>
+<td style="text-align: left;">La Vanguardia</td>
+</tr>
+<tr>
+<td style="text-align: left;">11/16/2023</td>
+<td style="text-align: left;"><a href="https://www.theguardian.com/world/2023/nov/16/idf-says-hamas-hiding-evidence-of-use-of-shifa-hospital-as-command-centre">Vorher-nachher-Vergleich: Satellitenbilder zeigen die massive Zerstörung in Gaza</a></td>
+<td style="text-align: left;">The Guardian</td>
+</tr>
+<tr>
+<td style="text-align: left;">11/17/2023</td>
+<td style="text-align: left;"><a href="https://www.nytimes.com/2023/11/17/world/middleeast/northern-gaza-israel-hamas-war-ruins.html">A Journey Into Northern Gaza: Ruins, Wreckage and Darkness</a></td>
+<td style="text-align: left;">The New York Times</td>
+</tr>
+<tr>
+<td style="text-align: left;">11/18/2023</td>
+<td style="text-align: left;"><a href="https://www.npr.org/2023/11/17/1213579692/israel-gaza-evacuation-south-attacks">Israel told Palestinians in Gaza to move south but attacks continue there : NPR</a></td>
+<td style="text-align: left;">National Public Radio</td>
+</tr>
+<tr>
+<td style="text-align: left;">11/18/2023</td>
+<td style="text-align: left;"><a href="https://on.ft.com/3G1OEpP">Hundreds of patients flee Gaza’s al-Shifa hospital</a></td>
+<td style="text-align: left;">Financial Times</td>
+</tr>
+<tr>
+<td style="text-align: left;">11/18/2023</td>
+<td style="text-align: left;"><a href="https://elpais.com/internacional/2023-11-19/la-guerra-reduce-gaza-a-escombros.html">Vorher-nachher-Vergleich: Satellitenbilder zeigen die massive Zerstörung in Gaza</a></td>
+<td style="text-align: left;">El Pais</td>
+</tr>
+<tr>
+<td style="text-align: left;">11/19/2023</td>
+<td style="text-align: left;"><a href="https://www.ft.com/content/6591bc87-9dbd-4224-b95a-5c70dd5d88a1">Israeli forces advance in Gaza City as Benjamin Netanyahu resists ceasefire calls</a></td>
+<td style="text-align: left;">Financial Times</td>
+</tr>
+<tr>
+<td style="text-align: left;">11/20/2023</td>
+<td style="text-align: left;"><a href="https://www.ft.com/content/04c1f19e-53c3-42b5-9af8-a2f5a962a896">In maps: half of northern Gaza’s buildings wrecked by war</a></td>
+<td style="text-align: left;">Financial Times</td>
+</tr>
+<tr>
+<td style="text-align: left;">11/20/2023</td>
+<td style="text-align: left;"><a href="https://www.nytimes.com/interactive/2023/10/07/world/middleeast/israel-gaza-maps.html?hide-chrome=1&amp;smid=url-share#gaza-damage-nov-20">Half of all buildings in northern Gaza are likely damaged or destroyed, according to satellite analysis estimates</a></td>
+<td style="text-align: left;">The New York Times</td>
+</tr>
+<tr>
+<td style="text-align: left;">11/21/2023</td>
+<td style="text-align: left;"><a href="https://on.ft.com/3R6kwQm">Israel’s government meets as Joe Biden says Hamas hostage deal is close</a></td>
+<td style="text-align: left;">Financial Times</td>
+</tr>
+<tr>
+<td style="text-align: left;">11/21/2023</td>
+<td style="text-align: left;"><a href="https://abcnews.go.com/International/mapping-destruction-space-half-northern-gaza-buildings-damaged/story?id=105059423">Mapping destruction from space shows about half of northern Gaza's buildings are damaged, researchers say</a></td>
+<td style="text-align: left;">ABC News</td>
+</tr>
+<tr>
+<td style="text-align: left;">11/23/2023</td>
+<td style="text-align: left;"><a href="https://www.lefigaro.fr/fig-data/guerre-israel-hamas-comment-l-hopital-al-shifa-est-devenu-l-epicentre-du-conflit-20231122/">Guerre Israël-Hamas : comment l'hôpital al-Shifa est devenu l'épicentre du conflit.</a></td>
+<td style="text-align: left;">Le Figaro</td>
+</tr>
+<tr>
+<td style="text-align: left;">11/23/2023</td>
+<td style="text-align: left;"><a href="https://apnews.com/article/palestinians-gaza-israel-bombing-destruction-hamas-reconstruction-f299a28410b70ee05dd764df97d8d3a0">Vorher-nachher-Vergleich: Satellitenbilder zeigen die massive Zerstörung in Gaza</a></td>
+<td style="text-align: left;">AP News</td>
+</tr>
+<tr>
+<td style="text-align: left;">11/23/2023</td>
+<td style="text-align: left;"><a href="https://news-24.fr/gaza-en-ruines-des-chercheurs-en-imagerie-satellite-affirment-quisrael-a-detruit-ou-endommage-56-000-batiments/">Gaza en ruines : des chercheurs en imagerie satellite affirment qu’Israël a détruit ou endommagé 56 000 bâtiments – News 24</a></td>
+<td style="text-align: left;">News 24</td>
+</tr>
+<tr>
+<td style="text-align: left;">11/23/2023</td>
+<td style="text-align: left;"><a href="https://apnews.com/article/palestinians-gaza-israel-bombing-destruction-hamas-reconstruction-f299a28410b70ee05dd764df97d8d3a0">Vorher-nachher-Vergleich: Satellitenbilder zeigen die massive Zerstörung in Gaza</a></td>
+<td style="text-align: left;">Associated Press</td>
+</tr>
+<tr>
+<td style="text-align: left;">11/24/2023</td>
+<td style="text-align: left;"><a href="https://www.theguardian.com/world/2023/nov/24/we-are-overwhelmed-southern-gazas-exhausted-doctors-forced-to-leave-children-to-die">Vorher-nachher-Vergleich: Satellitenbilder zeigen die massive Zerstörung in Gaza</a></td>
+<td style="text-align: left;">The Guardian</td>
+</tr>
+<tr>
+<td style="text-align: left;">11/24/2023</td>
+<td style="text-align: left;"><a href="https://www.ft.com/content/1bae082b-f976-4453-b24a-45bdb13446c5">Hamas releases 24 hostages as Israel truce takes hold</a></td>
+<td style="text-align: left;">Financial Times</td>
+</tr>
+<tr>
+<td style="text-align: left;">11/24/2023</td>
+<td style="text-align: left;"><a href="https://www.elvigia.net/nacional/2023/11/24/temen-que-gaza-quede-inhabitable-430741.html">Temen que Gaza quede inhabitableÂ </a></td>
+<td style="text-align: left;">Periodico El Vigia</td>
+</tr>
+<tr>
+<td style="text-align: left;">11/24/2023</td>
+<td style="text-align: left;"><a href="https://ba.voanews.com/a/gaza-razaranje-buducnost/7368420.html">Kada bitke prestanu, mnogi strahuju da će Gaza ostati nenastanjiva</a></td>
+<td style="text-align: left;">Voice of America</td>
+</tr>
+<tr>
+<td style="text-align: left;">11/24/2023</td>
+<td style="text-align: left;"><a href="https://www.lefigaro.fr/international/en-direct-guerre-hamas-israel-debut-du-cessez-le-feu-de-4-jours-entre-les-deux-belligerants-20231124">Les autorités israéliennes ont reçu la liste des otages qui pourront quitter Gaza samedi</a></td>
+<td style="text-align: left;">Le Figaro</td>
+</tr>
+<tr>
+<td style="text-align: left;">11/24/2023</td>
+<td style="text-align: left;"><a href="https://www.pbs.org/newshour/world/palestinians-fear-gaza-will-be-an-uninhabitable-moonscape-after-war-ends">Vorher-nachher-Vergleich: Satellitenbilder zeigen die massive Zerstörung in Gaza</a></td>
+<td style="text-align: left;">PBS</td>
+</tr>
+<tr>
+<td style="text-align: left;">11/26/2023</td>
+<td style="text-align: left;"><a href="https://m.youtube.com/shorts/ZGJvsQS2bgY">Vorher-nachher-Vergleich: Satellitenbilder zeigen die massive Zerstörung in Gaza</a></td>
+<td style="text-align: left;">Financial Times</td>
+</tr>
+<tr>
+<td style="text-align: left;">11/27/2023</td>
+<td style="text-align: left;"><a href="https://www.dn.se/varlden/gaza-en-spokstad-jag-akte-tillbaka-for-att-radda-barnens-katt/">Gaza en spökstad efter bombningarna</a></td>
+<td style="text-align: left;">Dagens Nyheter</td>
+</tr>
+<tr>
+<td style="text-align: left;">11/27/2023</td>
+<td style="text-align: left;"><a href="https://www.theguardian.com/world/2023/nov/27/aid-agencies-welcome-extension-of-gaza-truce-but-fear-its-end">Vorher-nachher-Vergleich: Satellitenbilder zeigen die massive Zerstörung in Gaza</a></td>
+<td style="text-align: left;">The Guardian</td>
+</tr>
+<tr>
+<td style="text-align: left;">11/27/2023</td>
+<td style="text-align: left;"><a href="https://www.dn.se/varlden/gaza-en-spokstad-jag-akte-tillbaka-for-att-radda-barnens-katt/">Gaza en spökstad efter bombningarna</a></td>
+<td style="text-align: left;">DN</td>
+</tr>
+<tr>
+<td style="text-align: left;">11/28/2023</td>
+<td style="text-align: left;"><a href="https://www.theguardian.com/world/2023/nov/28/israel-hamas-war-ceasefire-deal-extended-two-days-hostages-gaza-palestine">Vorher-nachher-Vergleich: Satellitenbilder zeigen die massive Zerstörung in Gaza</a></td>
+<td style="text-align: left;">The Guardian</td>
+</tr>
+<tr>
+<td style="text-align: left;">11/28/2023</td>
+<td style="text-align: left;"><a href="https://www.npr.org/2023/11/28/1196978556/danger-for-gazans-who-followed-israels-evacuation-order-family-of-released-hosta">Danger for Gazans who followed Israel's evacuation order; family of released hostage : State of the World from NPR : NPR</a></td>
+<td style="text-align: left;">National Public Radio</td>
+</tr>
+<tr>
+<td style="text-align: left;">11/29/2023</td>
+<td style="text-align: left;"><a href="https://www.nbcnews.com/news/world/live-blog/israel-hamas-war-live-updates-rcna126940#rcrd26812">More hostages to be released as Gaza truce is extended</a></td>
+<td style="text-align: left;">NBC News</td>
+</tr>
+<tr>
+<td style="text-align: left;">11/29/2023</td>
+<td style="text-align: left;"><a href="https://www.ft.com/content/55d74061-49c2-4a57-b67d-9daab07509fa">Gaza’s children fight to survive amid wreckage of Israel-Hamas war</a></td>
+<td style="text-align: left;">Financial Times</td>
+</tr>
+<tr>
+<td style="text-align: left;">11/30/2023</td>
+<td style="text-align: left;"><a href="https://www.cnn.com/interactive/2023/middleeast/map-humanitarian-aid-water-power-hospitals-gaza-strip-dg/">Map: Thousands of homes in Gaza are damaged or destroyed. See the destruction.</a></td>
+<td style="text-align: left;">CNN</td>
+</tr>
+<tr>
+<td style="text-align: left;">11/30/2023</td>
+<td style="text-align: left;"><a href="https://www.derstandard.de/consent/tcf/jetzt/livebericht/3000000197583/1000321476/waffenruhe-im-gazastreifen-um-eiverlaengert">Sechs weitere Hamas-Geiseln ans Rote Kreuz übergeben</a></td>
+<td style="text-align: left;">Der Standard</td>
+</tr>
+<tr>
+<td style="text-align: left;">12/1/2023</td>
+<td style="text-align: left;"><a href="https://www.bbc.com/news/world-middle-east-67565872">Nearly 100,000 Gaza buildings may be damaged, satellite images show</a></td>
+<td style="text-align: left;">BBC</td>
+</tr>
+<tr>
+<td style="text-align: left;">12/1/2023</td>
+<td style="text-align: left;"><a href="https://www.ft.com/content/c0baa718-e1a6-4e1e-a198-cda9a252b3ac">Israel plans for ‘long war’ and aims to kill top three Hamas leaders</a></td>
+<td style="text-align: left;">Financial Times</td>
+</tr>
+<tr>
+<td style="text-align: left;">12/1/2023</td>
+<td style="text-align: left;"><a href="https://www.theguardian.com/world/2023/dec/01/hospital-damage-in-gaza-during-israeli-offensive-a-visual-investigation">Vorher-nachher-Vergleich: Satellitenbilder zeigen die massive Zerstörung in Gaza</a></td>
+<td style="text-align: left;">The Guardian</td>
+</tr>
+<tr>
+<td style="text-align: left;">12/1/2023</td>
+<td style="text-align: left;"><a href="https://www.lecho.be/dossiers/guerre-israel-hamas/gaza-carte-interactive-degats-hamas-israel.html">Entre 50 et 60% des bâtiments ont été détruits dans le nord de Gaza</a></td>
+<td style="text-align: left;">l'Echo</td>
+</tr>
+<tr>
+<td style="text-align: left;">12/1/2023</td>
+<td style="text-align: left;"><a href="https://www.lavanguardia.com/internacional/20231201/9418556/gaza-perdido-60-hogares.html">El antes y después en la franja de Gaza: ha perdido el 60% de los hogares</a></td>
+<td style="text-align: left;">La Vanguardia</td>
+</tr>
+<tr>
+<td style="text-align: left;">12/1/2023</td>
+<td style="text-align: left;"><a href="https://www.rtve.es/noticias/20231201/guerra-gaza-diario-testigo-incomodo/2462999.shtml">Guerra en Gaza: diario de un testigo incómodo</a></td>
+<td style="text-align: left;">RTVE</td>
+</tr>
+<tr>
+<td style="text-align: left;">12/1/2023</td>
+<td style="text-align: left;"><a href="https://www.scientificamerican.com/article/inside-the-satellite-tech-revealing-gazas-destruction/">Inside the Satellite Tech Revealing Gaza’s Destruction</a></td>
+<td style="text-align: left;">Scientific American</td>
+</tr>
+<tr>
+<td style="text-align: left;">12/2/2023</td>
+<td style="text-align: left;"><a href="https://on.ft.com/3Goip4a">Shattered Israel-Hamas truce leaves Gaza’s civilians with nowhere left to run</a></td>
+<td style="text-align: left;">Financial Times</td>
+</tr>
+<tr>
+<td style="text-align: left;">12/3/2023</td>
+<td style="text-align: left;"><a href="https://www.lefigaro.fr/international/en-direct-guerre-hamas-israel-tsahal-continue-de-bombarder-la-bande-de-gaza-ce-dimanche-20231203#03-12-2023-07-38-08">Guerre Hamas-Israël : Tsahal affirme avoir localisé plus de 800 puits menant vers les tunnels du Hamas</a></td>
+<td style="text-align: left;">Le Figaro</td>
+</tr>
+<tr>
+<td style="text-align: left;">12/5/2023</td>
+<td style="text-align: left;"><a href="http://www.nzz.ch/international/gazakrieg/wie-eng-ist-es-mittlerweile-im-gazastreifen-ld.1767277">Gazakrieg: Wie viele Gebäude zerstört sind und wie voll es im Süden ist</a></td>
+<td style="text-align: left;">NZZ</td>
+</tr>
+<tr>
+<td style="text-align: left;">12/5/2023</td>
+<td style="text-align: left;"><a href="https://www.nytimes.com/interactive/2023/12/05/world/middleeast/gaza-60-days.html">60 Days of Life in Gaza: ‘No Safe Place’</a></td>
+<td style="text-align: left;">The New York Times</td>
+</tr>
+<tr>
+<td style="text-align: left;">12/6/2023</td>
+<td style="text-align: left;"><a href="https://www.ft.com/content/7b407c2e-8149-4d83-be01-72dcae8aee7b">Military briefing: the Israeli bombs raining on Gaza</a></td>
+<td style="text-align: left;">Financial Times</td>
+</tr>
+<tr>
+<td style="text-align: left;">12/6/2023</td>
+<td style="text-align: left;"><a href="https://amp.theguardian.com/world/2023/dec/06/israel-and-hamas-fight-house-to-house-battles-across-gaza">Vorher-nachher-Vergleich: Satellitenbilder zeigen die massive Zerstörung in Gaza</a></td>
+<td style="text-align: left;">The Guardian</td>
+</tr>
+<tr>
+<td style="text-align: left;">12/6/2023</td>
+<td style="text-align: left;"><a href="https://www.washingtonpost.com/world/2023/12/06/gaza-uninhabitable-unexploded-bombs/">Unexploded bombs, many U.S.-made, could make Gaza unsafe for years</a></td>
+<td style="text-align: left;">The Washington Post</td>
+</tr>
+<tr>
+<td style="text-align: left;">12/6/2023</td>
+<td style="text-align: left;"><a href="https://www.eldiario.es/internacional/bomba-israeli-220-habitantes-mapas-meses-masacre-gaza_1_10746823.amp.html">Un ataque israelí por cada 220 habitantes: los mapas de dos meses de masacre en Gaza</a></td>
+<td style="text-align: left;">El Diario</td>
+</tr>
+<tr>
+<td style="text-align: left;">12/6/2023</td>
+<td style="text-align: left;"><a href="https://www.theguardian.com/world/2023/dec/06/israel-and-hamas-fight-house-to-house-battles-across-gaza">Vorher-nachher-Vergleich: Satellitenbilder zeigen die massive Zerstörung in Gaza</a></td>
+<td style="text-align: left;">The Guardian</td>
+</tr>
+<tr>
+<td style="text-align: left;">12/6/2023</td>
+<td style="text-align: left;"><a href="https://www.eldiario.es/internacional/bomba-israeli-220-habitantes-mapas-meses-masacre-gaza_1_10746823.html">Un ataque israelí por cada 220 habitantes: los mapas de dos meses de masacre en Gaza</a></td>
+<td style="text-align: left;">El Diario</td>
+</tr>
+<tr>
+<td style="text-align: left;">12/6/2023</td>
+<td style="text-align: left;"><a href="https://www.irishtimes.com/world/middle-east/2023/12/06/israels-gaza-attack-one-of-historys-heaviest-conventional-bombing-campaigns/">Israel’s Gaza attack ‘one of history’s heaviest conventional bombing campaigns’ – The Irish Times</a></td>
+<td style="text-align: left;">Irish Times</td>
+</tr>
+<tr>
+<td style="text-align: left;">12/7/2023</td>
+<td style="text-align: left;"><a href="https://www.zeit.de/politik/ausland/israel-gazastreifen-krieg-karten">Vorher-nachher-Vergleich: Satellitenbilder zeigen die massive Zerstörung in Gaza</a></td>
+<td style="text-align: left;">Zeit</td>
+</tr>
+<tr>
+<td style="text-align: left;">12/7/2023</td>
+<td style="text-align: left;"><a href="https://www.theguardian.com/world/2023/dec/07/widespread-destruction-in-gaza-puts-concept-of-domicide-in-focus">Vorher-nachher-Vergleich: Satellitenbilder zeigen die massive Zerstörung in Gaza</a></td>
+<td style="text-align: left;">The Guardian</td>
+</tr>
+<tr>
+<td style="text-align: left;">12/7/2023</td>
+<td style="text-align: left;"><a href="https://www3.nhk.or.jp/news/html/20231207/k10014281061000.html">イスラエル軍 ガザ地区南部の東側境界から侵攻か 衛星画像分析</a></td>
+<td style="text-align: left;">NHK</td>
+</tr>
+<tr>
+<td style="text-align: left;">12/8/2023</td>
+<td style="text-align: left;"><a href="https://www.tagesanzeiger.ch/gaza-satellitendaten-israel-hat-ein-drittel-aller-gebaeude-zerstoert-804316477969">Israels Bomben haben rund ein Drittel aller Gebäude im Gazastreifen zerstört</a></td>
+<td style="text-align: left;">Tages Anzeiger</td>
+</tr>
+<tr>
+<td style="text-align: left;">12/8/2023</td>
+<td style="text-align: left;"><a href="https://apnews.com/article/israel-hamas-war-refugees-displaced-muwasi-ca3860fafed03cb2333ad0bdf2379e31">Vorher-nachher-Vergleich: Satellitenbilder zeigen die massive Zerstörung in Gaza</a></td>
+<td style="text-align: left;">AP News</td>
+</tr>
+<tr>
+<td style="text-align: left;">12/8/2023</td>
+<td style="text-align: left;"><a href="https://www.nzz.ch/english/people-in-war-torn-gaza-have-less-living-space-than-ever-ld.1769304">People in war torn Gaza have less living space than ever</a></td>
+<td style="text-align: left;">NZZ</td>
+</tr>
+<tr>
+<td style="text-align: left;">12/9/2023</td>
+<td style="text-align: left;"><a href="https://on.ft.com/4aeMMb6">Military briefing: the battle for Khan Younis</a></td>
+<td style="text-align: left;">Financial Times</td>
+</tr>
+<tr>
+<td style="text-align: left;">12/9/2023</td>
+<td style="text-align: left;"><a href="https://www.lapresse.ca/international/moyen-orient/2023-12-09/israel-et-le-hamas-en-guerre/la-destruction-de-batiments-civils-un-crime-de-guerre.php">Vorher-nachher-Vergleich: Satellitenbilder zeigen die massive Zerstörung in Gaza</a></td>
+<td style="text-align: left;">Le Presse</td>
+</tr>
+<tr>
+<td style="text-align: left;">12/9/2023</td>
+<td style="text-align: left;"><a href="https://www.elperiodico.com/es/internacional/resumen-guerra-israel-gaza-hamas-sh/index.html">Guerra en Israel y Gaza: resumen del conflicto en Oriente PrÃ³ximo</a></td>
+<td style="text-align: left;">El Periodico de Espana</td>
+</tr>
+<tr>
+<td style="text-align: left;">12/12/2023</td>
+<td style="text-align: left;"><a href="https://www.lefigaro.fr/international/la-destruction-de-gaza-est-plus-ou-moins-celle-de-l-allemagne-lors-de-la-seconde-guerre-mondiale-selon-josep-borrell-20231212">La destruction de Gaza est «plus ou moins» celle de l'Allemagne lors de la Seconde Guerre mondiale, selon Josep Borrell</a></td>
+<td style="text-align: left;">Le Figaro</td>
+</tr>
+<tr>
+<td style="text-align: left;">12/13/2023</td>
+<td style="text-align: left;"><a href="https://on.ft.com/3uOk4gP">How the loss of entire families is ravaging the social fabric of Gaza</a></td>
+<td style="text-align: left;">Financial Times</td>
+</tr>
+<tr>
+<td style="text-align: left;">12/13/2023</td>
+<td style="text-align: left;"><a href="https://abcnews.go.com/International/damage-epicenter-shifts-khan-yunis-israel-hamas-fighting/story?id=105629137">Damage epicenter shifts to Khan Younis as Israel-Hamas fighting moves south, data shows</a></td>
+<td style="text-align: left;">ABC News</td>
+</tr>
+<tr>
+<td style="text-align: left;">12/14/2023</td>
+<td style="text-align: left;"><a href="https://www.npr.org/2023/12/14/1218643254/israel-is-using-an-ai-system-to-find-targets-in-gaza-experts-say-its-just-the-st">Here's how Israel is using artificial intelligence to find targets in Gaza.  : NPR</a></td>
+<td style="text-align: left;">National Public Radio</td>
+</tr>
+<tr>
+<td style="text-align: left;">12/14/2023</td>
+<td style="text-align: left;"><a href="https://www.thetimes.co.uk/article/almost-half-of-israels-gaza-strikes-use-unguided-missiles-9tw0gm3gq">Almost half of Israel’s Gaza strikes ‘use unguided missiles’</a></td>
+<td style="text-align: left;">The Times</td>
+</tr>
+<tr>
+<td style="text-align: left;">12/14/2023</td>
+<td style="text-align: left;"><a href="https://elpais.com/internacional/2023-12-14/mapas-y-graficos-de-la-guerra-entre-israel-y-gaza-que-explican-como-evoluciona-el-conflicto.html?outputType=amp">Vorher-nachher-Vergleich: Satellitenbilder zeigen die massive Zerstörung in Gaza</a></td>
+<td style="text-align: left;">El Pais</td>
+</tr>
+<tr>
+<td style="text-align: left;">12/14/2023</td>
+<td style="text-align: left;"><a href="https://www.derstandard.at/story/3000000198583/dutzende-verwandte-im-krieg-verloren-die-menschen-in-gaza-verdienen-auch-zu-leben?ref=rss">Dutzende Verwandte im Krieg verloren: 'Die Menschen in Gaza verdienen auch zu leben'</a></td>
+<td style="text-align: left;">Der Standard</td>
+</tr>
+<tr>
+<td style="text-align: left;">12/19/2023</td>
+<td style="text-align: left;"><a href="https://www.vg.no/spesial/2023/israel-palestina-grafikker/">Israel/Gaza-krigen: Kart og grafikk</a></td>
+<td style="text-align: left;">Verdens Gang</td>
+</tr>
+<tr>
+<td style="text-align: left;">12/19/2023</td>
+<td style="text-align: left;"><a href="https://www.lefigaro.fr/international/guerre-israel-hamas-la-moitie-des-batiments-du-nord-de-gaza-endommages-ou-detruits-20231123">Guerre Israël-Hamas : plus de 100.000 immeubles endommagés ou détruits dans toute la bande de Gaza</a></td>
+<td style="text-align: left;">Le Figaro</td>
+</tr>
+<tr>
+<td style="text-align: left;">12/19/2023</td>
+<td style="text-align: left;"><a href="https://www.lefigaro.fr/international/guerre-israel-hamas-la-moitie-des-batiments-du-nord-de-gaza-endommages-ou-detruits-20231123">Guerre Israël-Hamas : plus de 100.000 immeubles endommagés ou détruits dans toute la bande de Gaza</a></td>
+<td style="text-align: left;">Le Figaro</td>
+</tr>
+<tr>
+<td style="text-align: left;">12/20/2023</td>
+<td style="text-align: left;"><a href="https://www.businessinsider.com/researchers-mapped-gaza-damage-buildings-destroyed-israel-hamas-2023-12">Researchers Mapped Gaza Damage, Over a Third of Buildings Destroyed</a></td>
+<td style="text-align: left;">Business Insider</td>
+</tr>
+<tr>
+<td style="text-align: left;">12/20/2023</td>
+<td style="text-align: left;"><a href="https://stories.lavanguardia.com/internacional/20231220/74301/hospital-asediado-en-gaza">Asedio al último hospital operativo en el norte de Gaza</a></td>
+<td style="text-align: left;">La Vanguardia</td>
+</tr>
+<tr>
+<td style="text-align: left;">12/21/2023</td>
+<td style="text-align: left;"><a href="https://www.bbc.co.uk/news/world-middle-east-20415675">Gaza Strip in maps: How life has changed in two months</a></td>
+<td style="text-align: left;">BBC News</td>
+</tr>
+<tr>
+<td style="text-align: left;">12/21/2023</td>
+<td style="text-align: left;"><a href="https://www.rtlnieuws.nl/nieuws/buitenland/artikel/5425491/verwoesting-gaza-na-10-weken-oorlog">Vorher-nachher-Vergleich: Satellitenbilder zeigen die massive Zerstörung in Gaza</a></td>
+<td style="text-align: left;">RTL News</td>
+</tr>
+<tr>
+<td style="text-align: left;">12/21/2023</td>
+<td style="text-align: left;"><a href="https://on.ft.com/48jgVo0">Visual analysis: the wastelands in Gaza’s two biggest cities</a></td>
+<td style="text-align: left;">Financial Times</td>
+</tr>
+<tr>
+<td style="text-align: left;">12/21/2023</td>
+<td style="text-align: left;"><a href="https://bnnbreaking.com/watch-now/satellite-imagery-unveils-the-extent-of-gazas-destruction/">Gaza's Devastation Uncovered Through Satellite Imagery</a></td>
+<td style="text-align: left;">BNN Bloomberg</td>
+</tr>
+<tr>
+<td style="text-align: left;">12/22/2023</td>
+<td style="text-align: left;"><a href="https://apnews.com/article/israel-gaza-bombs-destruction-death-toll-scope-419488c511f83c85baea22458472a796">Vorher-nachher-Vergleich: Satellitenbilder zeigen die massive Zerstörung in Gaza</a></td>
+<td style="text-align: left;">AP News</td>
+</tr>
+<tr>
+<td style="text-align: left;">12/22/2023</td>
+<td style="text-align: left;"><a href="https://wapo.st/4794UjR">Photos, videos and maps show Palestinians have no safe place to go in Gaza </a></td>
+<td style="text-align: left;">The Washington Post</td>
+</tr>
+<tr>
+<td style="text-align: left;">12/22/2023</td>
+<td style="text-align: left;"><a href="https://www.reuters.com/graphics/ISRAEL-PALESTINIANS/MAPS/movajdladpa/#bombardment-in-gaza-intensifies">Mapping the conflict in Israel and Gaza</a></td>
+<td style="text-align: left;">Reuters</td>
+</tr>
+<tr>
+<td style="text-align: left;">12/23/2023</td>
+<td style="text-align: left;"><a href="https://www.spiegel.de/ausland/israel-gaza-krieg-der-konflikt-mit-der-hamas-in-grafiken-und-karten-a-3967f2d7-9923-47e1-9eed-a09c543d24bd">Der Konflikt in Karten und Grafiken</a></td>
+<td style="text-align: left;">Der Spiegel</td>
+</tr>
+<tr>
+<td style="text-align: left;">12/23/2023</td>
+<td style="text-align: left;"><a href="https://amp.theguardian.com/world/2023/dec/22/israel-widens-ground-offensive-gaza-un-aid-resolution-talks-continue">Vorher-nachher-Vergleich: Satellitenbilder zeigen die massive Zerstörung in Gaza</a></td>
+<td style="text-align: left;">The Guardian</td>
+</tr>
+<tr>
+<td style="text-align: left;">12/26/2023</td>
+<td style="text-align: left;"><a href="https://www.nytimes.com/interactive/2023/12/26/world/middleeast/gaza-south-displaced-damage.html">Nearly Two Million Crowd Into Gaza’s South as Fighting Intensifies</a></td>
+<td style="text-align: left;">The New York Times</td>
+</tr>
+<tr>
+<td style="text-align: left;">12/27/2023</td>
+<td style="text-align: left;"><a href="https://www.ft.com/content/42bbe534-8a0d-4ba8-9cc6-f84936d87196">The Israel-Hamas war in maps: latest updates</a></td>
+<td style="text-align: left;">Financial Times</td>
+</tr>
+<tr>
+<td style="text-align: left;">12/27/2023</td>
+<td style="text-align: left;"><a href="https://on.ft.com/4ayWO72">Israel-UN relations plunge to new low as Gaza war rages</a></td>
+<td style="text-align: left;">Financial Times</td>
+</tr>
+<tr>
+<td style="text-align: left;">12/28/2023</td>
+<td style="text-align: left;"><a href="https://www.washingtonpost.com/world/2023/gaza-strip-map-attacks-damage/">Mapping damage in Gaza: Where attacks, refugee camps and borders are</a></td>
+<td style="text-align: left;">The Washington Post</td>
+</tr>
+<tr>
+<td style="text-align: left;">12/29/2023</td>
+<td style="text-align: left;"><a href="https://www.faz.net/aktuell/israel-krieg/gaza-satellitenbilder-zeigen-ausmass-der-zerstoerung-im-krieg-19288159.html">Krieg in Nahost: Wie viele Palästinenser wurden in Gaza getötet?</a></td>
+<td style="text-align: left;">FAZ</td>
+</tr>
+<tr>
+<td style="text-align: left;">12/29/2023</td>
+<td style="text-align: left;"><a href="https://www.n-tv.de/politik/Immer-groessere-Teile-des-Gazastreifens-liegen-in-Truemmern-article24520953.html">Satellitengestützte Datenanalyse: Immer größere Teile des Gazastreifens liegen in Trümmern</a></td>
+<td style="text-align: left;">N-TV</td>
+</tr>
+<tr>
+<td style="text-align: left;">12/29/2023</td>
+<td style="text-align: left;"><a href="https://www.democracynow.org/2023/11/22/radar">Vorher-nachher-Vergleich: Satellitenbilder zeigen die massive Zerstörung in Gaza</a></td>
+<td style="text-align: left;">Democracy Now</td>
+</tr>
+<tr>
+<td style="text-align: left;">12/30/2023</td>
+<td style="text-align: left;"><a href="https://www.thetimes.co.uk/article/what-happening-gaza-map-israel-hamas-lqc8q5zns">What’s happening in Gaza? The scale of destruction in maps</a></td>
+<td style="text-align: left;">The Times</td>
+</tr>
+<tr>
+<td style="text-align: left;">12/30/2023</td>
+<td style="text-align: left;"><a href="https://www.cbc.ca/news/politics/israel-gaza-bombing-hamas-civilian-casualties-1.7068647">Vorher-nachher-Vergleich: Satellitenbilder zeigen die massive Zerstörung in Gaza</a></td>
+<td style="text-align: left;">CBC News</td>
+</tr>
+<tr>
+<td style="text-align: left;">12/30/2023</td>
+<td style="text-align: left;">[The Ruined Landscape of Gaza After Nearly Three Months of Bombing</td>
+<td style="text-align: left;">Wall Street Journal</td>
+</tr>
+<tr>
+<td style="text-align: left;"></td>
+<td style="text-align: left;">](https://www.wsj.com/world/middle-east/gaza-destruction-bombing-israel-aa528542?mod=hp_lead_pos7)</td>
+<td style="text-align: left;"></td>
+</tr>
+<tr>
+<td style="text-align: left;">12/30/2023</td>
+<td style="text-align: left;"><a href="https://ici.radio-canada.ca/nouvelle/2038198/gaza-bombardements-cartographie-destruction-experts">Les bombardements israéliens à Gaza, les plus destructeurs du siècle, selon des experts</a></td>
+<td style="text-align: left;">Radio Canada</td>
+</tr>
+<tr>
+<td style="text-align: left;">1/2/2024</td>
+<td style="text-align: left;"><a href="https://www.ft.com/content/fa93e55e-da75-477f-8bf7-e0f598d280d5">What will be left of Gaza when the war ends?</a></td>
+<td style="text-align: left;">Financial Times</td>
+</tr>
+<tr>
+<td style="text-align: left;">1/6/2024</td>
+<td style="text-align: left;"><a href="https://www.cbc.ca/listen/live-radio/1-14-day-6/clip/16033452-meet-researcher-using-satellites-radar-estimate-destruction-gaza">Meet the researcher using satellites and radar to estimate the destruction in Gaza</a></td>
+<td style="text-align: left;">CBC News</td>
+</tr>
+<tr>
+<td style="text-align: left;">1/8/2024</td>
+<td style="text-align: left;"><a href="https://theworld.org/media/2024-01-08/gaza-being-chewed-away">Gaza is being 'chewed away'</a></td>
+<td style="text-align: left;">The World</td>
+</tr>
+<tr>
+<td style="text-align: left;">1/8/2024</td>
+<td style="text-align: left;"><a href="https://www.axios.com/2024/01/08/israel-hamas-gaza-hostages-blinken-palestinians">Scoop: Israel to tell Blinken Palestinians can't return to north Gaza without hostage deal</a></td>
+<td style="text-align: left;">Axios</td>
+</tr>
+<tr>
+<td style="text-align: left;">1/9/2024</td>
+<td style="text-align: left;"><a href="https://www.bbc.com/news/live/world-middle-east-67920784?ns_mchannel=social&amp;ns_source=twitter&amp;ns_campaign=bbc_live&amp;ns_linkname=659d9db3f825603c1a38210e%26Maps%20show%20extent%20of%20damage%20in%20Gaza%262024-01-09T19%3A47%3A27.276Z&amp;ns_fee=0&amp;pinned_post_locator=urn:asset:ab20315d-3f73-4139-b585-dcf3a481b205&amp;pinned_post_asset_id=659d9db3f825603c1a38210e&amp;pinned_post_type=share">Maps show extent of damage in Gaza</a></td>
+<td style="text-align: left;">BBC</td>
+</tr>
+<tr>
+<td style="text-align: left;">1/9/2024</td>
+<td style="text-align: left;"><a href="https://ici.radio-canada.ca/nouvelle/2039987/antony-blinken-visite-israel-benyamin-netanyahou">Antony Blinken demande à Benyamin Nétanyahou d’épargner les civils à Gaza</a></td>
+<td style="text-align: left;">Radio Canada</td>
+</tr>
+<tr>
+<td style="text-align: left;">1/9/2024</td>
+<td style="text-align: left;"><a href="https://amp.elperiodico.com/es/internacional/20240109/datos-satelite-destruccion-total-gaza-96690031">Los datos de satélite muestran la destrucción total del norte de Gaza bajo los bombardeos de Israel</a></td>
+<td style="text-align: left;">El Periodico de Espana</td>
+</tr>
+<tr>
+<td style="text-align: left;">1/13/2024</td>
+<td style="text-align: left;"><a href="https://apnews.com/article/israel-hamas-war-100-days-palestinians-takeaways-05422978a87ab52d51df152bc9248a7f">In 100 days, the Israel-Hamas war has transformed the region. The fighting shows no signs of ending</a></td>
+<td style="text-align: left;">AP News</td>
+</tr>
+<tr>
+<td style="text-align: left;">1/13/2024</td>
+<td style="text-align: left;"><a href="https://www.nytimes.com/2024/01/13/opinion/israel-gaza-war.html?smid=nytcore-android-share">The Things We Disagree on About Gaza</a></td>
+<td style="text-align: left;">New York Times</td>
+</tr>
+<tr>
+<td style="text-align: left;">1/14/2024</td>
+<td style="text-align: left;"><a href="https://www.npr.org/2024/01/14/1224673502/gaza-numbers-100-days-israel-hamas">The catastrophe in Gaza after 100 days of Israel-Hamas war, by the numbers</a></td>
+<td style="text-align: left;">NPR</td>
+</tr>
+<tr>
+<td style="text-align: left;">1/14/2024</td>
+<td style="text-align: left;"><a href="https://www.pbs.org/newshour/world/five-takeaways-from-100-days-of-unprecedented-war-between-israel-and-hamas">Five takeaways from 100 days of unprecedented war between Israel and Hamas</a></td>
+<td style="text-align: left;">PBS</td>
+</tr>
+<tr>
+<td style="text-align: left;">1/15/2024</td>
+<td style="text-align: left;"><a href="https://www.bbc.com/news/world-middle-east-20415675">Gaza Strip in maps: How life has changed in three months</a></td>
+<td style="text-align: left;">BBC</td>
+</tr>
+<tr>
+<td style="text-align: left;">1/15/2024</td>
+<td style="text-align: left;"><a href="https://www.lemonde.fr/en/international/article/2024/01/15/100-days-of-war-in-gaza-an-appalling-toll-and-no-end-in-sight_6434236_4.html">100 days of war in Gaza: An appalling toll and no end in sight</a></td>
+<td style="text-align: left;">Le Monde</td>
+</tr>
+<tr>
+<td style="text-align: left;">1/15/2024</td>
+<td style="text-align: left;"><a href="https://www.axios.com/2024/01/14/gaza-building-damage-israel-war">Over 50% of Gaza buildings damaged or destroyed in Israel's bombardment</a></td>
+<td style="text-align: left;">Axios</td>
+</tr>
+<tr>
+<td style="text-align: left;">1/15/2024</td>
+<td style="text-align: left;"><a href="https://www.theguardian.com/world/2024/jan/15/gaza-hostages-talks-progress-qatar-deal-hamas-israel">Hamas says two Israeli hostages have been killed by Israeli airstrikes</a></td>
+<td style="text-align: left;">The Guardian</td>
+</tr>
+<tr>
+<td style="text-align: left;">1/19/2024</td>
+<td style="text-align: left;"><a href="https://www.ledevoir.com/interactif/2024-01-19/gaza-satellite/index.html">Les ravages de la guerre à Gaza documentés par satellite</a></td>
+<td style="text-align: left;">Le Devoir</td>
+</tr>
+<tr>
+<td style="text-align: left;">1/19/2024</td>
+<td style="text-align: left;"><a href="nl">De verwoesting van Gaza in kaart</a></td>
+<td style="text-align: left;">de Volkskrant</td>
+</tr>
+<tr>
+<td style="text-align: left;">1/19/2024</td>
+<td style="text-align: left;"><a href="https://www.lefigaro.fr/international/guerre-israel-hamas-la-moitie-des-batiments-du-nord-de-gaza-endommages-ou-detruits-20231123">Guerre Israël-Hamas : après plus de cent jours de conflit, un immeuble sur deux est endommagé ou détruit dans la bande de Gaza</a></td>
+<td style="text-align: left;">Le Figaro</td>
+</tr>
+<tr>
+<td style="text-align: left;">1/19/2024</td>
+<td style="text-align: left;"><a href="https://www.lavanguardia.com/internacional/20240119/9501032/netanyahu-guerra-gaza-israel-2025.html">La guerra de Gaza puede llegar al 2025: “Dos años de guerra es poco”</a></td>
+<td style="text-align: left;">La Vanguardia</td>
+</tr>
+<tr>
+<td style="text-align: left;">1/19/2024</td>
+<td style="text-align: left;"><a href="https://www.youtube.com/watch?v=j18YCnFp2W8">'I Have No Idea How This Ends. I’ve Never Seen It So Broken.''</a></td>
+<td style="text-align: left;">New York Times</td>
+</tr>
+<tr>
+<td style="text-align: left;">1/20/2024</td>
+<td style="text-align: left;"><a href="https://www.nzz.ch/international/krieg-im-nahen-osten-die-aktuellsten-grafiken-im-ueberblick-ld.1774368">So entwickelt sich der Krieg im Gazastreifen: die aktuellsten Grafiken im Überblick</a></td>
+<td style="text-align: left;">NZZ</td>
+</tr>
+<tr>
+<td style="text-align: left;">1/22/2024</td>
+<td style="text-align: left;"><a href="https://www.rtve.es/noticias/20240122/datos-mapas-situacion-guerra-gaza/15924546.shtml">Un millón de refugiados en apenas 60 kilómetros cuadrados: datos y mapas de la situación en Gaza</a></td>
+<td style="text-align: left;">RTVE</td>
+</tr>
+<tr>
+<td style="text-align: left;">1/24/2024</td>
+<td style="text-align: left;"><a href="https://www.bloomberg.com/news/newsletters/2024-01-24/maplab-mapping-gaza-s-destruction">MapLab: Mapping Gaza’s Destruction</a></td>
+<td style="text-align: left;">Bloomberg</td>
+</tr>
+<tr>
+<td style="text-align: left;">1/25/2024</td>
+<td style="text-align: left;"><a href="https://www.marketplace.org/shows/marketplace-tech/how-satellite-radar-helps-scientists-map-the-destruction-in-gaza/">How satellite radar helps scientists map the destruction in Gaza</a></td>
+<td style="text-align: left;">Marketplace</td>
+</tr>
+<tr>
+<td style="text-align: left;">1/25/2024</td>
+<td style="text-align: left;"><a href="https://www.wsj.com/world/middle-east/israel-border-gaza-buffer-zone-4131020d?st=68rjmy3nlvxs6yh&amp;mod=googlenewsfeed">Israel Builds Buffer Zone Along Gaza Border, Risking New Rift With U.S.</a></td>
+<td style="text-align: left;">Wall Street Journal</td>
+</tr>
+<tr>
+<td style="text-align: left;">1/29/2024</td>
+<td style="text-align: left;"><a href="https://www.nytimes.com/interactive/2024/01/29/opinion/destruction-of-homes-crime-domicide.html">Domicide: The Mass Destruction of Homes Should Be a Crime Against Humanity</a></td>
+<td style="text-align: left;">New York Times</td>
+</tr>
+<tr>
+<td style="text-align: left;">1/30/2024</td>
+<td style="text-align: left;"><a href="https://www.ft.com/content/282ffdcd-70c0-4da5-9a7e-5a31d7677fe5">Can Israel achieve its war goals in Gaza?</a></td>
+<td style="text-align: left;">Financial Times</td>
+</tr>
+<tr>
+<td style="text-align: left;">1/30/2024</td>
+<td style="text-align: left;"><a href="https://www.theguardian.com/world/ng-interactive/2024/jan/30/how-war-destroyed-gazas-neighbourhoods-visual-investigation">How war destroyed Gaza’s neighbourhoods – visual investigation</a></td>
+<td style="text-align: left;">The Guardian</td>
+</tr>
+<tr>
+<td style="text-align: left;">1/30/2024</td>
+<td style="text-align: left;"><a href="https://www.bbc.com/news/world-middle-east-68006607">At least half of Gaza's buildings damaged or destroyed, new analysis shows</a></td>
+<td style="text-align: left;">BBC</td>
+</tr>
+<tr>
+<td style="text-align: left;">1/30/2024</td>
+<td style="text-align: left;"><a href="https://observers.france24.com/fr/moyen-orient/20240130-zone-tampon-%C3%A0-la-fronti%C3%A8re-de-gaza-pr%C3%A8s-de-40-des-b%C3%A2timents-d%C3%A9j%C3%A0-d%C3%A9truits">"Zone tampon" à la frontière de Gaza : près de 40 % des bâtiments déjà détruits</a></td>
+<td style="text-align: left;">France 24</td>
+</tr>
+<tr>
+<td style="text-align: left;">1/31/2024</td>
+<td style="text-align: left;"><a href="https://www.bbc.co.uk/sounds/play/p0h82dpb">More than half of Gaza's buildings damaged by war</a></td>
+<td style="text-align: left;">BBC Global News</td>
+</tr>
+<tr>
+<td style="text-align: left;">1/31/2024</td>
+<td style="text-align: left;"><a href="https://www.democracynow.org/2024/1/31/headlines/half_of_gazas_buildings_destroyed_or_damaged_in_israeli_assault">Half of Gaza’s Buildings Destroyed or Damaged in Israeli Assault</a></td>
+<td style="text-align: left;">Democracy Now</td>
+</tr>
+<tr>
+<td style="text-align: left;">2/1/2024</td>
+<td style="text-align: left;"><a href="https://www.nytimes.com/interactive/2024/02/01/world/middleeast/Israel-gaza-war-demolish.html">Israel’s Controlled Demolitions Are Razing Neighborhoods in Gaza</a></td>
+<td style="text-align: left;">New York Times</td>
+</tr>
+<tr>
+<td style="text-align: left;">2/1/2024</td>
+<td style="text-align: left;"><a href="https://apnews.com/article/israel-palestinians-war-gaza-strip-buffer-zone-72a782ddd532a4331b660a735e36acb0">Analysis shows destruction and possible buffer zone along Gaza Strip's border with Israel</a></td>
+<td style="text-align: left;">AP</td>
+</tr>
+<tr>
+<td style="text-align: left;">2/2/2024</td>
+<td style="text-align: left;"><a href="https://www.lemonde.fr/international/article/2024/02/01/sols-pollues-armes-au-phosphore-eau-contaminee-a-gaza-la-crise-sanitaire-pourrait-etre-plus-meurtriere-que-les-bombes_6214176_3210.html">L’autre menace pour Gaza : sols et air pollués, eau contaminée</a></td>
+<td style="text-align: left;">Le Monde</td>
+</tr>
+<tr>
+<td style="text-align: left;">2/2/2024</td>
+<td style="text-align: left;"><a href="https://www.lemonde.fr/en/international/article/2024/02/02/gaza-health-crisis-could-prove-more-deadly-than-bombs_6488308_4.html">Gaza health crisis could prove more deadly than bombs</a></td>
+<td style="text-align: left;">Le Monde</td>
+</tr>
+<tr>
+<td style="text-align: left;">2/2/2024</td>
+<td style="text-align: left;"><a href="https://www.theguardian.com/world/2024/feb/02/israel-and-hamas-closer-to-ceasefire-deal-amid-warning-over-gaza-children">Israel and Hamas closer to ceasefire deal amid warning over Gaza children</a></td>
+<td style="text-align: left;">Guardian</td>
+</tr>
+<tr>
+<td style="text-align: left;">2/6/2024</td>
+<td style="text-align: left;"><a href="https://www.lecho.be/dossiers/guerre-israel-hamas/elena-aoun-uclouvain-le-hamas-parait-plus-engage-dans-une-recherche-de-solution-negociee-qu-israel/10524807.html">Quelles chances pour la proposition de trêve entre Israël et le Hamas?</a></td>
+<td style="text-align: left;">l'Echo</td>
+</tr>
+<tr>
+<td style="text-align: left;">2/6/2024</td>
+<td style="text-align: left;"><a href="https://www.haaretz.com/israel-news/security-aviation/2024-02-08/ty-article-static-ext/.premium/gazans-fled-their-homes-they-have-nowhere-to-return-to/0000018d-73f0-d4f1-a18d-f7f071190002">Gazans Fled Their Homes.They Have Nowhere to Return to: 'It's Mind-blowing': 1.7 Million Palestinians Escaped Israel's Bombardment of Gaza. Most of Their Homes Have Been Damaged or Destroyed</a></td>
+<td style="text-align: left;">Haaretz</td>
+</tr>
+<tr>
+<td style="text-align: left;">2/6/2024</td>
+<td style="text-align: left;"><a href="https://jewishcurrents.org/an-israeli-buffer-zone-could-shape-gazas-post-war-reality">An Israeli “Buffer Zone” Could Shape Gaza’s Post-War Reality</a></td>
+<td style="text-align: left;">Jewish Currents</td>
+</tr>
+<tr>
+<td style="text-align: left;">2/6/2024</td>
+<td style="text-align: left;"><a href="https://www.lefigaro.fr/international/guerre-israel-hamas-plus-de-60-des-immeubles-sont-endommages-ou-detruits-dans-la-bande-de-gaza-20240301">Guerre Israël-Hamas : plus de 60% des immeubles sont endommagés ou détruits dans la bande de Gaza</a></td>
+<td style="text-align: left;">Le Figaro</td>
+</tr>
+<tr>
+<td style="text-align: left;">2/7/2024</td>
+<td style="text-align: left;"><a href="https://www.theguardian.com/world/2024/feb/07/our-last-stop-is-rafah-trapped-palestinians-await-the-israeli-onslaught">‘Our last stop is Rafah’: trapped Palestinians await Israeli onslaught</a></td>
+<td style="text-align: left;">Guardian</td>
+</tr>
+<tr>
+<td style="text-align: left;">2/8/2024</td>
+<td style="text-align: left;"><a href="https://www.ft.com/content/6265f18b-3fba-4110-9b9f-300638e48d4c">Visual analysis: Gaza’s last refuge becomes Israel’s next target</a></td>
+<td style="text-align: left;">Financial Times</td>
+</tr>
+<tr>
+<td style="text-align: left;">2/8/2024</td>
+<td style="text-align: left;"><a href="https://www.haaretz.com/israel-news/haaretz-today/2024-02-08/ty-article/.highlight/nowhere-to-return-to-how-haaretz-told-the-story-of-gazas-destruction/0000018d-89ea-d5e7-ad8d-ebea9a320000">Nowhere to Return To': How Haaretz Told the Story of Gaza's Destruction</a></td>
+<td style="text-align: left;">Haaretz</td>
+</tr>
+<tr>
+<td style="text-align: left;">2/9/2024</td>
+<td style="text-align: left;"><a href="https://www.ft.com/content/83ec1189-567c-4eed-bfc8-9c1a7095a9bc">Benjamin Netanyahu dismisses US and UN pleas for Israel not to attack Rafah</a></td>
+<td style="text-align: left;">Financial Times</td>
+</tr>
+<tr>
+<td style="text-align: left;">2/13/2024</td>
+<td style="text-align: left;"><a href="https://www.theguardian.com/world/2024/feb/13/cia-director-to-join-other-intelligence-chiefs-at-israel-hamas-talks-in-cairo">Officials say progress being made on Gaza ceasefire talks</a></td>
+<td style="text-align: left;">The Guardian</td>
+</tr>
+<tr>
+<td style="text-align: left;">2/15/2024</td>
+<td style="text-align: left;"><a href="https://www.usatoday.com/story/graphics/2024/02/15/mapping-israel-war-gaza-strip/72511363007/">Israel's war on Gaza Strip has displaced 1.4 million Palestinians: Mapping the devastation</a></td>
+<td style="text-align: left;">USA Today</td>
+</tr>
+<tr>
+<td style="text-align: left;">2/16/2024</td>
+<td style="text-align: left;"><a href="https://www.theguardian.com/world/2024/feb/16/how-gazas-safe-city-rafah-came-to-be-on-the-precipice-of-catastrophe-visualised">How Gaza’s ‘safe’ city Rafah came to be on the precipice of catastrophe – visualised</a></td>
+<td style="text-align: left;">The Guardian</td>
+</tr>
+<tr>
+<td style="text-align: left;">2/16/2024</td>
+<td style="text-align: left;"><a href="https://www.ft.com/content/a869bfd8-7303-4178-998a-7257eca1f167">Israel’s Rafah offensive: a tipping point for US support?</a></td>
+<td style="text-align: left;">Financial Times</td>
+</tr>
+<tr>
+<td style="text-align: left;">2/19/2024</td>
+<td style="text-align: left;"><a href="https://www.theguardian.com/world/2024/feb/19/israel-says-it-will-launch-rafah-assault-if-hostages-not-freed-by-ramadan">Israel says it will launch Rafah assault if hostages not freed by Ramadan</a></td>
+<td style="text-align: left;">The Guardian</td>
+</tr>
+<tr>
+<td style="text-align: left;">2/21/2024</td>
+<td style="text-align: left;"><a href="https://www.sueddeutsche.de/projekte/artikel/politik/gaza-israel-krieg-zerstoerung-e096917/?reduced=true">Werden die Menschen nach dem Krieg noch in Gaza leben können?</a></td>
+<td style="text-align: left;">Süddeutsche Zeitung</td>
+</tr>
+<tr>
+<td style="text-align: left;">2/23/2024</td>
+<td style="text-align: left;"><a href="https://www.faz.net/aktuell/politik/israels-krieg-gegen-die-hamas-wie-zerstoert-ist-gaza-19508287.html">How is Gaza destroyed?</a></td>
+<td style="text-align: left;">Faz</td>
+</tr>
+<tr>
+<td style="text-align: left;">2/27/2024</td>
+<td style="text-align: left;"><a href="https://www.bbc.com/news/live/world-middle-east-68339508?ns_mchannel=social&amp;ns_source=twitter&amp;ns_campaign=bbc_live&amp;ns_linkname=65ddb1af4268143d286d124d%26Damage%20to%20buildings%20in%20Gaza%20mapped%262024-02-27T10%3A19%3A11.613Z&amp;ns_fee=0&amp;pinned_post_locator=urn:asset:d57bfd88-67c7-40b9-8e74-5d1665f4d70d&amp;pinned_post_asset_id=65ddb1af4268143d286d124d&amp;pinned_post_type=share">Damage to buildings in Gaza mapped</a></td>
+<td style="text-align: left;">BBC</td>
+</tr>
+<tr>
+<td style="text-align: left;">2/29/2024</td>
+<td style="text-align: left;"><a href="https://www.lecho.be/dossiers/guerre-israel-hamas/le-hamas-denonce-des-tirs-israeliens-meurtriers-contre-une-centaine-de-palestiniens-en-attente-d-aide/10530345.html"> Distribution d'aide à Gaza: réunion d'urgence du Conseil de sécurité de l'ONU ce jeudi</a></td>
+<td style="text-align: left;">L'Echo</td>
+</tr>
+<tr>
+<td style="text-align: left;">2/29/2024</td>
+<td style="text-align: left;"><a href="https://www.nytimes.com/interactive/2024/02/29/world/middleeast/gaza-aid-trucks-map.html?referringSource=articleShare">What We Know About the Deaths Near the Gaza Aid Convoy</a></td>
+<td style="text-align: left;">New York Times</td>
+</tr>
+<tr>
+<td style="text-align: left;">3/1/2024</td>
+<td style="text-align: left;"><a href="https://on.ft.com/3Tis3N1">Famine was stalking Gaza — then an aid convoy turned to deadly chaos</a></td>
+<td style="text-align: left;">Financial Times</td>
+</tr>
+<tr>
+<td style="text-align: left;">3/1/2024</td>
+<td style="text-align: left;"><a href="https://www.lecho.be/dossiers/guerre-israel-hamas/apres-la-mort-d-une-centaine-de-palestiniens-a-gaza-l-espoir-d-une-treve-s-eloigne/10530345.html">Après la mort d'une centaine de Palestiniens à Gaza, l'espoir d'une trêve s'éloigne</a></td>
+<td style="text-align: left;">L'Echo</td>
+</tr>
+<tr>
+<td style="text-align: left;">3/4/2024</td>
+<td style="text-align: left;"><a href="https://interactive.aljazeera.com/aje/2024/displacement-israel-war-on-gaza-no-safe-place/">Nowhere safe in Gaza</a></td>
+<td style="text-align: left;">Al Jazeera</td>
+</tr>
+<tr>
+<td style="text-align: left;">3/6/2024</td>
+<td style="text-align: left;"><a href="https://www.lemonde.fr/international/article/2024/03/06/gaza-cartographie-d-un-champ-de-ruines-apres-cinq-mois-de-combats_6220491_3210.html">Gaza : cartographie d’un champ de ruines après cinq mois de combats</a></td>
+<td style="text-align: left;">Le Monde</td>
+</tr>
+<tr>
+<td style="text-align: left;">3/7/2024</td>
+<td style="text-align: left;"><a href="https://www.lemonde.fr/en/international/article/2024/03/07/israel-hamas-war-gaza-city-has-been-reduced-to-hunger-and-chaos_6593231_4.html">Israel-Hamas war: Gaza City has been reduced to hunger and chaos</a></td>
+<td style="text-align: left;">Le Monde</td>
+</tr>
+<tr>
+<td style="text-align: left;">3/8/2024</td>
+<td style="text-align: left;"><a href="https://www.abc.net.au/news/2024-03-09/jumanas-journey-documents-destruction-in-israel-gaza-war/103542040">Escape from Gaza</a></td>
+<td style="text-align: left;">Australian Broadcasting Service</td>
+</tr>
+<tr>
+<td style="text-align: left;">3/8/2024</td>
+<td style="text-align: left;"><a href="https://www.wsj.com/world/middle-east/the-vicious-cycle-driving-gazas-north-to-famine-3dc85313">The Vicious Cycle Driving Gaza’s North to Famine</a></td>
+<td style="text-align: left;">Wall Street Journal</td>
+</tr>
+<tr>
+<td style="text-align: left;">3/9/2024</td>
+<td style="text-align: left;"><a href="https://www.ft.com/content/d236431b-b9bd-4d6c-b5a1-de36a7a0cf5c">Starvation stalks children of northern Gaza</a></td>
+<td style="text-align: left;">Financial Times</td>
+</tr>
+<tr>
+<td style="text-align: left;">3/13/2024</td>
+<td style="text-align: left;"><a href="https://undark.org/2024/03/13/satellites-show-damaged-buildings-gaza/">In Gaza, Satellites Show 157,200 Damaged or Destroyed Buildings</a></td>
+<td style="text-align: left;">Undark</td>
+</tr>
+<tr>
+<td style="text-align: left;">3/14/2024</td>
+<td style="text-align: left;"><a href="https://www.haaretz.com/israel-news/2024-03-14/ty-article/.premium/khan-yunis-in-rubble-sat-images-reveal-mass-destruction-in-gazas-second-largest-city/0000018e-3d30-d670-a5be-fd3e9a650000">Khan Yunis in Rubble: Sat Images Reveal Widespread Destruction, Flattened Buildings in Gaza's Second-largest City</a></td>
+<td style="text-align: left;">Haaretz</td>
+</tr>
+<tr>
+<td style="text-align: left;">3/16/2024</td>
+<td style="text-align: left;"><a href="https://www.wsj.com/world/middle-east/israel-gaza-hamas-war-buffer-zone-explained-2a7347af">How Israel’s Proposed Buffer Zone Reshapes the Gaza Strip</a></td>
+<td style="text-align: left;">Wall Street Journal</td>
+</tr>
+<tr>
+<td style="text-align: left;">3/18/2024</td>
+<td style="text-align: left;"><a href="https://www.mediapart.fr/journal/international/180324/israel-transforme-gaza-la-plus-grande-ville-palestinienne-en-champ-de-ruines?utm_source=article_offert&amp;utm_medium=email&amp;utm_campaign=TRANSAC&amp;utm_content=&amp;utm_term=&amp;xtor=EPR-1013-%5Barticle-offert%5D%20%20&amp;M_BT=8915346396408">Israël a transformé Gaza, la plus grande ville palestinienne, en champ de ruines</a></td>
+<td style="text-align: left;">Mediapart</td>
+</tr>
+<tr>
+<td style="text-align: left;">3/18/2024</td>
+<td style="text-align: left;"><a href="https://gijn.org/stories/using-satellite-radar-data-track-gaza-war-damage/">Mapping Conflict: Using Satellite Radar Data to Track the War Damage in Gaza</a></td>
+<td style="text-align: left;">Global Investigative Journalism Network</td>
+</tr>
+<tr>
+<td style="text-align: left;">3/20/2024</td>
+<td style="text-align: left;"><a href="https://www.nytimes.com/interactive/2024/03/20/world/middleeast/gaza-aid-delivery.html">Why Isn’t More Aid Getting to Gazans?</a></td>
+<td style="text-align: left;">New York Times</td>
+</tr>
+<tr>
+<td style="text-align: left;">3/25/2024</td>
+<td style="text-align: left;"><a href="https://www.theguardian.com/world/2024/mar/25/gaza-medical-crisis-hospitals-aid-agencies">Medical crisis in Gaza hospitals at ‘unimaginable’ level, aid agencies say</a></td>
+<td style="text-align: left;">The Guardian</td>
+</tr>
+<tr>
+<td style="text-align: left;">3/27/2024</td>
+<td style="text-align: left;"><a href="https://www.ft.com/content/1d884113-791f-4f8c-bb15-0ef9085312a0">Military briefing: the battle that betrays Israel’s war plan</a></td>
+<td style="text-align: left;">Financial Times</td>
+</tr>
+<tr>
+<td style="text-align: left;">3/27/2024</td>
+<td style="text-align: left;"><a href="https://www.lefigaro.fr/international/conflit-israel-hamas-affrontements-a-gaza-des-discussions-a-venir-sur-rafah-20240328">Guerre Hamas-Israël : affrontements à Gaza, des discussions à venir sur Rafah</a></td>
+<td style="text-align: left;">Le Figaro</td>
+</tr>
+<tr>
+<td style="text-align: left;">4/5/2024</td>
+<td style="text-align: left;"><a href="https://www.youtube.com/watch?v=-_-F_3TnS2s">Gaza détruite à 70 % : qui paiera la reconstruction ?</a></td>
+<td style="text-align: left;">L'Express</td>
+</tr>
+<tr>
+<td style="text-align: left;">4/5/2024</td>
+<td style="text-align: left;"><a href="https://www.bbc.com/news/world-middle-east-68687749">Gaza evacuation warnings from IDF contain many errors, BBC finds</a></td>
+<td style="text-align: left;">BBC</td>
+</tr>
+<tr>
+<td style="text-align: left;">4/5/2024</td>
+<td style="text-align: left;"><a href="https://www.lefigaro.fr/fig-data/guerre-israel-hamas-6-mois-apres-gaza-devastee-20240405/">Six mois après, Gaza dévastée</a></td>
+<td style="text-align: left;">Le Figaro</td>
+</tr>
+<tr>
+<td style="text-align: left;">4/6/2024</td>
+<td style="text-align: left;"><a href="https://www.usatoday.com/story/graphics/2024/04/05/israel-war-gaza-strip-human-toll-visualized/73130709007/">30,000-plus lives lost: Visualizing the death and destruction of Israel's war in Gaza</a></td>
+<td style="text-align: left;">USA Today</td>
+</tr>
+<tr>
+<td style="text-align: left;">4/7/2024</td>
+<td style="text-align: left;"><a href="https://www.axios.com/2024/04/07/gaza-infrastructure-land-damage-israel-six-months-war">Gaza buildings and land decimated in 6 months of war</a></td>
+<td style="text-align: left;">Axios</td>
+</tr>
+<tr>
+<td style="text-align: left;">4/7/2024</td>
+<td style="text-align: left;"><a href="https://www.ledevoir.com/monde/moyen-orient/810426/six-mois-guerre-gaza-six-graphiques">Six mois de guerre à Gaza en six graphiques</a></td>
+<td style="text-align: left;">Le Devoir</td>
+</tr>
+<tr>
+<td style="text-align: left;">4/7/2024</td>
+<td style="text-align: left;"><a href="https://ici.radio-canada.ca/nouvelle/2062684/gaza-six-mois-guerre-israel-hamas">Après six mois de guerre, Gaza en cartes et en graphiques</a></td>
+<td style="text-align: left;">Radio Canada</td>
+</tr>
+<tr>
+<td style="text-align: left;">4/7/2024</td>
+<td style="text-align: left;"><a href="https://www.lavanguardia.com/internacional/20240407/9588581/gaza-victoria-imposible.html">Gaza: la victoria imposible</a></td>
+<td style="text-align: left;">La Vanguardia</td>
+</tr>
+<tr>
+<td style="text-align: left;">4/7/2024</td>
+<td style="text-align: left;"><a href="https://apnews.com/article/israel-hamas-gaza-war-news-04-08-2024-c8776b6a074cd182d0641214f5f352d0">Palestinians returning to Khan Younis after Israeli withdrawal find an unrecognizable city</a></td>
+<td style="text-align: left;">AP</td>
+</tr>
+<tr>
+<td style="text-align: left;">4/7/2024</td>
+<td style="text-align: left;"><a href="https://www.ledevoir.com/monde/moyen-orient/810426/six-mois-guerre-gaza-six-graphiques?">Gaza meurtrie après six mois de guerre</a></td>
+<td style="text-align: left;">Le Devoir</td>
+</tr>
+<tr>
+<td style="text-align: left;">4/8/2024</td>
+<td style="text-align: left;"><a href="https://www.washingtonpost.com/world/2024/04/08/gaza-khan-younis-idf-destruction/">Gazans return to a Khan Younis devastated beyond recognition</a></td>
+<td style="text-align: left;">Washington Post</td>
+</tr>
+<tr>
+<td style="text-align: left;">4/9/2024</td>
+<td style="text-align: left;"><a href="https://www.volkskrant.nl/kijkverder/v/2024/gazanen-keren-terug-naar-khan-younis-maar-daar-is-nog-maar-weinig-van-over~v1061319/">Gazans return to Khan Younis - but there is little left of it</a></td>
+<td style="text-align: left;">de Volkskrant</td>
+</tr>
+<tr>
+<td style="text-align: left;">4/10/2024</td>
+<td style="text-align: left;"><a href="https://english.elpais.com/international/2024-04-10/satellite-images-reveal-extent-of-devastation-in-gaza-after-six-months-of-war.html">Satellite images reveal extent of devastation in Gaza after six months of war</a></td>
+<td style="text-align: left;">El Pais</td>
+</tr>
+<tr>
+<td style="text-align: left;">4/10/2024</td>
+<td style="text-align: left;"><a href="https://www.ft.com/content/0a7b0f4d-31d8-4995-9023-ae5466ea6ec6">Hamas political leader says three of his sons killed in Israeli air strike</a></td>
+<td style="text-align: left;">Financial Times</td>
+</tr>
+<tr>
+<td style="text-align: left;">4/15/2024</td>
+<td style="text-align: left;"><a href="https://www.haaretz.com/world-news/2024-04-15/ty-article/.premium/un-almost-all-buildings-in-israels-buffer-zone-in-gaza-were-destroyed/0000018e-e12a-d09b-afff-ef2f2ccf0000">UN: Almost All Buildings in Israel's Buffer Zone in Gaza Were Destroyed</a></td>
+<td style="text-align: left;">Haaretz</td>
+</tr>
+<tr>
+<td style="text-align: left;">4/16/2024</td>
+<td style="text-align: left;"><a href="https://www.bloomberg.com/graphics/2024-map-gaza-rafah-israel-hamas-war/">A Detailed Map Shows How Airstrikes and Refugees Reshaped Rafah</a></td>
+<td style="text-align: left;">Bloomberg</td>
+</tr>
+<tr>
+<td style="text-align: left;">4/23/2024</td>
+<td style="text-align: left;"><a href="https://www.ft.com/content/ee1b7aa2-c9c7-419b-8190-83f524f461a1">UN officials call for probe into reports of mass graves at Gaza hospitals</a></td>
+<td style="text-align: left;">Financial Times</td>
+</tr>
+<tr>
+<td style="text-align: left;">4/25/2024</td>
+<td style="text-align: left;"><a href="https://www.ft.com/content/c529a37b-abfe-4532-af97-21475048b9c9">Gazans vent anger against Hamas</a></td>
+<td style="text-align: left;">Financial Times</td>
+</tr>
+<tr>
+<td style="text-align: left;">4/29/2024</td>
+<td style="text-align: left;"><a href="https://amp.theguardian.com/world/article/2024/may/11/latest-gaza-evacuation-warnings-expose-weak-spots-in-israels-war-strategy">Netzarim Corridor: Gaza Strip Cuts in Two</a></td>
+<td style="text-align: left;">France 24</td>
+</tr>
+<tr>
+<td style="text-align: left;">5/6/2024</td>
+<td style="text-align: left;"><a href="https://www.voaafrica.com/amp/satellite-imagery-reveals-widespread-damage-to-rafah/7616148.html">Israeli army urges Palestinians to evacuate parts of Rafah ahead of 'limited' action</a></td>
+<td style="text-align: left;">CBC</td>
+</tr>
+<tr>
+<td style="text-align: left;">5/6/2024</td>
+<td style="text-align: left;"><a href="https://www.voaafrica.com/amp/satellite-imagery-reveals-widespread-damage-to-rafah/7616148.html">Guerra entre Israel y Gaza: mapas y gráficos para entender como evoluciona el conflicto</a></td>
+<td style="text-align: left;">El Pais</td>
+</tr>
+<tr>
+<td style="text-align: left;">5/6/2024</td>
+<td style="text-align: left;"><a href="https://www.washingtonpost.com/world/2024/05/17/gaza-israel-netzarim-corridor-war-hamas/">Guerre Israël-Hamas: Gaza entre espoir de trêve et crainte d’offensive israélienne au Sud</a></td>
+<td style="text-align: left;">Le Figaro</td>
+</tr>
+<tr>
+<td style="text-align: left;">5/7/2024</td>
+<td style="text-align: left;"><a href="https://us.afpnews.com/article/?unlike-anything-we-have-studied-gazas-destruction-in-numbers,34QU6D7#">Unlike anything we have studied': Gaza's destruction in numbers</a></td>
+<td style="text-align: left;">AFP</td>
+</tr>
+<tr>
+<td style="text-align: left;">5/7/2024</td>
+<td style="text-align: left;"><a href="https://www.cbc.ca/news/world/israeli-military-rafah-crossing-1.7196174">Israeli forces take control of vital Rafah crossing from Gaza into Egypt</a></td>
+<td style="text-align: left;">CBC</td>
+</tr>
+<tr>
+<td style="text-align: left;">5/7/2024</td>
+<td style="text-align: left;"><a href="https://www.theguardian.com/world/article/2024/may/07/israel-launches-rafah-offensive-start-mission-eliminate-hamas">Israel launches Rafah offensive it says is start of mission to ‘eliminate’ Hamas</a></td>
+<td style="text-align: left;">The Guardian</td>
+</tr>
+<tr>
+<td style="text-align: left;">5/7/2024</td>
+<td style="text-align: left;"><a href="https://www.theguardian.com/world/article/2024/may/07/israel-idf-control-rafah-crossing-gaza-palestine-side-hamas-war-latest-update">Israeli forces say they have control of Gaza side of Rafah crossing</a></td>
+<td style="text-align: left;">The Guardian</td>
+</tr>
+<tr>
+<td style="text-align: left;">5/7/2024</td>
+<td style="text-align: left;"><a href="https://www.lavanguardia.com/internacional/20240506/9617707/israel-sigue-adelante-bombardea-rafah.html">Israel rechaza un alto el fuego y ataca Rafah</a></td>
+<td style="text-align: left;">La Vanguardia</td>
+</tr>
+<tr>
+<td style="text-align: left;">5/7/2024</td>
+<td style="text-align: left;"><a href="https://www.theguardian.com/world/article/2024/may/07/israel-rafah-ceasefire-talks-hamas">Why has Israel moved into Rafah and what is status of its ceasefire talks with Hamas?</a></td>
+<td style="text-align: left;">The Guardian</td>
+</tr>
+<tr>
+<td style="text-align: left;">5/9/2024</td>
+<td style="text-align: left;"><a href="https://www.wsj.com/world/middle-east/rafah-gaza-map-israel-hamas-war-8db0f38e?mod=hp_lead_pos2">Israel’s Advance Toward Rafah, Shown in Maps</a></td>
+<td style="text-align: left;">Wall Street Journal</td>
+</tr>
+<tr>
+<td style="text-align: left;">5/13/2024</td>
+<td style="text-align: left;"><a href="https://www.ft.com/content/9fb2b735-0d8b-4363-b7a4-af28d2698c3e">Israel battles resurgent Hamas in northern Gaza</a></td>
+<td style="text-align: left;">Financial Times</td>
+</tr>
+<tr>
+<td style="text-align: left;">5/15/2024</td>
+<td style="text-align: left;"><a href="https://www.nytimes.com/interactive/2024/05/15/world/middleeast/israel-gaza-rafah-map.html">Maps Show Scarce Shelter and Medical Care as Rafah Operation Is Underway</a></td>
+<td style="text-align: left;">New York Times</td>
+</tr>
+<tr>
+<td style="text-align: left;">5/16/2024</td>
+<td style="text-align: left;"><a href="https://www.elindependiente.com/internacional/2024/05/15/de-arganzuela-a-tetuan-la-destruccion-de-gaza-sobre-el-mapa-de-madrid/">De Arganzuela a Tetuán: la destrucción de Gaza sobre el mapa de Madrid</a></td>
+<td style="text-align: left;">El Independiente</td>
+</tr>
+<tr>
+<td style="text-align: left;">5/17/2024</td>
+<td style="text-align: left;"><a href="https://www.washingtonpost.com/world/2024/05/17/gaza-israel-netzarim-corridor-war-hamas/">What Israel’s strategic corridor in Gaza reveals about its postwar plans</a></td>
+<td style="text-align: left;">Washington Post</td>
+</tr>
+<tr>
+<td style="text-align: left;">5/17/2024</td>
+<td style="text-align: left;"><a href="https://abcnews.go.com/International/live-updates/israel-hamas-war-cease-fire-hostages-latest/1400-buildings-have-been-damaged-destroyed-in-rafah-this-month-110345713?id=110155662">1,400 buildings have been damaged, destroyed in Rafah this month</a></td>
+<td style="text-align: left;">ABC</td>
+</tr>
+<tr>
+<td style="text-align: left;">5/14/2024</td>
+<td style="text-align: left;"><a href="https://www.lefigaro.fr/international/gaza-plus-de-1000-membres-du-hamas-hospitalises-en-turquie-annonce-recep-tayyip-erdogan-20240514">La ville frontalière accueille plus d’un million de déplacés</a></td>
+<td style="text-align: left;">Le Figaro</td>
+</tr>
+<tr>
+<td style="text-align: left;">5/17/2024</td>
+<td style="text-align: left;"><a href="https://www.voaafrica.com/a/satellite-imagery-reveals-widespread-damage-to-rafah/7616148.html">Satellite imagery reveals widespread damage to Rafah</a></td>
+<td style="text-align: left;">Voice of America Africa</td>
+</tr>
+<tr>
+<td style="text-align: left;">5/22/2024</td>
+<td style="text-align: left;"><a href="https://www.haaretz.co.il/news/security/2024-05-22/ty-article/.premium/0000018f-9f3d-da3b-a7ff-9fbd3b760000">שיטוח מבנים והרס נרחב באזורים צפופים: כך נראה "המבצע המוגבל" ברפיח</a></td>
+<td style="text-align: left;">Haaretz</td>
+</tr>
+<tr>
+<td style="text-align: left;">5/25/2024</td>
+<td style="text-align: left;"><a href="https://www.wsj.com/world/middle-east/the-u-s-built-a-320-million-pier-to-get-aid-to-gazans-little-of-it-has-reached-them-f14e0175?st=jmdg25dgi4ixl2h&amp;reflink=article_copyURL_share">The U.S. Built a $320 Million Pier to Get Aid to Gazans. Little of It Has Reached Them.</a></td>
+<td style="text-align: left;">Wall Street Journal</td>
+</tr>
+<tr>
+<td style="text-align: left;">5/28/2024</td>
+<td style="text-align: left;"><a href="https://elpais.com/internacional/2024-05-29/mapas-hamas-resurge-en-areas-de-gaza-que-israel-consideraba-desmanteladas.html">Hamás resurge en áreas de Gaza que Israel consideraba desmanteladas</a></td>
+<td style="text-align: left;">El Pais</td>
+</tr>
+<tr>
+<td style="text-align: left;">5/30/2024</td>
+<td style="text-align: left;"><a href="https://www.ft.com/content/89f91420-632a-4c1d-96b0-1cec16f06123">Satellite images show Rafah transformed into combat zone</a></td>
+<td style="text-align: left;">Financial Times</td>
+</tr>
+<tr>
+<td style="text-align: left;">5/30/2024</td>
+<td style="text-align: left;"><a href="https://ici.radio-canada.ca/info/en-direct/1011614/guerre-hamas-palestiniens-israel-gaza?publication=2076767">L’aide humanitaire attend au large de Gaza que la jetée soit réparée</a></td>
+<td style="text-align: left;">Radio Canada</td>
+</tr>
+<tr>
+<td style="text-align: left;">5/29/2024</td>
+<td style="text-align: left;"><a href="https://amp.theguardian.com/world/article/2024/may/30/israel-idf-philadelphi-corridor-rafah-gaza-control-palestine-war-hamas">Israel in effective control of entire Gaza land border after taking Philadelphi Corridor in south</a></td>
+<td style="text-align: left;">Guardian</td>
+</tr>
+<tr>
+<td style="text-align: left;">5/30/2024</td>
+<td style="text-align: left;"><a href="https://www.theguardian.com/world/article/2024/may/30/egypt-israel-relations-gaza-philadelphi-corridor-buffer-zone-takeover">Egypt tight-lipped over Israeli takeover of Gaza buffer zone</a></td>
+<td style="text-align: left;">Guardian</td>
+</tr>
+<tr>
+<td style="text-align: left;">5/31/2024</td>
+<td style="text-align: left;"><a href="https://www.washingtonpost.com/world/2024/05/31/israel-rafah-offensive-hamas-biden/">Mapping Israel’s expanding battle for Rafah, a test of U.S. red lines</a></td>
+<td style="text-align: left;">Washington Post</td>
+</tr>
+<tr>
+<td style="text-align: left;">7/9/2024</td>
+<td style="text-align: left;"><a href="https://www.wsj.com/world/middle-east/israeli-troops-return-to-gaza-city-months-after-leaving-7f5c5093?st=yxwhsa1y5n01sbn&amp;reflink=desktopwebshare_permalink">Israeli Troops Return to Gaza City</a></td>
+<td style="text-align: left;">Wall Street Journal</td>
+</tr>
+<tr>
+<td style="text-align: left;">7/1/2024</td>
+<td style="text-align: left;"><a href="https://www.ejiltalk.org/the-satellite-era-how-earth-observation-data-is-being-mobilized-as-potential-digital-evidence/">The Satellite Era: How Earth Observation Data is Being Mobilized as Potential Digital Evidence</a></td>
+<td style="text-align: left;">European Journal of International Law</td>
+</tr>
+</tbody>
+</table>
+    </div>
+  </main>
+</body>
+</html>
