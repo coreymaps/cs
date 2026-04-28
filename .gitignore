@@ -10,3 +10,6 @@ content/project/.DS_Store
 content/.DS_Store
 themes/academic
 content/project/.DS_Store
+
+# Local Netlify folder
+.netlify

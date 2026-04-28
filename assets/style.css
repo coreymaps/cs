@@ -1,0 +1,128 @@
+:root {
+  --bg: #fafaf7;
+  --fg: #1a1a1a;
+  --muted: #6a6a6a;
+  --rule: #d8d6d0;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #14141a;
+    --fg: #e8e6e0;
+    --muted: #8a8a90;
+    --rule: #2a2a30;
+  }
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  padding: 0;
+  background: var(--bg);
+  color: var(--fg);
+  font-family: "Iowan Old Style", "Charter", "Source Serif Pro", Georgia, serif;
+  font-size: 18px;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+main {
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 6rem 1.5rem 5rem;
+}
+
+h1 {
+  font-size: 1.6rem;
+  font-weight: 500;
+  letter-spacing: -0.005em;
+  margin: 0 0 0.5rem;
+}
+
+.tagline {
+  color: var(--muted);
+  font-style: italic;
+  margin: 0 0 1.6rem;
+  font-size: 1rem;
+}
+
+.affiliation {
+  margin: 0 0 2.8rem;
+}
+
+a {
+  color: var(--fg);
+  text-decoration: none;
+  border-bottom: 1px solid var(--rule);
+}
+a:hover {
+  border-bottom-color: var(--fg);
+}
+
+nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem 1.4rem;
+  font-size: 0.95rem;
+  border-top: 1px solid var(--rule);
+  padding-top: 1.6rem;
+}
+nav a {
+  color: var(--muted);
+  border-bottom: none;
+}
+nav a:hover {
+  color: var(--fg);
+}
+
+.back {
+  font-size: 0.95rem;
+  margin: 0 0 3rem;
+}
+.back a {
+  color: var(--muted);
+  border-bottom: none;
+}
+.back a:hover {
+  color: var(--fg);
+}
+
+h2 {
+  font-size: 0.85rem;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin: 2.8rem 0 1rem;
+}
+h2:first-of-type { margin-top: 0; }
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+li {
+  margin: 0 0 0.7rem;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+li em {
+  color: var(--muted);
+  font-style: italic;
+}
+
+.archive-link {
+  margin-top: 3rem;
+  font-size: 0.9rem;
+}
+.archive-link a {
+  color: var(--muted);
+  border-bottom: none;
+}
+.archive-link a:hover {
+  color: var(--fg);
+}
