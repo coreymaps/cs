@@ -140,7 +140,6 @@ nav a:hover { color: var(--fg); }
   margin-top: 0.6rem;
   font-size: 0.85rem;
   color: var(--muted);
-  font-style: italic;
   text-align: right;
 }
 .visual figcaption a {
@@ -153,7 +152,7 @@ nav a:hover { color: var(--fg); }
 }
 .visual .attribution {
   display: block;
-  font-style: normal;
+  font-style: italic;
   font-size: 0.78rem;
   margin-top: 0.2rem;
 }
