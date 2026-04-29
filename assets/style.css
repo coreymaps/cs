@@ -84,6 +84,52 @@ nav a {
 }
 nav a:hover { color: var(--fg); }
 
+.recent {
+  border-top: 1px solid var(--rule);
+  padding-top: 1.2rem;
+  margin-top: 1.5rem;
+  font-size: 0.85rem;
+}
+.recent h2 {
+  font-size: 0.78rem;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin: 0 0 0.8rem;
+}
+.recent ul {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 0.8rem;
+}
+.recent li {
+  margin-bottom: 0.55rem;
+  line-height: 1.45;
+}
+.recent time {
+  color: var(--muted);
+  font-variant-numeric: tabular-nums;
+}
+.recent em {
+  color: var(--muted);
+  font-style: italic;
+}
+.recent a {
+  color: var(--fg);
+  border-bottom: 1px solid var(--rule);
+}
+.recent a:hover { border-bottom-color: var(--fg); }
+.recent .more {
+  margin: 0;
+  font-size: 0.8rem;
+}
+.recent .more a {
+  color: var(--muted);
+  border-bottom: none;
+}
+.recent .more a:hover { color: var(--fg); }
+
 .visual { margin: 0; }
 .visual img {
   width: 100%;
