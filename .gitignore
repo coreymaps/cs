@@ -13,3 +13,6 @@ content/project/.DS_Store
 
 # Local Netlify folder
 .netlify
+
+# Claude Code local state
+.claude/

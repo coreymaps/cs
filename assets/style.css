@@ -95,6 +95,7 @@ nav a:hover { color: var(--fg); }
   font-size: 0.85rem;
   color: var(--muted);
   font-style: italic;
+  text-align: right;
 }
 .visual figcaption a {
   color: var(--muted);
@@ -132,7 +133,22 @@ nav a:hover { color: var(--fg); }
 
 .back {
   font-size: 0.95rem;
-  margin: 0 0 3rem;
+  margin: 0 0 1.5rem;
+}
+
+.page-intro {
+  font-size: 0.95rem;
+  color: var(--muted);
+  font-style: italic;
+  margin: 0 0 2.5rem;
+}
+.page-intro a {
+  color: var(--muted);
+  border-bottom: 1px solid var(--rule);
+}
+.page-intro a:hover {
+  color: var(--fg);
+  border-bottom-color: var(--fg);
 }
 .back a {
   color: var(--muted);
@@ -181,6 +197,39 @@ ul.projects p {
   color: var(--muted);
   font-size: 0.95rem;
   line-height: 1.5;
+}
+
+ul.publications li {
+  margin: 0 0 1.4rem;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+ul.publications a {
+  color: var(--fg);
+  border-bottom: 1px solid var(--rule);
+}
+ul.publications a:hover { border-bottom-color: var(--fg); }
+ul.publications .meta {
+  display: block;
+  margin-top: 0.2rem;
+  color: var(--muted);
+  font-size: 0.92rem;
+}
+
+.topic-feature {
+  margin: 0 0 1.5rem;
+}
+.topic-feature img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+.topic-feature figcaption {
+  margin-top: 0.4rem;
+  font-size: 0.85rem;
+  color: var(--muted);
+  font-style: italic;
+  text-align: right;
 }
 
 .archive-link {

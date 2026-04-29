@@ -72,6 +72,50 @@ PAGE = """<!DOCTYPE html>
 md = markdown.Markdown(extensions=["tables", "fenced_code", "md_in_html"])
 
 
+def merge_title_link_columns(text):
+    """In any markdown pipe-table whose header has both Title and Link columns,
+    drop the Link column and turn each Title cell into [title](link)."""
+    out_lines = []
+    i = 0
+    lines = text.splitlines()
+    while i < len(lines):
+        line = lines[i]
+        # detect a header row + separator row of a markdown table
+        if (line.strip().startswith("|") and i + 1 < len(lines)
+                and re.match(r'^\s*\|[\s:|-]+\|\s*$', lines[i+1])):
+            header_cells = [c.strip() for c in line.strip().strip("|").split("|")]
+            lower = [h.lower() for h in header_cells]
+            if "title" in lower and "link" in lower:
+                t_idx = lower.index("title")
+                l_idx = lower.index("link")
+                # rewrite header (drop link col)
+                new_header = [c for j, c in enumerate(header_cells) if j != l_idx]
+                out_lines.append("| " + " | ".join(new_header) + " |")
+                # rewrite separator
+                sep_cells = [s.strip() for s in lines[i+1].strip().strip("|").split("|")]
+                new_sep = [c for j, c in enumerate(sep_cells) if j != l_idx]
+                out_lines.append("|" + "|".join(new_sep) + "|")
+                # rewrite body rows
+                j = i + 2
+                while j < len(lines) and lines[j].strip().startswith("|"):
+                    cells = [c.strip() for c in lines[j].strip().strip("|").split("|")]
+                    if len(cells) > max(t_idx, l_idx):
+                        title_cell = cells[t_idx]
+                        link_cell = cells[l_idx]
+                        if link_cell.startswith("http"):
+                            cells[t_idx] = f"[{title_cell}]({link_cell})"
+                        new_cells = [c for k, c in enumerate(cells) if k != l_idx]
+                        out_lines.append("| " + " | ".join(new_cells) + " |")
+                    else:
+                        out_lines.append(lines[j])
+                    j += 1
+                i = j
+                continue
+        out_lines.append(line)
+        i += 1
+    return "\n".join(out_lines)
+
+
 for slug in ORDER:
     src_file = SRC / slug / "index.md"
     if not src_file.exists():
@@ -87,6 +131,7 @@ for slug in ORDER:
     hero = f'<figure class="project-hero"><img src="{img}" alt=""></figure>' if img else ""
     summary_html = f'<p class="project-summary">{summary}</p>' if summary else ""
 
+    body = merge_title_link_columns(body)
     md.reset()
     body_html = md.convert(body)
 
