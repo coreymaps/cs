@@ -22,7 +22,7 @@ bio:
 
 interests:
 - conflict earth observation
-- humanitarian geospatial intelligence
+- humanitarian geospatial analytics
 - synthetic aperture radar (interferometry)
 
 
@@ -75,7 +75,7 @@ email: ""
 # - Visitors
 ---
 
-earth observation in conflict and disaster · humanitarian intelligence · InSAR
+earth observation in conflict and disaster · humanitarian geospatial analytics · InSAR
 
 Postdoctoral Researcher, [Conflict Ecology](https://www.conflict-ecology.org), Oregon State University
 
